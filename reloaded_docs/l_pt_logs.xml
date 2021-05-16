@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<list>
+	<text>
+		<id>1</id>
+		<name>Já não tô mais sangrando.</name>
+	</text>
+	<text>
+		<id>2</id>
+		<name>Tô me sentindo ótimo.</name>
+	</text>
+	<text>
+		<id>3</id>
+		<name>Meu sangue tá escorrendo.</name>
+	</text>
+	<text>
+		<id>4</id>
+		<name>Tô congelando.</name>
+	</text>
+	<text>
+		<id>5</id>
+		<name>Tô morrendo de fome.</name>
+	</text>
+	<text>
+		<id>6</id>
+		<name>Tô morrendo de sede.</name>
+	</text>
+	<text>
+		<id>7</id>
+		<name>Achei alguma coisa nesse porta-malas.</name>
+	</text>
+	<text>
+		<id>8</id>
+		<name>Não tem nada nesse porta-malas</name>
+	</text>
+	<text>
+		<id>9</id>
+		<name>Não tem mais munição.</name>
+	</text>
+	<text>
+		<id>10</id>
+		<name>Cartucho vazio.</name>
+	</text>
+	<text>
+		<id>11</id>
+		<name>A arma já era!</name>
+	</text>
+	<text>
+		<id>12</id>
+		<name>Não tem água nessa bomba.</name>
+	</text>
+	<text>
+		<id>13</id>
+		<name>Não tô com sede.</name>
+	</text>
+	<text>
+		<id>14</id>
+		<name>Comi um bife cru.</name>
+	</text>
+	<text>
+		<id>15</id>
+		<name>Preciso de uma bomba d’água pra isso.</name>
+	</text>
+	<text>
+		<id>16</id>
+		<name>Enchi com uma bomba d’água.</name>
+	</text>
+	<text>
+		<id>17</id>
+		<name>Comi: </name>
+	</text>
+	<text>
+		<id>18</id>
+		<name>Bebi: </name>
+	</text>
+	<text>
+		<id>19</id>
+		<name>Usei: </name>
+	</text>
+	<text>
+		<id>32</id>
+		<name>Arma totalmente carregada.</name>
+	</text>
+	<text>
+		<id>33</id>
+		<name>Munição carregada.</name>
+	</text>
+	<text>
+		<id>34</id>
+		<name>Não cabe.</name>
+	</text>
+	<text>
+		<id>36</id>
+		<name>Não tô sangrando.</name>
+	</text>
+	<text>
+		<id>37</id>
+		<name>A transfusão de sangue terminou.</name>
+	</text>
+	<text>
+		<id>38</id>
+		<name>Já carregou.</name>
+	</text>
+	<text>
+		<id>39</id>
+		<name>Preciso de uma lanterna ou de um OVN.</name>
+	</text>
+	<text>
+		<id>40</id>
+		<name>Preciso fazer uma fogueira no chão pra acender.</name>
+	</text>
+	<text>
+		<id>42</id>
+		<name>A transfusão salina terminou.</name>
+	</text>
+	<text>
+		<id>44</id>
+		<name>A arma já era.</name>
+	</text>
+	<text>
+		<id>45</id>
+		<name>Arma limpa.</name>
+	</text>
+	<text>
+		<id>47</id>
+		<name>Tanque cheio.</name>
+	</text>
+	<text>
+		<id>48</id>
+		<name>Preciso de um veículo funcionando pra isso.</name>
+	</text>
+	<text>
+		<id>49</id>
+		<name>Garrafa vazia.</name>
+	</text>
+	<text>
+		<id>50</id>
+		<name>Bebi da garrafa d’água.</name>
+	</text>
+	<text>
+		<id>51</id>
+		<name>Cantil vazio.</name>
+	</text>
+	<text>
+		<id>52</id>
+		<name>Bebi do cantil.</name>
+	</text>
+	<text>
+		<id>53</id>
+		<name>Mina plantada.</name>
+	</text>
+	<text>
+		<id>54</id>
+		<name>Armadilha de urso preparada.</name>
+	</text>
+	<text>
+		<id>55</id>
+		<name>Veículo consertado.</name>
+	</text>
+	<text>
+		<id>56</id>
+		<name>Assei um bife.</name>
+	</text>
+	<text>
+		<id>57</id>
+		<name>Preciso de uma fogueira acesa pra isso.</name>
+	</text>
+	<text>
+		<id>59</id>
+		<name>Bebi uma Nuko Cola. Que delícia!</name>
+	</text>
+	<text>
+		<id>60</id>
+		<name>Presa esfolada.</name>
+	</text>
+	<text>
+		<id>61</id>
+		<name>Nada a esfolar.</name>
+	</text>
+	<text>
+		<id>62</id>
+		<name>Sem espaços disponíveis.</name>
+	</text>
+	<text>
+		<id>63</id>
+		<name>A faca já era.</name>
+	</text>
+	<text>
+		<id>64</id>
+		<name>Preciso de mais gravetos pra isso.</name>
+	</text>
+	<text>
+		<id>65</id>
+		<name>A lanterna já era.</name>
+	</text>
+	<text>
+		<id>66</id>
+		<name>O OVN já era.</name>
+	</text>
+	<text>
+		<id>68</id>
+		<name>Precisa de uma picareta, uma forquilha ou uma pá.</name>
+	</text>
+	<text>
+		<id>69</id>
+		<name>Não rola plantar aqui.</name>
+	</text>
+	<text>
+		<id>70</id>
+		<name>Plantado.</name>
+	</text>
+	<text>
+		<id>72</id>
+		<name>Preciso de uma faca pra esfolar as presas.</name>
+	</text>
+	<text>
+		<id>73</id>
+		<name>Não tenho arma de longo alcance.</name>
+	</text>
+	<text>
+		<id>74</id>
+		<name>Toque onde quiser jogar o sinalizador.</name>
+	</text>
+	<text>
+		<id>75</id>
+		<name>Toque onde quiser jogar a granada.</name>
+	</text>
+	<text>
+		<id>76</id>
+		<name>Já encheu.</name>
+	</text>
+	<text>
+		<id>77</id>
+		<name>Bebi da bomba d’água.</name>
+	</text>
+	<text>
+		<id>78</id>
+		<name>Quero bater um rango.</name>
+	</text>
+	<text>
+		<id>79</id>
+		<name>Quero matar a sede.</name>
+	</text>
+	<text>
+		<id>80</id>
+		<name>Tá muito frio.</name>
+	</text>
+	<text>
+		<id>81</id>
+		<name>Tô me resfriando.</name>
+	</text>
+	<text>
+		<id>82</id>
+		<name>Tô esquentando.</name>
+	</text>
+	<text>
+		<id>83</id>
+		<name>Preciso de mais carga na bateria.</name>
+	</text>
+	<text>
+		<id>84</id>
+		<name>Parece que não têm acidentes militares por perto.</name>
+	</text>
+	<text>
+		<id>85</id>
+		<name>Parece que tem um local de acidente militar por perto.</name>
+	</text>
+	<text>
+		<id>100</id>
+		<name>Merda, tô machucado pra caramba.</name>
+	</text>
+	<text>
+		<id>101</id>
+		<name>Beleza, tô de olho.</name>
+	</text>
+	<text>
+		<id>102</id>
+		<name>Vou dar cobertura enquanto você faz o saque.</name>
+	</text>
+	<text>
+		<id>103</id>
+		<name>Você tá bloqueando o alvo!</name>
+	</text>
+	<text>
+		<id>104</id>
+		<name>Vamos se unir, meu!</name>
+	</text>
+	<text>
+		<id>105</id>
+		<name>Não vale!</name>
+	</text>
+	<text>
+		<id>106</id>
+		<name>Caramba, ele tem uma arma!</name>
+	</text>
+	<text>
+		<id>107</id>
+		<name>Merda!</name>
+	</text>
+	<text>
+		<id>108</id>
+		<name>Chega aqui!</name>
+	</text>
+	<text>
+		<id>109</id>
+		<name>Toma isso!</name>
+	</text>
+	<text>
+		<id>110</id>
+		<name>Tô te vendo!</name>
+	</text>
+	<text>
+		<id>111</id>
+		<name>Tenho nada pra trocar. Foi mal, pergunta pra outro aí.</name>
+	</text>
+	<text>
+		<id>125</id>
+		<name>Sou da paz.</name>
+	</text>
+	<text>
+		<id>126</id>
+		<name>Ótimo.</name>
+	</text>
+	<text>
+		<id>127</id>
+		<name>Valeu por reparar o barco pra gente.</name>
+	</text>
+
+<!-- Update 1.2.0 addings -->
+
+<text>
+	<id>86</id>
+	<name>Este fuzil não pode ser cortado.</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>Esta porta está completamente quebrada.</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>Tem gás aqui! Preciso de uma máscara de gás!</name>
+</text>
+	
+<!-- Update 1.3.0 addings -->
+
+<text>
+	<id>89</id>
+	<name>Preciso de um veículo motorizado para isso.</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>Não posso fazer isso dentro do carro.</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>Este veículo já está em boas condições.</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>Este veículo já está totalmente abastecido.</name>
+</text>
+
+<!-- Quests -->
+
+<text>
+	<id>131</id>
+	<name>Não tenho nada a te dizer.</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>Preciso de um lago ou do mar para isso.</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>Não estou vendo nenhum peixe por perto.</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>Não estou doente.</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>Obrigado mais uma vez pela sua ajuda. Vamos partir em breve.
+</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>Há uma nota com informações sobre alguns lugares no mapa.</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>Valeu! Sua recompensa está marcada no mapa.</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>Peguei!</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>Maldito, escapou.</name>
+</text>
+
+</list>

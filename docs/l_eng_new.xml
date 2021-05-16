@@ -1,0 +1,2445 @@
+<?xml version="1.0" ?>
+
+<list>
+<!-- Inventory items-->
+<text>
+	<id>1</id>
+	<name>Food +30
+Water +5
+</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>Food +20
+</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>Food +35
+</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>Food +65
+</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>Food +15
+Water +5
+Max stack: 3
+
+Can be planted with pickaxe, pitchfork or shovel.
+</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>Food +15
+Water +5
+Max stack: 3
+</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>Food +15
+Water +5
+Max stack: 3
+</name>
+</text>
+
+<text>
+	<id>8</id>
+	<name>Water +30
+</name>
+</text>
+
+<text>
+	<id>9</id>
+	<name>Water +30
+</name>
+</text>
+
+<text>
+	<id>10</id>
+	<name>Water +50
+</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>Ammo for: M4, L85, FN CAL, AUG.
+Max stack: 30
+</name>
+</text>
+
+<text>
+	<id>12</id>
+	<name>Ammo for: FNX, Colt, UMP-45.
+Max stack: 30
+</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>Ammo for: Sawed Mosin, Mosin Nagant, SVD, SV-98, Madsen.
+Max stack: 20
+</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>Ammo for: SKS, AKM, RPK.
+Max stack: 30
+</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>Ammo for: AK-74u, AK-74, AN-94.
+Max stack: 30
+</name>
+</text>
+
+<text>
+	<id>16</id>
+	<name>Ammo for: Magnum, Mare's Leg, Repeater.
+Max stack: 30
+</name>
+</text>
+
+<text>
+	<id>17</id>
+	<name>Ammo for: IZH-43, Sawed IZH, Remington, Saiga-12k.
+Max stack: 15
+</name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>Stops Bleeding.
+Apply time: 3 seconds.
+Max stack: 3
+</name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>+50 Blood.
+Apply time: 6 seconds.
+</name>
+</text>
+
+<text>
+	<id>20</id>
+	<name>Lights environment. Attract nearby zombies when burns. Burns for 90 seconds. 
+</name>
+</text>
+
+<text>
+	<id>21</id>
+	<name>Explodes heavily after 2 seconds. 
+</name>
+</text>
+
+<text>
+	<id>22</id>
+	<name>Used in Radio, NVG, Headlamp.
+</name>
+</text>
+
+<text>
+	<id>23</id>
+	<name>After deploy can be liten up with matches. Burns for 3 minutes. Can be used 3 times.
+</name>
+</text>
+
+<text>
+	<id>24</id>
+	<name>Can lit Campfire kit to make fireplace. 
+</name>
+</text>
+
+<text>
+	<id>25</id>
+	<name>+20 Water
++40 Heat
+
+Ingridient for: Molotov cocktail.
+</name>
+</text>
+
+<text>
+	<id>26</id>
+	<name>Stops Bleeding.
+Apply time: 5 seconds.
+Max stack: 3
+
+Ingridient for: Molotov cocktail, Campfire kit.
+</name>
+</text>
+
+<text>
+	<id>27</id>
+	<name>Food +15
+Water +15
+Max stack: 3
+</name>
+</text>
+
+<text>
+	<id>28</id>
+	<name>+25 Blood.
+Apply time: 6 seconds.
+</name>
+</text>
+
+<text>
+	<id>29</id>
+	<name>Doubles blood regeneration speed for 60 seconds. 
+</name>
+</text>
+
+<text>
+	<id>30</id>
+	<name>Water +50
+</name>
+</text>
+
+<text>
+	<id>31</id>
+	<name>+20 Food
++20 Water
+Max stack: 3
+
+Can be planted with pickaxe, pitchfork or shovel.
+</name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>+20 Food
++5 Water
+Max stack: 3
+
+Can be planted with pickaxe, pitchfork or shovel.
+</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>+15 Food
++15 Water
+Max stack: 3
+</name>
+</text>
+
+<text>
+	<id>34</id>
+	<name>+25 Heat
+</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>+50% Durability when used on some gear.
+</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>+25% Durability to Firearms.
+</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>Ingridient for: Fishing rod, Improvised Bow.
+</name>
+</text>
+
+<text>
+	<id>38</id>
+	<name>Ingridient for: Campfire kit, Improvised Arrows, Improvised backpack, Improvised Fence.
+Max stack: 5
+</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>+15% durability when used on some gear.
+Required for boat repair to get on 3rd island.
+</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>Ingridient for: Improvised Bag.
+</name>
+</text>
+
+<text>
+	<id>41</id>
+	<name>Ingridient for: Improvised Bag, Improvised bow, Fishing rod.
+</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>Required to flay animals.
+
+Damage: 14-24
+Crit chance: 10%
+Block chance: 5%
+Attack speed: 0.8s
+</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>Required to flay animals.
+
+Damage: 15-25
+Crit chance: 15%
+Block chance: 5%
+Attack speed: 0.8s
+</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>Required to flay animals.
+
+Damage: 16-26
+Crit chance: 20%
+Block chance: 5%
+Attack speed: 0.8s
+</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>For 10 seconds gives +50 Blood each second and increases movement speed. 
+At the end of the effect drops blood to 25.
+</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>Removes sickness. Also provides immunity to sickness for 5 minutes.
+Apply time: 3 seconds.
+</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>Can be used up to 5 times.
+Can be planted with pickaxe, pitchfork or shovel.
+</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>Can be used up to 5 times.
+Can be planted with pickaxe, pitchfork or shovel.
+</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>Ingridient for: Campfire Kit.
+</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>Ingridient for: Campfire Kit, Fence.
+Required for boat repair to get on 2nd island.
+</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>Have 75% chance to break after shot.
+Ammo for: Improvised Bow, Crossbow.
+Damage: 37-63
+Max stack: 5
+</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>Have 50% chance to break after shot.
+Ammo for: Improvised Bow, Crossbow.
+Damage: 56-94
+Max stack: 5
+</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>+50 Fuel when used on drivable vehicle.
+Required for boat repair to get on 4th island.
+</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>+12 Water per use.
+Can be refilled with water pumps.
+</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>+25 Water per use.
+Can be refilled with water pumps.
+</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>After deploy and trigger explodes with radial shrapnels. Cant be triggered by you.
+</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>After deploy and trigger deals 200 Damage to target. Cant be triggered by you.
+</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>Ammo for: Sporter 22, Amphibia pistol.
+Max stack: 50
+</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>Repairs drivable vehicle on +25%.
+</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>+25 Food
++10 Water
+50% chance to get sickness when eaten.
+
+Can be cooked on fireplace.
+</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>+50 Food
++10 Water
++15 Blood
+</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>+100 Water
++50 XP
+Doubles blood regeneration speed for 60 seconds.
+</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>+15% Movement speed for 20 seconds.
+</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>+15% Movement speed for 20 seconds.
+</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>Ammo for: Glock, Mp5k, Mac-10.
+Max stack: 40
+</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>When deployed - slows down enemies for 2 seconds.
+</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>+25 Food
++10 Water
+50% chance to get sickness when eaten.
+
+Can be cooked on fireplace.
+</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>+35 Food
++10 Water
++30 Blood.
+</name>
+</text>
+
+<text>
+	<id>73</id>
+	<name>+10 Food
++10 Water
+Doubles blood regeneration speed for 30 seconds.
+Max stack: 3
+</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>+10 Food
++20 Water
+Max stack: 3
+</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>Marks on map broken military jeeps and helicopter crashsites in nearest areas. 10% battery per use.
+</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>+5% to make a headshot when attached.
+-2 to firearm default spread.
+
+Can be mounted on: MP5k, UMP-45, AK-74u, Ak-74, AN-94, AKM, M4, L85, FN CAL, RPK, Saiga12k, Bizon, Groza, VSS.
+</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>+15% to make a headshot when attached.
+-4 to firearm default spread.
+
+Can be mounted on: SKS, Mosin.
+</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>+15% to make a headshot when attached.
+-4 to firearm default spread.
+
+Can be mounted on: AK-74u, Ak-74, AN-94, AKM, RPK, Groza, VSS.
+</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>+15% to make a headshot when attached.
+-4 to firearm default spread.
+
+Can be mounted on: MP5k, UMP-45, M4, L85, FN-CAL
+</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>When attached to weapon make shooting noiseless.
+
+Can be mounted on: AK-74u, AN-94, Ak-74.
+</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>When attached to weapon makes shooting noiseless.
+		
+Can be mounted on: M4, L85, FN-CAL, AUG.
+</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>Allows to make sawed off versions of IZH-43, Mosin Nagant or Repeater.
+</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>When attached to weapon makes magazine reload 30% faster.
+
+Can be mounted on: IZH-43, Remington, SKS, Mosin Nagant, Repeater.
+</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>+40 Food
++40 Water
+Can be used 2 times.
+</name>
+</text>
+
+<text>
+	<id>86</id>
+	<name>Can be used to catch fish in water ponds.
+Uses 10% durability per use.
+</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>Can be used to catch fish in water ponds.
+Uses 25% durability per use.
+</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>Survivor's lost stuff. Can be opened or returned back.
+</name>
+</text>
+
+<text>
+	<id>89</id>
+	<name>When attached to weapon makes magazine reload 30% faster.
+
+Can be mounted on: AK-74u, Ak-74, AN-94, AKM, M4, L85, FN CAL, AUG, RPK, Saiga12k, Groza, VSS.
+</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>Decreases pellets spread for shotguns.
+
+Can be mounted on: IZH-43, Remington, Saiga-12k.
+</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>+10 Food
++10 Water
+50% chance to get sickness when eaten.
+
+Can be cooked on fireplace.
+</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>+35 Food
++15 Water
+50% chance to get sickness when eaten.
+
+Can be cooked on fireplace.
+</name>
+</text>
+
+<text>
+	<id>93</id>
+	<name>+10 Food
++10 Water
+50% chance to get sickness when eaten.
+
+Can be cooked on fireplace.
+</name>
+</text>
+
+<text>
+	<id>94</id>
+	<name>+35 Food
++15 Water
+50% chance to get sickness when eaten.
+
+Can be cooked on fireplace.
+</name>
+</text>
+
+<text>
+	<id>95</id>
+	<name>+25 Food
++10 Water
++10 Blood
+</name>
+</text>
+
+<text>
+	<id>96</id>
+	<name>+50 Food
++10 Water
++10 Blood
+</name>
+</text>
+
+<text>
+	<id>97</id>
+	<name>Bad trip guaranteed
+</name>
+</text>
+
+<text>
+	<id>98</id>
+	<name>+25% to make a headshot when attached.
+-6 to firearm default spread.
+
+Can be mounted on: SKS, Mosin Nagant, SVD, SV-98.
+</name>
+</text>
+
+<text>
+	<id>99</id>
+	<name>After deploy and trigger blasts in front direction.
+</name>
+</text>
+
+<text>
+	<id>100</id>
+	<name>Ammo for: PM, PB, Bizon.
+Max stack: 40
+</name>
+</text>
+
+<text>
+	<id>101</id>
+	<name>Ammo for: VSS, Groza.
+Max stack: 30
+</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>After throw explodes and burns enemies.
+</name>
+</text>
+
+<text>
+	<id>103</id>
+	<name>Flare gun. After shot it calls airdrop. Airdrop will be delivered in 20 seconds.
+</name>
+</text>
+
+<text>
+	<id>104</id>
+	<name>Ammo for mounted machine gun on drivable Humvee.
+</name>
+</text>
+
+<text>
+	<id>105</id>
+	<name>Ammo for M203 grenade launcher.
+Max stack: 3
+</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>Ammo for GP-25 grenade Launcher.
+Max stack: 3
+</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>West under-barrel grenade launcher.
+Allows to shoot 40mm grenades when attached.
+
+Can be mounted on: M4, L85, FN-CAL, AUG.
+</name>
+</text>
+
+<text>
+	<id>108</id>
+	<name>East under-barrel grenade launcher.
+Allows to shoot VOG-25 grenades when attached.
+
+Can be mounted on: AK-74, AKM, AN-94.
+</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>You can fill it with your own blood for later use.
+Requires minimum 50% blood level.
+</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>Special stone used to sharp blades.
++25 durability on melee weapon when used.
+
+Can be used on: Hatchet, Fireaxe, Sword, Katana, Knives.
+</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>Universal front grip for AK rifles. 
+Heavily decrease maximum spread when shooting. Makes shooting on run and long shooting more efficent.  
+
+Can be used on: AK-74, AKM, RPK.
+</name>
+</text>
+
+<text>
+	<id>112</id>
+	<name>Front grip for weapons with Pic rails. 
+Heavily decrease maximum spread when shooting. Makes shooting on run and long shooting more efficent.  
+
+Can be used on: UMP-45, M4, L85.
+</name>
+</text>
+
+<text>
+	<id>113</id>
+	<name>Small notepad, containing coordinates of interesting places on this island.
+If you do not use it, then it will be removed on next island. 
+</name>
+</text>
+
+<text>
+	<id>114</id>
+	<name>+10 Food
++10 Water
++2 Blood
+</name>
+</text>
+
+<text>
+	<id>115</id>
+	<name>
+</name>
+</text>
+
+<text>
+	<id>116</id>
+	<name>+200 XP
+</name>
+</text>
+
+<text>
+	<id>117</id>
+	<name>Ingridient for Loot Stash.
+</name>
+</text>
+<!-- Pistols-->
+<!-- fnx -->
+<text>
+	<id>211</id>
+	<name>Damage: 15-25
+Accuracy: 5
+Aim Speed: 10 
+Ammo: 45 ACP
+Mag size: 15
+</name>
+</text>
+
+<!-- colt -->
+
+<text>
+	<id>212</id>
+	<name>Damage: 18-32
+Accuracy: 6
+Aim Speed: 10 
+Ammo: 45 ACP
+Mag size: 7
+</name>
+</text>
+
+<!-- magnum -->
+
+<text>
+	<id>213</id>
+	<name>Damage: 33-57
+Accuracy: 6
+Aim Speed: 6 
+Ammo: .357
+Mag size: 6
+</name>
+</text>
+
+<!-- glock -->
+
+<text>
+	<id>214</id>
+	<name>Damage: 14-24
+Accuracy: 7
+Aim Speed: 10 
+Ammo: 9mm
+Mag size: 18
+</name>
+</text>
+
+<!-- amphibia-->
+
+<text>
+	<id>215</id>
+	<name>Have built-in silencer.
+Damage: 11-19
+Accuracy: 8
+Aim Speed: 10 
+Ammo: 22lr
+Mag size: 10
+</name>
+</text>
+
+<!-- IZH S-->
+
+<text>
+	<id>216</id>
+	<name>Damage: 15-125
+Accuracy: 1
+Aim Speed: 8 
+Ammo: 12cal
+Mag size: 2
+</name>
+</text>
+
+<!-- Mosin S-->
+
+<text>
+	<id>217</id>
+	<name>Damage: 67-113
+Accuracy: 1
+Aim Speed: 6
+Ammo: 7.62
+Mag size: 5
+</name>
+</text>
+
+<!-- Rare colt-->
+
+<text>
+	<id>218</id>
+	<name>Damage: 18-32
+Accuracy: 7
+Aim Speed: 10
+Ammo: 45 ACP
+Mag size: 12
+</name>
+</text>
+
+<!-- MAc-->
+
+<text>
+	<id>219</id>
+	<name>Damage: 12-25
+Accuracy: 2
+Aim Speed: 7
+Rate of fire: 10
+Ammo: 9mm
+Mag size: 30
+</name>
+</text>
+
+<!-- MAre-->
+
+<text>
+	<id>220</id>
+	<name>Damage: 33-57
+Accuracy: 2
+Aim Speed: 8
+Ammo: .357
+Mag size: 7
+</name>
+</text>
+
+<!-- PM-->
+
+<text>
+	<id>221</id>
+	<name>Damage: 18-30
+Accuracy: 4
+Aim Speed: 10
+Ammo: 9x18
+Mag size: 8
+</name>
+</text>
+
+<!-- PB-->
+
+<text>
+	<id>222</id>
+	<name>Have built-in silencer.
+Damage: 18-30
+Accuracy: 3
+Aim Speed: 10
+Ammo: 9x18
+Mag size: 8
+</name>
+</text>
+
+<!-- Deagle-->
+
+<text>
+	<id>222</id>
+	<name>Damage: 30-50
+Accuracy: 6
+Aim Speed: 7
+Ammo: .357
+Mag size: 9
+</name>
+</text>
+
+<!-- Main Weapons-->
+
+<!-- Mosin-->
+<text>
+	<id>232</id>
+	<name>Damage: 67-113
+Accuracy: 9
+Aim Speed: 4
+Rate of fire: 46
+Ammo: 7.62
+Mag size: 5
+</name>
+</text>
+
+<!-- M4-->
+<text>
+	<id>233</id>
+	<name>Damage: 18-30
+Accuracy: 8
+Aim Speed: 5
+Rate of fire: 600
+Ammo: 5.56
+Mag size: 30
+</name>
+</text>
+
+<!-- IZH -->
+<text>
+	<id>234</id>
+	<name>Damage: 15-125
+Accuracy: 8
+Aim Speed: 5
+Ammo: 5.56
+Mag size: 30
+</name>
+</text>
+
+<!-- IZH -->
+<text>
+	<id>234</id>
+	<name>Damage: 15-125
+Accuracy: 2
+Aim Speed: 4
+Ammo: 12cal
+Mag size: 2
+</name>
+</text>
+
+<!-- AK-74 -->
+<text>
+	<id>235</id>
+	<name>Damage: 18-32
+Accuracy: 7
+Aim Speed: 5
+Rate of fire: 600
+Ammo: 5.45
+Mag size: 30
+</name>
+</text>
+
+<!-- AKM -->
+<text>
+	<id>236</id>
+	<name>Damage: 26-44
+Accuracy: 7
+Aim Speed: 5
+Rate of fire: 460
+Ammo: 7.62x39
+Mag size: 30
+</name>
+</text>
+
+<!-- AK-74u -->
+<text>
+	<id>237</id>
+	<name>Damage: 18-32
+Accuracy: 6
+Aim Speed: 6
+Rate of fire: 750
+Ammo: 5.45
+Mag size: 30
+</name>
+</text>
+
+<!-- SKS -->
+<text>
+	<id>238</id>
+	<name>Damage: 33-57
+Accuracy: 8
+Aim Speed: 6
+Rate of fire: 200
+Ammo: 7.62x39
+Mag size: 10
+</name>
+</text>
+
+<!-- L85 -->
+<text>
+	<id>240</id>
+	<name>Damage: 18-30
+Accuracy: 9
+Aim Speed: 5
+Rate of fire: 500
+Ammo: 5.56
+Mag size: 30
+</name>
+</text>
+
+<!-- Remington -->
+<text>
+	<id>241</id>
+	<name>Damage: 15-125
+Accuracy: 2
+Aim Speed: 4
+Rate of fire: 66
+Ammo: 12cal
+Mag size: 6
+</name>
+</text>
+
+<!-- Bow -->
+<text>
+	<id>243</id>
+	<name>Damage: 37-94
+Accuracy: 6
+Aim Speed: 6
+Ammo: Composite or Improvised Arrows.
+Mag size: 1
+</name>
+</text>
+
+<!-- CrossBow -->
+<text>
+	<id>244</id>
+	<name>Damage: 37-94
+Accuracy: 9
+Aim Speed: 6
+Ammo: Composite or Improvised Arrows.
+Mag size: 1
+</name>
+</text>
+
+<!-- Sporter -->
+<text>
+	<id>246</id>
+	<name>Damage: 15-25
+Accuracy: 8
+Aim Speed: 6
+Rate of fire: 300
+Ammo: 22lr
+Mag size: 30
+</name>
+</text>
+
+<!-- Repeater -->
+<text>
+	<id>247</id>
+	<name>Damage: 30-50
+Accuracy: 7
+Aim Speed: 6
+Rate of fire: 85
+Ammo: .357
+Mag size: 7
+</name>
+</text>
+
+<!-- SVD -->
+<text>
+	<id>248</id>
+	<name>Damage: 60-100
+Accuracy: 9
+Aim Speed: 3
+Rate of fire: 150
+Ammo: 7.62
+Mag size: 10
+</name>
+</text>
+
+<!-- MP5k -->
+<text>
+	<id>249</id>
+	<name>Damage: 13-23
+Accuracy: 6
+Aim Speed: 6
+Rate of fire: 850
+Ammo: 9mm
+Mag size: 30
+</name>
+</text>
+
+<!-- UMP -->
+<text>
+	<id>251</id>
+	<name>Damage: 13-23
+Accuracy: 5
+Aim Speed: 6
+Rate of fire: 650
+Ammo: 45 ACP
+Mag size: 30
+</name>
+</text>
+
+<!-- RPk -->
+<text>
+	<id>252</id>
+	<name>Damage: 26-44
+Accuracy: 7
+Aim Speed: 6
+Rate of fire: 600
+Ammo: 7.62x39
+Mag size: 40
+</name>
+</text>
+
+<!-- FN CAL -->
+<text>
+	<id>253</id>
+	<name>Damage: 22-38
+Accuracy: 9
+Aim Speed: 5
+Rate of fire: 550
+Ammo: 5.56
+Mag size: 30
+</name>
+</text>
+
+<!-- Saiga12 -->
+<text>
+	<id>254</id>
+	<name>Damage: 15-125
+Accuracy: 1
+Aim Speed: 4
+Rate of fire: 200
+Ammo: 12cal
+Mag size: 8
+</name>
+</text>
+
+<!-- AUG -->
+<text>
+	<id>255</id>
+	<name>Have built-in scope giving +15% to make headshot.
+Damage: 18-30
+Accuracy: 9
+Aim Speed: 5
+Rate of fire: 650
+Ammo: 5.56
+Mag size: 30
+</name>
+</text>
+
+<!-- Bizon -->
+<text>
+	<id>256</id>
+	<name>Damage: 18-20
+Accuracy: 6
+Aim Speed: 6
+Rate of fire: 550
+Ammo: 9x18
+Mag size: 40
+</name>
+</text>
+
+<!-- Groza -->
+<text>
+	<id>257</id>
+	<name>Have built-in GP-25 Grenade launcher.
+Damage: 30-50
+Accuracy: 7
+Aim Speed: 6
+Rate of fire: 600
+Ammo: 9x39
+Mag size: 30
+</name>
+</text>
+
+<!-- VSS -->
+<text>
+	<id>258</id>
+	<name>Damage: 37-62
+Accuracy: 10
+Aim Speed: 5
+Rate of fire: 600
+Ammo: 9x39
+Mag size: 20
+</name>
+</text>
+
+<!-- SV98 -->
+<text>
+	<id>259</id>
+	<name>Damage: 61-106
+Accuracy: 9
+Aim Speed: 3
+Rate of fire: 66
+Ammo: 7.62
+Mag size: 10
+</name>
+</text>
+
+<!-- MAdsen -->
+<text>
+	<id>260</id>
+	<name>Very fragile rusty gun.
+Damage: 52-87
+Accuracy: 6
+Aim Speed: 6
+Rate of fire: 500
+Ammo: 7.62
+Mag size: 20
+</name>
+</text>
+
+<!-- AN94 -->
+<text>
+	<id>261</id>
+	<name>Shoots two-round bursts.
+Damage: 24-40
+Accuracy: 8
+Aim Speed: 3
+Rate of fire: 1800
+Ammo: 5.45
+Mag size: 30
+</name>
+</text>
+
+
+<!-- Slilenced Remington-->
+<text>
+	<id>262</id>
+	<name>Have built-in silencer.
+Damage: 15-125
+Accuracy: 2
+Aim Speed: 4
+Rate of fire: 66
+Ammo: 12cal
+Mag size: 6
+</name>
+</text>
+
+<!-- Backpacks -->
+<!-- Taloon -->
+<text>
+	<id>301</id>
+	<name>+3 Slots.
+</name>
+</text>
+
+<text>
+	<id>302</id>
+	<name>+7 Slots.
+</name>
+</text>
+
+<text>
+	<id>303</id>
+	<name>+5 Slots.
+</name>
+</text>
+
+<text>
+	<id>304</id>
+	<name>+2 Slots.
+</name>
+</text>
+
+<text>
+	<id>305</id>
+	<name>+3 Slots.
+</name>
+</text>
+
+<text>
+	<id>306</id>
+	<name>+5 Slots.
+</name>
+</text>
+
+<text>
+	<id>307</id>
+	<name>Can be deployed. Loot stored inside will never disappear. Cant be deployed back. ???
+</name>
+</text>
+
+<text>
+	<id>308</id>
+	<name>+6 Slots.
+</name>
+</text>
+
+<text>
+	<id>309</id>
+	<name>+1 Slot. 
+</name>
+</text>
+
+<!-- Pants -->
+<!-- Jeans -->
+<text>
+	<id>351</id>
+	<name>+2 Slot
++5 Heat 
+</name>
+</text>
+
+<!-- Worker -->
+<text>
+	<id>352</id>
+	<name>+3 Slot
++5 Heat 
+</name>
+</text>
+
+<!-- Sport -->
+<text>
+	<id>353</id>
+	<name>+1 Slot
++3 Heat 
+</name>
+</text>
+
+<!-- Gorka -->
+<text>
+	<id>354</id>
+	<name>+3 Slot
++7 Heat 
++2 Armor
+</name>
+</text>
+
+<!-- Medic -->
+<text>
+	<id>355</id>
+	<name>+2 Slot
++4 Heat 
+</name>
+</text>
+
+<!-- Orel -->
+<text>
+	<id>356</id>
+	<name>+2 Slot
++5 Heat 
++1 Armor
+</name>
+</text>
+
+<!-- Hunter -->
+<text>
+	<id>357</id>
+	<name>+3 Slot
++6 Heat
++1 Armor 
+</name>
+</text>
+
+<!-- Vest -->
+<!-- Bulletproof -->
+<text>
+	<id>401</id>
+	<name>+8 Armor
+</name>
+</text>
+
+<!-- assault -->
+<text>
+	<id>402</id>
+	<name>+2 Slots
++3 Armor
+</name>
+</text>
+
+<!-- press -->
+<text>
+	<id>403</id>
+	<name>+1 Slot
++6 Armor
+</name>
+</text>
+
+<!-- High Capacity -->
+<text>
+	<id>404</id>
+	<name>+3 Slot
++3 Armor
+</name>
+</text>
+
+<!-- Kevlar -->
+<text>
+	<id>405</id>
+	<name>+3 Slot
++10 Armor
+</name>
+</text>
+
+<!-- Soviet -->
+<text>
+	<id>406</id>
+	<name>+2 Slot
++8 Armor
+</name>
+</text>
+
+<!-- FARTUK -->
+<text>
+	<id>407</id>
+	<name>+1 Slot 
+</name>
+</text>
+
+<!-- Helmets -->
+<!-- Moto -->
+<text>
+	<id>451</id>
+	<name>+2 Heat 
++3 Armor
+</name>
+</text>
+
+<!-- Military -->
+<text>
+	<id>452</id>
+	<name>+2 Heat 
++4 Armor
+</name>
+</text>
+
+<!-- Hard -->
+<text>
+	<id>453</id>
+	<name>+2 Heat 
++2 Armor
+</name>
+</text>
+
+<!-- Gasmask -->
+<text>
+	<id>454</id>
+	<name>+2 Heat 
++1 Armor
+</name>
+</text>
+
+<!-- Moto2 -->
+<text>
+	<id>455</id>
+	<name>+2 Heat 
++3 Armor
+</name>
+</text>
+
+<!-- Moto3 -->
+<text>
+	<id>456</id>
+	<name>+2 Heat 
++3 Armor
+</name>
+</text>
+
+<!-- Cap -->
+<text>
+	<id>457</id>
+	<name>+2 Heat 
+</name>
+</text>
+
+<!-- WarmHat -->
+<text>
+	<id>458</id>
+	<name>+4 Heat 
+</name>
+</text>
+
+<!-- Ushanka -->
+<text>
+	<id>459</id>
+	<name>+6 Heat 
+</name>
+</text>
+
+<!-- Beret -->
+<text>
+	<id>460</id>
+	<name>+2 Heat 
+</name>
+</text>
+
+<!-- Balaklava -->
+<text>
+	<id>461</id>
+	<name>+3 Heat 
+</name>
+</text>
+
+<!-- Lamp -->
+<text>
+	<id>462</id>
+	<name>+1 Heat 
+Uses Batteries.
+</name>
+</text>
+
+<!-- Cowboy -->
+<text>
+	<id>463</id>
+	<name>+2 Heat 
+</name>
+</text>
+
+<!-- Welding -->
+<text>
+	<id>464</id>
+	<name>+1 Heat 
++1 Armor
+</name>
+</text>
+
+<!-- Gorka -->
+<text>
+	<id>465</id>
+	<name>+3 Heat 
++5 Armor
+</name>
+</text>
+
+<!-- Gorka -->
+<text>
+	<id>465</id>
+	<name>+3 Heat 
++5 Armor
+</name>
+</text>
+
+<!-- Police Hat -->
+<text>
+	<id>466</id>
+	<name>+2 Heat 
+</name>
+</text>
+
+<!-- NVG -->
+<text>
+	<id>467</id>
+	<name>+1 Heat 
+Uses Batteries.
+</name>
+</text>
+
+<!-- Bandana -->
+<text>
+	<id>468</id>
+	<name>+2 Heat 
+Can be torn into Rags.
+</name>
+</text>
+
+<!-- Knight helmet -->
+<text>
+	<id>469</id>
+	<name>+4 Heat 
++5 Armor.
+</name>
+</text>
+
+<!-- Pilot helmet -->
+<text>
+	<id>470</id>
+	<name>+3 Heat 
++2 Armor.
+</name>
+</text>
+
+<!-- Outfits -->
+
+<!-- Hoodie -->
+<text>
+	<id>501</id>
+	<name>+2 Slots
++5 Heat 
+Can be torn into Rags.
+</name>
+</text>
+
+<!-- Shirt -->
+<text>
+	<id>502</id>
+	<name>+2 Slots
++3 Heat 
+Can be torn into Rags.
+</name>
+</text>
+
+<!-- Hoodie -->
+<text>
+	<id>504</id>
+	<name>+2 Slots
++5 Heat 
+Can be torn into Rags.
+</name>
+</text>
+
+<!-- rain -->
+<text>
+	<id>505</id>
+	<name>+2 Slots
++6 Heat 
+
+Protects from rain cold
+</name>
+</text>
+
+<!-- rain2 -->
+<text>
+	<id>506</id>
+	<name>+2 Slots
++6 Heat
+
+Protects from rain cold
+</name>
+</text>
+
+<!-- raider jacket -->
+<text>
+	<id>507</id>
+	<name>+2 Slots
++4 Heat 
++2 Armor
+</name>
+</text>
+
+<!-- fur coat -->
+<text>
+	<id>509</id>
+	<name>+1 Slots
++9 Heat 
+</name>
+</text>
+
+<!-- Gorka -->
+<text>
+	<id>510</id>
+	<name>+3 Slots
++7 Heat 
++2 Armor
+</name>
+</text>
+
+<!-- tshirt -->
+<text>
+	<id>511</id>
+	<name>+2 Heat 
+Can be torn into Rags.
+</name>
+</text>
+
+<!-- paramedic -->
+<text>
+	<id>512</id>
+	<name>+2 Slots
++5 Heat 
+</name>
+</text>
+
+<!-- orel -->
+<text>
+	<id>513</id>
+	<name>+2 Slots
++5 Heat 
++1 Armor
+</name>
+</text>
+
+<!-- tracksuit -->
+<text>
+	<id>514</id>
+	<name>+1 Slots
++4 Heat 
+</name>
+</text>
+
+<!-- Dress -->
+<text>
+	<id>515</id>
+	<name>+1 Slots
++4 Heat 
+</name>
+</text>
+
+<!-- Down -->
+<text>
+	<id>516</id>
+	<name>+2 Slots
++8 Heat 
+</name>
+</text>
+
+<!-- Hunter -->
+<text>
+	<id>517</id>
+	<name>+3 Slots
++6 Heat 
++1 Armor
+</name>
+</text>
+
+<!-- Sweater -->
+<text>
+	<id>518</id>
+	<name>+1 Slots
++6 Heat 
+</name>
+</text>
+
+<!-- Melee -->
+
+<!-- Axe -->
+<text>
+	<id>551</id>
+	<name>Damage: 52-87
+Crit chance: 25%
+Block chance: 25%
+Attack speed: 1.5s
+Can chop down trees.
+</name>
+</text>
+
+<!-- Shovel -->
+<text>
+	<id>552</id>
+	<name>Damage: 19-31
+Crit chance: 15%
+Block chance: 35%
+Attack speed: 1.6s
+Can be used to plant plants.
+</name>
+</text>
+
+<!-- Wrench -->
+<text>
+	<id>553</id>
+	<name>Damage: 23-38
+Crit chance: 25%
+Block chance: 15%
+Attack speed: 1.3s
+</name>
+</text>
+
+<!-- Baseball bat -->
+<text>
+	<id>554</id>
+	<name>Damage: 26-44
+Crit chance: 25%
+Block chance: 15%
+Attack speed: 1s
+</name>
+</text>
+
+<!-- Fire axe -->
+<text>
+	<id>555</id>
+	<name>Damage: 45-75
+Crit chance: 25%
+Block chance: 25%
+Attack speed: 1.6s
+Can chop down trees.
+</name>
+</text>
+
+<!-- Crowbar -->
+<text>
+	<id>556</id>
+	<name>Damage: 19-31
+Crit chance: 25%
+Block chance: 15%
+Attack speed: 1.2s
+</name>
+</text>
+
+<!-- Kitchen knife -->
+<text>
+	<id>557</id>
+	<name>Damage: 14-24
+Crit chance: 10%
+Block chance: 5%
+Attack speed: 0.8s
+</name>
+</text>
+
+<!-- Hunter knife -->
+<text>
+	<id>558</id>
+	<name>Damage: 15-25
+Crit chance: 15%
+Block chance: 5%
+Attack speed: 0.8s
+</name>
+</text>
+
+<!-- Army knife -->
+<text>
+	<id>559</id>
+	<name>Damage: 16-26
+Crit chance: 20%
+Block chance: 5%
+Attack speed: 0.8s
+</name>
+</text>
+
+<!-- Pickaxe-->
+<text>
+	<id>560</id>
+	<name>Damage: 33-55
+Crit chance: 15%
+Block chance: 35%
+Attack speed: 1.3s
+Can be used to plant plants.
+</name>
+</text>
+
+<!-- Pitchfork -->
+<text>
+	<id>561</id>
+	<name>Damage: 30-50
+Crit chance: 15%
+Block chance: 35%
+Attack speed: 1.2s
+Can be used to plant plants.
+</name>
+</text>
+
+<!-- Sledgehammer -->
+<text>
+	<id>562</id>
+	<name>Damage: 36-60
+Crit chance: 15%
+Block chance: 35%
+Attack speed: 1.8s
+</name>
+</text>
+
+<!-- Sword -->
+<text>
+	<id>563</id>
+	<name>Damage: 56-94
+Crit chance: 35%
+Block chance: 25%
+Attack speed: 1.5s
+Can chop down trees.
+</name>
+</text>
+
+<!-- Pan -->
+<text>
+	<id>564</id>
+	<name>Damage: 25-41
+Crit chance: 40%
+Block chance: 35%
+Attack speed: 0.9s
+</name>
+</text>
+
+<!-- Katana -->
+<text>
+	<id>565</id>
+	<name>Damage: 48-81
+Crit chance: 35%
+Block chance: 25%
+Attack speed: 1.2s
+Can chop down trees.
+</name>
+</text>
+
+<!-- Secret location reveal-->
+<text>
+	<id>150</id>
+	<name>This is a find!</name>
+</text>
+
+<text>
+	<id>151</id>
+	<name>Call Airdrop</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>Load</name>
+</text>
+
+<text>
+	<id>153</id>
+	<name>This vehicle dont have mounted machine gun.</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>I cant do it here.</name>
+</text>
+
+<text>
+	<id>155</id>
+	<name>Choose difficulty level.
+Some unlocks can be done only on higher difficulties.
+</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>I need weapon with attached grenade launcher.</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>Ammo:</name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>I cant do it while im sick.</name>
+</text>
+
+<text>
+	<id>159</id>
+	<name>I need more blood to do it.</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>Im already bleeding!</name>
+</text>
+
+<text>
+	<id>161</id>
+	<name>Refuse</name>
+</text>
+
+<text>
+	<id>162</id>
+	<name>There is nothing we can talk about.</name>
+</text>
+
+<!-- Фразы бота при командах-->
+
+
+<text>
+	<id>163</id>
+	<name>Following you.</name>
+</text>
+
+<text>
+	<id>164</id>
+	<name>I will guard this area.</name>
+</text>
+
+<!-- Фразы для сна-->
+
+<text>
+	<id>165</id>
+	<name>I cant sleep when enemies around.</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>I better will sleep at night.</name>
+</text>
+
+<text>
+	<id>167</id>
+	<name>You can sleep in the night time. If you in good condition you can sleep until morning 06:00. You will wake up earlier if hunger or thirst will be too high.
+</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>Go to sleep</name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>Current resources allows you to sleep until </name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>Its too cold here to sleep.</name>
+</text>
+
+<text>
+	<id>171</id>
+	<name>Im too hungry.</name>
+</text>
+
+<text>
+	<id>172</id>
+	<name>Im too thirsty.</name>
+</text>
+
+<text>
+	<id>173</id>
+	<name>I cant do it while im bleeding.</name>
+</text>
+
+<text>
+	<id>174</id>
+	<name>I need a roof at least for sleeping.</name>
+</text>
+
+<text>
+	<id>175</id>
+	<name>Currently you too hungry or thirsty to go to sleep.</name>
+</text>
+
+<text>
+	<id>176</id>
+	<name>I cant sleep in daytime.</name>
+</text>
+
+<text>
+	<id>177</id>
+	<name>I cant sleep here.</name>
+</text>
+
+<text>
+	<id>178</id>
+	<name>Legend</name>
+</text>
+
+<text>
+	<id>179</id>
+	<name>Too close!</name>
+</text>
+
+<!-- Персонажи -->
+
+<text>
+	<id>180</id>
+	<name>Xavier "Pilot"
+Starting gear: gorka pants, sweater, pilot helmet, UMP-45, flare.
+Unlocked perks: Survivalist(lvl.2), Scout</name>
+</text>
+
+<text>
+	<id>181</id>
+	<name>Xavier "Pilot"
+Unlock requirement: Find 13 helicopter crash sites in one run.
+On "Legend" difficulty.</name>
+</text>
+
+<text>
+	<id>182</id>
+	<name>Rudolf "Jager"
+Starting gear: Izh-43, Ushanka, 12cal ammo x10, hunter knife, fishing rod, hunter jacket, hunter pants.
+Unlocked perks: Hunter(lvl.2), Vigilance</name>
+</text>
+
+<text>
+	<id>183</id>
+	<name>Rudolf "Jager"
+Unlock requirement: Find and kill 3 albino deers.
+On "Legend" difficulty.</name>
+</text>
+
+<text>
+	<id>184</id>
+	<name>Taman "Guard"
+Starting gear: Police hat, orel jacket, orel pants, AKSu-74, energy drink.
+Unlocked perks: Sharpshooter(lvl.2), Bullet farmer</name>
+</text>
+
+<text>
+	<id>185</id>
+	<name>Taman "Guard"
+Unlock requirement: Kill "Tank" with the machine gun mounted on HUMVEE.
+On "Legend" difficulty.</name>
+</text>
+
+<text>
+	<id>186</id>
+	<name>Daria "Scientist"
+Starting gear:  Worker pants, apron, shirt, tetracyclin, IV kit, vitamins, adrenaline, x3 bandages.
+Unlocked perks: Red+ (lvl.2), Sprinter</name>
+</text>
+
+<text>
+	<id>187</id>
+	<name>Daria "Scientist"
+Unlock requirement: Reach 5 island.
+On "Legend" difficulty.</name>
+</text>
+
+<text>
+	<id>188</id>
+	<name>Sharp (+25%)</name>
+</text>
+
+<text>
+	<id>189</id>
+	<name>Deagle
+Unlock requirement: Carry a cowboy set (cowboy hat, shirt, magnum) in one run, all at once.
+On "Regular" or higher difficulty.
+Current status:</name>
+</text>
+
+<text>
+	<id>190</id>
+	<name>Deagle
+Unlocked.
+Locations: Underground bunkers, Gun shops.</name>
+</text>
+
+<text>
+	<id>191</id>
+	<name>Katana
+Unlock requirement: Kill 100 zombies with knives.
+On "Legend" difficulty.
+Current status:</name>
+</text>
+
+<text>
+	<id>192</id>
+	<name>Katana
+Unlocked.
+Locations: Gun shops.</name>
+</text>
+
+<text>
+	<id>193</id>
+	<name>The weapon was sharpened.</name>
+</text>
+
+<text>
+	<id>194</id>
+	<name>This weapon cant be sharpened.</name>
+</text>
+
+<text>
+	<id>195</id>
+	<name>Craft Rope</name>
+</text>
+
+<text>
+	<id>196</id>
+	<name>I need 3 rags for this.</name>
+</text>
+
+<text>
+	<id>197</id>
+	<name>Follow me!</name>
+</text>
+
+<text>
+	<id>198</id>
+	<name>Stay here!</name>
+</text>
+
+<text>
+	<id>199</id>
+	<name>Go away!</name>
+</text>
+
+<text>
+	<id>200</id>
+	<name>Hello survivor.</name>
+</text>
+
+<text>
+	<id>201</id>
+	<name>I can't do it here</name>
+</text>
+
+<text>
+	<id>202</id>
+	<name>There are enemies nearby!</name>
+</text>
+
+<text>
+	<id>203</id>
+	<name>I can try to jump overthere on a car.</name>
+</text>
+
+<text>
+	<id>204</id>
+	<name>Are you ready to jump on the bridge? There will be no way back, and a lot of danger ahead.</name>
+</text>
+
+<text>
+	<id>205</id>
+	<name>Hello</name>
+</text>
+
+<text>
+	<id>206</id>
+	<name>Hey, can you help us?</name>
+</text>
+
+<text>
+	<id>207</id>
+	<name>Dont shoot, we are friendly</name>
+</text>
+
+<text>
+	<id>208</id>
+	<name>Greetings</name>
+</text>
+
+<text>
+	<id>209</id>
+	<name>Thanks!</name>
+</text>
+
+<text>
+	<id>210</id>
+	<name>Hi! We heard about you! You was helping people in trouble, and we want to help you! Take this:</name>
+</text>
+
+<text>
+	<id>611</id>
+	<name>I learnt some good skills!</name>
+</text>
+
+<text>
+	<id>612</id>
+	<name>Read</name>
+</text>
+
+<text>
+	<id>613</id>
+	<name>I feel like immortal, but im not.</name>
+</text>
+
+<text>
+	<id>614</id>
+	<name> minutes.</name>
+</text>
+
+<text>
+	<id>615</id>
+	<name>Craft Stash</name>
+</text>
+
+<text>
+	<id>616</id>
+	<name>Place Stash</name>
+</text>
+
+<text>
+	<id>617</id>
+	<name>• Slow hunger and thirst rate
+• Warm weather
+• Lowered NPCs damage to player
+</name>
+</text>
+
+<text>
+	<id>618</id>
+	<name>• Medium hunger and thirst rate
+• Normal weather
+• Regular NPCs damage to player
+</name>
+</text>
+
+<text>
+	<id>619</id>
+	<name>• High hunger and thirst rate
+• Cold weather
+• High NPCs damage to player
+• Little more zombies in some locations
+</name>
+</text>
+
+<text>
+	<id>620</id>
+	<name>• High hunger and thirst rate
+• Cold weather
+• High NPCs damage to player
+• Little more zombies in some locations
+• Not explored areas is hidden on minimap
+</name>
+</text>
+
+<text>
+	<id>621</id>
+	<name>Start
+</name>
+</text>
+
+<text>
+	<id>622</id>
+	<name>Are you ready to go on 5th island? There will be no way back.
+</name>
+</text>
+
+<text>
+	<id>623</id>
+	<name>Are you ready to go on 5th island? There will be no way back.
+</name>
+</text>
+
+<text>
+	<id>624</id>
+	<name>Fishing rod is ruined.
+</name>
+</text>
+
+<text>
+	<id>625</id>
+	<name>Craft Molotov
+</name>
+</text>
+
+<text>
+	<id>626</id>
+	<name>MOLOTOV AND ROPE
+</name>
+</text>
+
+<text>
+	<id>627</id>
+	<name>Rags x3 = Rope
+</name>
+</text>
+
+<text>
+	<id>628</id>
+	<name>Whiskey + Flare = Molotov
+</name>
+</text>
+
+<text>
+	<id>629</id>
+	<name>STASH FOR LOOT
+</name>
+</text>
+
+<text>
+	<id>630</id>
+	<name>Burlap sack + Burlap sack = Canvas
+</name>
+</text>
+
+<text>
+	<id>631</id>
+	<name>Canvas + Wood piles = Build Stash.
+Loot dropped in stash will be safe. Enemies can destroy it if found.
+</name>
+</text>
+
+</list>

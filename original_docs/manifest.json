@@ -1,0 +1,23 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Mini DAYZ",
+  "short_name": "Mini DAYZ",
+  "version": "com.bistudio.minidayz",
+  "description": "Mini DAYZ",
+  "author": "Mike Azovskikh",
+  "icons": [
+    {
+      "src": "www/icon-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "www/icon-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "orientation": "landscape",
+  "start_url": "index.html"
+}

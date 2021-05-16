@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "MiniDayZ Plus",
+  "short_name": "MiniDayZ Plus",
+  "version": "com.bistudio.minidayz.plus",
+  "description": "How long can you survive?",
+  "author": "Bohemia Interactive a.s.",
+  "icons": [],
+  "start_url": "index.html"
+}

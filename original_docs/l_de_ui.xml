@@ -1,0 +1,1989 @@
+<?xml version="1.0"?>
+<list>
+	<text>
+		<id>1</id>
+		<name>Neues Spiel</name>
+	</text>
+	<text>
+		<id>2</id>
+		<name>Spiel fortsetzen</name>
+	</text>
+	<text>
+		<id>3</id>
+		<name>Errungenschaften</name>
+	</text>
+	<text>
+		<id>4</id>
+		<name>Communitys</name>
+	</text>
+	<text>
+		<id>5</id>
+		<name>Änderungsprotokoll</name>
+	</text>
+	<text>
+		<id>6</id>
+		<name>Abmelden</name>
+	</text>
+	<text>
+		<id>7</id>
+		<name>Anfänger</name>
+	</text>
+	<text>
+		<id>8</id>
+		<name>Soldat</name>
+	</text>
+	<text>
+		<id>9</id>
+		<name>Veteran</name>
+	</text>
+	<text>
+		<id>10</id>
+		<name>Zurück</name>
+	</text>
+	<text>
+		<id>11</id>
+		<name>Fortsetzen</name>
+	</text>
+	<text>
+		<id>12</id>
+		<name>Minuten am Leben</name>
+	</text>
+	<text>
+		<id>13</id>
+		<name>Infizierte getötet</name>
+	</text>
+	<text>
+		<id>14</id>
+		<name>Banditen getötet</name>
+	</text>
+	<text>
+		<id>15</id>
+		<name>Schwierigkeitsgrad</name>
+	</text>
+	<text>
+		<id>16</id>
+		<name>Welt wird generiert</name>
+	</text>
+	<text>
+		<id>18</id>
+		<name>Straßen werden platziert (Schritt 1)</name>
+	</text>
+	<text>
+		<id>19</id>
+		<name>Straßen werden platziert (Schritt 2)</name>
+	</text>
+	<text>
+		<id>20</id>
+		<name>Geheime Orte werden hinzugefügt</name>
+	</text>
+	<text>
+		<id>21</id>
+		<name>Tilemap-Zeichnung</name>
+	</text>
+	<text>
+		<id>22</id>
+		<name>Minimap wird erstellt</name>
+	</text>
+	<text>
+		<id>23</id>
+		<name>Tutorial überspringen</name>
+	</text>
+	<text>
+		<id>24</id>
+		<name>Ja</name>
+	</text>
+	<text>
+		<id>25</id>
+		<name>Nein</name>
+	</text>
+	<text>
+		<id>26</id>
+		<name>Bist du sicher, dass du das Tutorial überspringen möchtest?</name>
+	</text>
+	<text>
+		<id>27</id>
+		<name>Charakter</name>
+	</text>
+	<text>
+		<id>28</id>
+		<name>Gesamtwerte</name>
+	</text>
+	<text>
+		<id>29</id>
+		<name>Minuten am Leben:</name>
+	</text>
+	<text>
+		<id>30</id>
+		<name>Infizierte getötet:</name>
+	</text>
+	<text>
+		<id>31</id>
+		<name>Banditen getötet:</name>
+	</text>
+	<text>
+		<id>32</id>
+		<name>Tode</name>
+	</text>
+	<text>
+		<id>33</id>
+		<name>Bewegung: Tippen</name>
+	</text>
+	<text>
+		<id>34</id>
+		<name>Bewegung: Stick</name>
+	</text>
+	<text>
+		<id>35</id>
+		<name>Geräusche: AN</name>
+	</text>
+	<text>
+		<id>36</id>
+		<name>Geräusche: AUS</name>
+	</text>
+	<text>
+		<id>37</id>
+		<name>Zum Menü</name>
+	</text>
+	<text>
+		<id>38</id>
+		<name>Bronze</name>
+	</text>
+	<text>
+		<id>39</id>
+		<name>Silber</name>
+	</text>
+	<text>
+		<id>40</id>
+		<name>Gold</name>
+	</text>
+	<text>
+		<id>41</id>
+		<name>Ok</name>
+	</text>
+	<text>
+		<id>42</id>
+		<name>Du brauchst Holzstapel, um dieses Boot zu reparieren.</name>
+	</text>
+	<text>
+		<id>43</id>
+		<name>Du brauchst Klebeband, um dieses Boot zu reparieren.</name>
+	</text>
+	<text>
+		<id>44</id>
+		<name>Reparieren</name>
+	</text>
+	<text>
+		<id>45</id>
+		<name>Verlassen</name>
+	</text>
+	<text>
+		<id>46</id>
+		<name>Du kannst dieses Boot mit deinen Holzstapeln reparieren.</name>
+	</text>
+	<text>
+		<id>47</id>
+		<name>Du kannst dieses Boot mit deinem Klebeband reparieren.</name>
+	</text>
+	<text>
+		<id>48</id>
+		<name>Bereit</name>
+	</text>
+	<text>
+		<id>49</id>
+		<name>Nicht bereit</name>
+	</text>
+	<text>
+		<id>50</id>
+		<name>Das Boot ist repariert. Möchtest du zur nächsten Insel reisen? Eine Rückkehr ist unmöglich.</name>
+	</text>
+	<text>
+		<id>51</id>
+		<name>Auswählen</name>
+	</text>
+	<text>
+		<id>52</id>
+		<name>Vorräte sind nach der Video-Ad verfügbar. Wähle deine Kiste aus.</name>
+	</text>
+	<text>
+		<id>53</id>
+		<name>Nahrungskiste.</name>
+	</text>
+	<text>
+		<id>54</id>
+		<name>Getränkekiste.</name>
+	</text>
+	<text>
+		<id>55</id>
+		<name>Bandagenkiste.</name>
+	</text>
+	<text>
+		<id>56</id>
+		<name>Hey, möchtest du Gegenstände tauschen? Ich habe Folgendes anzubieten:</name>
+	</text>
+	<text>
+		<id>57</id>
+		<name>Angebot:</name>
+	</text>
+	<text>
+		<id>58</id>
+		<name>Preis:</name>
+	</text>
+	<text>
+		<id>59</id>
+		<name>Kein Gegenstand</name>
+	</text>
+	<text>
+		<id>60</id>
+		<name>Tauschen</name>
+	</text>
+	<text>
+		<id>61</id>
+		<name>Ablegen</name>
+	</text>
+	<text>
+		<id>62</id>
+		<name>Auswählen</name>
+	</text>
+	<text>
+		<id>63</id>
+		<name>Gesperrt</name>
+	</text>
+	<text>
+		<id>64</id>
+		<name>Aktuell</name>
+	</text>
+	<text>
+		<id>65</id>
+		<name>Neuer Charakter freigeschaltet!</name>
+	</text>
+	<text>
+		<id>66</id>
+		<name>Kisten können alles Mögliche enthalten, unter anderem Nahrung oder Waffen.</name>
+	</text>
+	<text>
+		<id>67</id>
+		<name/>
+	</text>
+	<text>
+		<id>68</id>
+		<name>Optionen</name>
+	</text>
+	<text>
+		<id>69</id>
+		<name>Stick-Position</name>
+	</text>
+	<text>
+		<id>70</id>
+		<name>Sprache</name>
+	</text>
+	<text>
+		<id>71</id>
+		<name>Billy „Der Rote“
+Freischalten: Töte 5 Zombies mit einem Schrotgewehr.
+Schwierigkeitsgrad: Beliebig.
+</name>
+	</text>
+	<text>
+		<id>72</id>
+		<name>Emilio „Der Doc“
+Freischalten: Stoppe 6 Blutungen.
+Schwierigkeitsgrad: Beliebig.
+</name>
+	</text>
+	<text>
+		<id>73</id>
+		<name>Dave „Der Boxer“
+Freischalten: Töte 10 Zombies mit bloßen Händen.
+Schwierigkeitsgrad: Beliebig.
+</name>
+	</text>
+	<text>
+		<id>74</id>
+		<name>Lee „Der Irre“
+Freischalten: Töte einen überlebenden Banditen mit einer Axt.
+Schwierigkeitsgrad: „Soldat“ oder „Veteran“
+</name>
+	</text>
+	<text>
+		<id>75</id>
+		<name>Sergey „Der Slawe“
+Freischalten: Töte 3 überlebende in einer Runde.
+Schwierigkeitsgrad: „Soldat“ oder „Veteran“
+</name>
+	</text>
+	<text>
+		<id>76</id>
+		<name>John „Der Biker“
+Freischalten: Trage gleichzeitig eine Bikerjacke, einen Motorradhelm und eine Rohrzange.
+Schwierigkeitsgrad: „Soldat“ oder „Veteran“
+</name>
+	</text>
+	<text>
+		<id>77</id>
+		<name>Ganzo „Der Drache“
+Freischalten: Töte 4 feindliche Überlebende, die eine Schusswaffe tragen.
+Schwierigkeitsgrad: „Veteran“
+</name>
+	</text>
+	<text>
+		<id>78</id>
+		<name>Tom „Der Überlebende“
+Freischalten: Überlebe 7 Tage.
+Schwierigkeitsgrad: „Veteran“
+</name>
+	</text>
+	<text>
+		<id>79</id>
+		<name>Garry „Der Veteran“
+Freischalten: Trage ein vollständiges Gorka-Set (Gorka-Hose, Gorka-Jacke, Gorka-Helm) innerhalb einer Runde.
+Schwierigkeitsgrad: „Veteran“
+</name>
+	</text>
+	<text>
+		<id>80</id>
+		<name>Überlebender 1
+Startausrüstung: Jeanshose, T-Shirt.
+Freigeschaltete Perks: Keine
+</name>
+	</text>
+	<text>
+		<id>81</id>
+		<name>Überlebender 2
+Startausrüstung: Jeanshose, T-Shirt.
+Freigeschaltete Perks: Keine
+</name>
+	</text>
+	<text>
+		<id>82</id>
+		<name>Überlebender 3
+Startausrüstung: Jeanshose, T-Shirt.
+Freigeschaltete Perks: Keine
+</name>
+	</text>
+	<text>
+		<id>83</id>
+		<name>Billy „Der Rote“
+Startausrüstung: Jeanshose, T-Shirt, Bandana.
+Freigeschaltete Perks: Scharfschütze.
+</name>
+	</text>
+	<text>
+		<id>84</id>
+		<name>Emilio „Der Doc“
+Startausrüstung: Notarzthose, T-Shirt, Bandage.
+Freigeschaltete Perks: Rot+
+</name>
+	</text>
+	<text>
+		<id>85</id>
+		<name>Dave „Der Boxer“
+Startausrüstung: Jeanshose, T-Shirt, Stofffetzen.
+Freigeschaltete Perks: Blocker
+</name>
+	</text>
+	<text>
+		<id>86</id>
+		<name>Lee „Der Irre“
+Startausrüstung: Jeanshose, Kleid, Gasmaske, Schlachtermesser.
+Freigeschaltete Perks: Stubenhocker
+</name>
+	</text>
+	<text>
+		<id>87</id>
+		<name>John „Der Biker“
+Startausrüstung: Jeanshose, Bikerjacke, Sturmmaske, Baseballschläger.
+Freigeschaltete Perks: Sprinter
+</name>
+	</text>
+	<text>
+		<id>88</id>
+		<name>Sergey „Der Slawe“
+Startausrüstung: Trainingshose, Trainingsjacke, Sturmmaske, Baseballschläger.
+Freigeschaltete Perks: Schläger
+</name>
+	</text>
+	<text>
+		<id>89</id>
+		<name>Ganzo „Der Drache“
+Startausrüstung: Jägerhose, Bogen, 5 Kompositpfeile.
+Freigeschaltete Perks: Sprinter, Schneefreund
+</name>
+	</text>
+	<text>
+		<id>90</id>
+		<name>Tom „Der Überlebende“
+Startausrüstung: Jeanshose, T-Shirt, Cowboyhut, Jagdmesser, Beutel
+Freigeschaltete Perks: Jäger, Überlebenskünstler
+</name>
+	</text>
+	<text>
+		<id>91</id>
+		<name>Garry „Der Veteran“
+Startausrüstung: Jeanshose, T-Shirt, Kappe, Kugelsichere Weste, Colt 1911, Munition. Freigeschaltete Perks: Scharfschütze, Aufklärer.
+</name>
+	</text>
+	<text>
+		<id>95</id>
+		<name>Keine Verbindung zur Airdrop-Zentrale! Bitte überprüfe deine Internetverbindung.</name>
+	</text>
+	<text>
+		<id>96</id>
+		<name>Keine Verbindung zur Airdrop-Zentrale!</name>
+	</text>
+	<text>
+		<id>97</id>
+		<name>Zurücksetzen</name>
+	</text>
+	<text>
+		<id>98</id>
+		<name>Speichern</name>
+	</text>
+	<text>
+		<id>101</id>
+		<name>24 Stunden</name>
+	</text>
+	<text>
+		<id>102</id>
+		<name>Mumie</name>
+	</text>
+	<text>
+		<id>103</id>
+		<name>Vampir</name>
+	</text>
+	<text>
+		<id>104</id>
+		<name>Blackbox-Sammler</name>
+	</text>
+	<text>
+		<id>105</id>
+		<name>Pistolero</name>
+	</text>
+	<text>
+		<id>106</id>
+		<name>Schrotmeister</name>
+	</text>
+	<text>
+		<id>107</id>
+		<name>Kommando</name>
+	</text>
+	<text>
+		<id>108</id>
+		<name>Terminator</name>
+	</text>
+	<text>
+		<id>109</id>
+		<name>Robin Hood</name>
+	</text>
+	<text>
+		<id>110</id>
+		<name>Superveganer</name>
+	</text>
+	<text>
+		<id>111</id>
+		<name>Überlebensgott</name>
+	</text>
+	<text>
+		<id>112</id>
+		<name>Sammelfreak</name>
+	</text>
+	<text>
+		<id>113</id>
+		<name>Schütze</name>
+	</text>
+	<text>
+		<id>114</id>
+		<name>Zombiekiller</name>
+	</text>
+	<text>
+		<id>115</id>
+		<name>Tourist</name>
+	</text>
+	<text>
+		<id>116</id>
+		<name>Vielfraß</name>
+	</text>
+	<text>
+		<id>117</id>
+		<name>Autoknacker</name>
+	</text>
+	<text>
+		<id>118</id>
+		<name>Level-Up</name>
+	</text>
+	<text>
+		<id>119</id>
+		<name>Die Mauer</name>
+	</text>
+	<text>
+		<id>120</id>
+		<name>Seelen im Dunkeln</name>
+	</text>
+	<text>
+		<id>121</id>
+		<name>Gnadenloser Killer</name>
+	</text>
+	<text>
+		<id>122</id>
+		<name>Ninja</name>
+	</text>
+	<text>
+		<id>123</id>
+		<name>Bauer</name>
+	</text>
+	<text>
+		<id>124</id>
+		<name>Zeltlager</name>
+	</text>
+	<text>
+		<id>125</id>
+		<name>Holzfäller</name>
+	</text>
+	<text>
+		<id>126</id>
+		<name>Kollege</name>
+	</text>
+	<text>
+		<id>127</id>
+		<name>Kamel</name>
+	</text>
+	<text>
+		<id>128</id>
+		<name>Hirschjäger</name>
+	</text>
+
+<text>
+	<id>129</id>
+	<name>⚔️</name>
+</text>
+
+<text>
+	<id>130</id>
+	<name>🚪</name>
+</text>
+	<text>
+		<id>151</id>
+		<name>Überlebe 1/2/3 Tage</name>
+	</text>
+	<text>
+		<id>152</id>
+		<name>Stoppe 2/4/6 Blutungen</name>
+	</text>
+	<text>
+		<id>153</id>
+		<name>Benutze 1/2/3 Blutbeutel oder Kochsalzlösungen</name>
+	</text>
+	<text>
+		<id>154</id>
+		<name>Finde 1/2/3 abgestürzte Helikopter</name>
+	</text>
+	<text>
+		<id>155</id>
+		<name>Töte 5/15/30 Infizierte mit einer Handfeuerwaffe</name>
+	</text>
+	<text>
+		<id>156</id>
+		<name>Töte 5/15/30 Infizierte mit einem Schrotgewehr</name>
+	</text>
+	<text>
+		<id>157</id>
+		<name>Töte 5/15/30 Infizierte mit einem Sturmgewehr oder einer Maschinenpistole</name>
+	</text>
+	<text>
+		<id>158</id>
+		<name>Überlebe 5/15/30 Treffer durch Schusswaffen</name>
+	</text>
+	<text>
+		<id>159</id>
+		<name>Töte 5/15/30 Infizierte mit einem Bogen oder einer Armbrust</name>
+	</text>
+	<text>
+		<id>160</id>
+		<name>Überlebe 10/20/30 Treffer durch Infizierte oder Wölfe</name>
+	</text>
+	<text>
+		<id>161</id>
+		<name>Lerne alle Perks</name>
+	</text>
+	<text>
+		<id>162</id>
+		<name>Sammle 5/10/15 Beeren</name>
+	</text>
+	<text>
+		<id>163</id>
+		<name>Töte 5/15/30 Infizierte mit einem halbautomatischen Gewehr oder einem Repetiergewehr</name>
+	</text>
+	<text>
+		<id>164</id>
+		<name>Töte 20/40/80 Infizierte</name>
+	</text>
+	<text>
+		<id>165</id>
+		<name>Besuche mindestens eine Stadt auf 1/2/3 Inseln (Level)</name>
+	</text>
+	<text>
+		<id>166</id>
+		<name>Iss 15/30/50 Nahrungsgegenstände</name>
+	</text>
+	<text>
+		<id>167</id>
+		<name>Öffne 50/100/150 Kofferräume</name>
+	</text>
+	<text>
+		<id>168</id>
+		<name>Finde eine Nuko Cola</name>
+	</text>
+	<text>
+		<id>169</id>
+		<name>Errichte 1/2/3 Barrikaden oder Stacheldrähte</name>
+	</text>
+	<text>
+		<id>170</id>
+		<name>Zünde 1/2/3 Lagerfeuer an</name>
+	</text>
+	<text>
+		<id>171</id>
+		<name>Töte 1/2/3 Überlebende</name>
+	</text>
+	<text>
+		<id>172</id>
+		<name>Vermeide Schaden für 12/24/36 In-Game-Stunden</name>
+	</text>
+	<text>
+		<id>173</id>
+		<name>Pflanze 5/10/15 Pflanzen</name>
+	</text>
+	<text>
+		<id>174</id>
+		<name>Stelle 1/2/3 Zivilzelte auf</name>
+	</text>
+	<text>
+		<id>175</id>
+		<name>Fälle 3/6/10 Bäume</name>
+	</text>
+	<text>
+		<id>176</id>
+		<name>Triff einen freundlichen Überlebenden</name>
+	</text>
+	<text>
+		<id>177</id>
+		<name>Trinke 10/20/30 Getränke</name>
+	</text>
+	<text>
+		<id>178</id>
+		<name>Nimm 1/2/3 Tiere aus</name>
+	</text>
+	
+<text>
+	<id>179</id>
+	<name>???</name>
+</text>
+
+<text>
+	<id>180</id>
+	<name>???</name>
+</text>
+	<text>
+		<id>228</id>
+		<name>KÄMPFEN</name>
+	</text>
+	<text>
+		<id>229</id>
+		<name>Du kannst im Nahkampf mit deinen bloßen Händen oder mit Nahkampfwaffen kämpfen. 
+Der Nahkampf wird automatisch abgehandelt, wenn du dich einem Feind näherst. Jede Waffe hat 
+eine gewisse Chance auf dreifachen Schaden oder einen Block.
+</name>
+	</text>
+	<text>
+		<id>230</id>
+		<name>Bei Fernkampfwaffen zielt dein Charakter automatisch. Schieße mithilfe der Schaltfläche.
+Du schießt genauer, wenn du still stehst.
+</name>
+	</text>
+	<text>
+		<id>231</id>
+		<name>Das Lagerfeuer versorgt dich mit Wärme, Licht und einer Kochstelle. Nachdem du es errichtet hast, 
+kannst du es dreimal verwenden.
+ </name>
+	</text>
+	<text>
+		<id>232</id>
+		<name>Du kannst Pflanzen als Nahrungsmittel anbauen. Dafür benötigst du Samen und entweder eine Schaufel, eine Heugabel oder eine Spitzhacke.</name>
+	</text>
+	<text>
+		<id>233</id>
+		<name>Um Gegenstände herzustellen benötigst du Ressourcen, die du sammeln oder finden kannst.</name>
+	</text>
+	<text>
+		<id>234</id>
+		<name>Wenn du dich verletzt, kann es zu Blutungen kommen. Wenn du blutest, kannst du dich nicht regenerieren. Nutze Bandagen oder Stofffetzen, um Blutungen zu stoppen.</name>
+	</text>
+	<text>
+		<id>235</id>
+		<name>Du kannst krank werden, wenn deine Temperatur unter 0 % fällt, oder – in seltenen Fällen – wenn du von einem Infizierten angegriffen wirst. Wenn du krank bist, kannst du dich nicht regenerieren. Nutze Tetrazykline, um deine Krankheit zu heilen, oder bringe deine Temperatur-, Nahrungs- und Wasseranzeigen über 75 %.</name>
+	</text>
+	<text>
+		<id>236</id>
+		<name>ZUSTÄNDE</name>
+	</text>
+	<text>
+		<id>237</id>
+		<name>Kaltes Wetter kann deine Temperatur verringern. Nachts, bei Regen oder Schnee sinkt deine Temperatur noch schneller.
+</name>
+	</text>
+	<text>
+		<id>238</id>
+		<name>Um zu überleben, musst du essen und trinken. Überprüfe dazu die entsprechenden Statusanzeigen 
+für Hunger und Durst. Wenn sie unter 50 % fallen, kannst du deine Statusanzeige für Blut nicht regenerieren.</name>
+	</text>
+	<text>
+		<id>239</id>
+		<name>SPIELERWERTE: HUNGER / DURST</name>
+	</text>
+	<text>
+		<id>240</id>
+		<name>LOKALE KARTE</name>
+	</text>
+	<text>
+		<id>241</id>
+		<name>GLOBALE KARTE</name>
+	</text>
+	<text>
+		<id>250</id>
+		<name>Ratgeber</name>
+	</text>
+	<text>
+		<id>251</id>
+		<name>Herstellen</name>
+	</text>
+	<text>
+		<id>252</id>
+		<name>Karte</name>
+	</text>
+	<text>
+		<id>253</id>
+		<name>SPIELERWERTE: BLUT</name>
+	</text>
+	<text>
+		<id>254</id>
+		<name>Wenn dein Blut auf Null fällt, stirbst du. Du kannst Blut verlieren, wenn du im Nahkampf oder von Kugeln getroffen wirst. Du verlierst außerdem Blut, wenn deine Anzeige für Wärme, Wasser oder Nahrung auf Null fallen.</name>
+	</text>
+	<text>
+		<id>255</id>
+		<name>Du kannst Blutungen mit Bandagen oder Stofffetzen stoppen (manche Kleidungsstücke können zu Stofffetzen verarbeitet werden).</name>
+	</text>
+	<text>
+		<id>256</id>
+		<name>Nutze Blutbeutel und Kochsalzlösungen, um dein Blut zu regenerieren.</name>
+	</text>
+	<text>
+		<id>257</id>
+		<name>Wenn deine Anzeigen für Wasser, Nahrung und Wärme alle über 50 % sind, regenerierst du Blut von alleine.</name>
+	</text>
+	<text>
+		<id>258</id>
+		<name>SPIELERWERTE: HUNGER / DURST</name>
+	</text>
+	<text>
+		<id>259</id>
+		<name>SPIELERWERTE: WÄRME</name>
+	</text>
+	<text>
+		<id>260</id>
+		<name>Verstecke dich in Gebäuden, um dich aufzuwärmen.</name>
+	</text>
+	<text>
+		<id>261</id>
+		<name>Finde gut erhaltene, warme Kleidung, um dich aufzuwärmen. </name>
+	</text>
+	<text>
+		<id>262</id>
+		<name>Whiskey kann auch für ein warmes Gefühl im Bauch sorgen.</name>
+	</text>
+	<text>
+		<id>263</id>
+		<name>Errichte ein Lagerfeuer, um dich aufzuwärmen.</name>
+	</text>
+	<text>
+		<id>264</id>
+		<name>Finde ein Zelt und stelle es auf, um dich vor Regen zu schützen und dich ein wenig aufzuwärmen.</name>
+	</text>
+	<text>
+		<id>265</id>
+		<name>PLÜNDERN</name>
+	</text>
+	<text>
+		<id>266</id>
+		<name>Die meiste Beute kann in Gebäuden gefunden werden.</name>
+	</text>
+	<text>
+		<id>267</id>
+		<name>Beute kann auch in Kofferräumen gefunden werden.</name>
+	</text>
+	<text>
+		<id>268</id>
+		<name>Essbare Beeren können an bestimmten Sträuchern gefunden werden.</name>
+	</text>
+	<text>
+		<id>269</id>
+		<name>RESSOURCEN</name>
+	</text>
+	<text>
+		<id>270</id>
+		<name>Du kannst Bäume mit einer Axt fällen. Unterschiedliche Baumarten liefern unterschiedliche Ressourcen.
+Alle anderen, nützlichen Gegenstände kannst du in der Welt finden.
+</name>
+	</text>
+	<text>
+		<id>271</id>
+		<name>NACHT</name>
+	</text>
+	<text>
+		<id>272</id>
+		<name>Finde eine Kopflampe oder ein Nachtsichtgerät, um im Dunkeln zu sehen (Batterien erforderlich).</name>
+	</text>
+	<text>
+		<id>273</id>
+		<name>Fackeln können einen kleinen Bereich für kurze Zeit erhellen, nachdem sie geworfen wurden.</name>
+	</text>
+	<text>
+		<id>274</id>
+		<name>Das Lagerfeuer kann nachts auch als Lichtquelle dienen.</name>
+	</text>
+	<text>
+		<id>275</id>
+		<name>WASSERPUMPEN</name>
+	</text>
+	<text>
+		<id>276</id>
+		<name>Wasserpumpen können Trinkwasser enthalten. Du kannst aus ihnen trinken, aber vergiss nicht, dass Wasser nur begrenzt verfügbar ist.
+</name>
+	</text>
+	<text>
+		<id>277</id>
+		<name>Du kannst außerdem Flaschen und Feldflaschen an Wasserpumpen auffüllen.</name>
+	</text>
+	<text>
+		<id>278</id>
+		<name>REPARATUREN</name>
+	</text>
+	<text>
+		<id>279</id>
+		<name>Klebeband stellt bei manchen Ausrüstungsgegenständen 15 % der Haltbarkeit wieder her. </name>
+	</text>
+	<text>
+		<id>280</id>
+		<name>Ein Nähset stellt bei manchen Ausrüstungsgegenständen 50 % der Haltbarkeit wieder her. </name>
+	</text>
+	<text>
+		<id>281</id>
+		<name>Ein Reinigungsset stellt bei Feuerwaffen 25 % der Haltbarkeit wieder her.</name>
+	</text>
+	<text>
+		<id>282</id>
+		<name>JAGEN</name>
+	</text>
+	<text>
+		<id>283</id>
+		<name>Du kannst Hirsche in der Nähe von Wasser oder in Wäldern finden. Sie sind allerding sehr vorsichtig, also brauchst du zwingend eine Fernkampfwaffe, um welche zu jagen.
+</name>
+	</text>
+	<text>
+		<id>284</id>
+		<name>Wenn du einen Hirsch schießt, kannst du ihn mit einem Messer ausnehmen, um Fleisch zu bekommen.</name>
+	</text>
+	<text>
+		<id>285</id>
+		<name>Fleisch kann am Lagerfeuer gekocht werden.</name>
+	</text>
+	<text>
+		<id>286</id>
+		<name>IMPROVISIERTER BOGEN</name>
+	</text>
+	<text>
+		<id>287</id>
+		<name>Eschenholz-Stock + Seil = Bogen</name>
+	</text>
+	<text>
+		<id>288</id>
+		<name>Holzstöcke + beliebiges Messer = Pfeile</name>
+	</text>
+	<text>
+		<id>289</id>
+		<name>IMPROVISIERTE RUCKSÄCKE</name>
+	</text>
+	<text>
+		<id>290</id>
+		<name>Seil + Jutesack = Improvisierter Beutel (3 Felder)</name>
+	</text>
+	<text>
+		<id>291</id>
+		<name>Improvisierter Beutel + 3 Holzstöcke = Improvisierter Rucksack (5 Felder)</name>
+	</text>
+	<text>
+		<id>292</id>
+		<name>LAGERFEUER</name>
+	</text>
+	<text>
+		<id>293</id>
+		<name>Holzstapel + Stofffetzen/Holzstöcke/Papier = Lagerfeuer-Set</name>
+	</text>
+	<text>
+		<id>294</id>
+		<name>Platziere ein Lagerfeuer-Set auf dem Boden und zünde es mit Streichhölzern an.</name>
+	</text>
+	<text>
+		<id>295</id>
+		<name>Die Karte steht nach dem Tutorial zur Verfügung.</name>
+	</text>
+	<text>
+		<id>296</id>
+		<name>BOOTE</name>
+	</text>
+	<text>
+		<id>297</id>
+		<name>Ein Boot kann dazu genutzt werden, um sich von einer Insel zur nächsten fortzubewegen. Dazu muss es jedoch zunächst repariert werden (Holzstapel oder Klebeband). 
+Du kannst mehrere Inseln bereisen, aber sei vorsichtig: Sobald du eine Insel verlassen hast, kannst du nicht mehr zurückkehren.
+</name>
+	</text>
+	<text>
+		<id>298</id>
+		<name>BASISBAU</name>
+	</text>
+	<text>
+		<id>299</id>
+		<name>Zivilzelte können aufgestellt und genutzt werden, um sich aufzuwärmen und Gegenstände zu lagern. 
+Gegenstände werden dauerhaft gelagert.
+</name>
+	</text>
+	<text>
+		<id>300</id>
+		<name>Hergestellte Zäune und Stacheldraht verlangsamen Feinde im Falle eines Angriffs.</name>
+	</text>
+	<text>
+		<id>301</id>
+		<name>Ruiniert</name>
+	</text>
+	<text>
+		<id>302</id>
+		<name>Ablegen</name>
+	</text>
+	<text>
+		<id>303</id>
+		<name>Zerreißen</name>
+	</text>
+	<text>
+		<id>304</id>
+		<name>Umschalten</name>
+	</text>
+	<text>
+		<id>305</id>
+		<name>Aufstellen</name>
+	</text>
+	<text>
+		<id>306</id>
+		<name>Stapeln</name>
+	</text>
+	<text>
+		<id>307</id>
+		<name>Hauptwaffe laden</name>
+	</text>
+	<text>
+		<id>308</id>
+		<name>Beutel herstellen</name>
+	</text>
+	<text>
+		<id>309</id>
+		<name>Bogen herstellen</name>
+	</text>
+	<text>
+		<id>310</id>
+		<name>Pfeile herstellen</name>
+	</text>
+	<text>
+		<id>311</id>
+		<name>Lagerfeuer-Set herst.</name>
+	</text>
+	<text>
+		<id>312</id>
+		<name>Reinigen</name>
+	</text>
+	<text>
+		<id>313</id>
+		<name>Im Nahkampf nutzen</name>
+	</text>
+	<text>
+		<id>314</id>
+		<name>Messer einstecken</name>
+	</text>
+	<text>
+		<id>315</id>
+		<name>Flicken</name>
+	</text>
+	<text>
+		<id>316</id>
+		<name>Batterie anschließen</name>
+	</text>
+	<text>
+		<id>317</id>
+		<name>Rucksack herstellen</name>
+	</text>
+	<text>
+		<id>318</id>
+		<name>Essen</name>
+	</text>
+	<text>
+		<id>319</id>
+		<name>Trinken</name>
+	</text>
+	<text>
+		<id>320</id>
+		<name>Pflanzen</name>
+	</text>
+	<text>
+		<id>321</id>
+		<name>Ausnehmen</name>
+	</text>
+	<text>
+		<id>322</id>
+		<name>Mit Wasser füllen</name>
+	</text>
+	<text>
+		<id>323</id>
+		<name>Steak kochen</name>
+	</text>
+	<text>
+		<id>324</id>
+		<name>Wärmepack verwenden</name>
+	</text>
+	<text>
+		<id>325</id>
+		<name>Bandagieren</name>
+	</text>
+	<text>
+		<id>326</id>
+		<name>Bluttransfusion</name>
+	</text>
+	<text>
+		<id>327</id>
+		<name>Anzünden und werfen</name>
+	</text>
+	<text>
+		<id>328</id>
+		<name>Granate werfen</name>
+	</text>
+	<text>
+		<id>329</id>
+		<name>Lagerfeuer anzünden</name>
+	</text>
+	<text>
+		<id>330</id>
+		<name>Kochsalzlösung nutzen</name>
+	</text>
+	<text>
+		<id>331</id>
+		<name>Aufteilen</name>
+	</text>
+	<text>
+		<id>332</id>
+		<name>Anwenden</name>
+	</text>
+	<text>
+		<id>333</id>
+		<name>Vitamine essen</name>
+	</text>
+	<text>
+		<id>334</id>
+		<name>Zaun bauen</name>
+	</text>
+	<text>
+		<id>335</id>
+		<name>Angezündet</name>
+	</text>
+	<text>
+		<id>336</id>
+		<name>Kritisch</name>
+	</text>
+	<text>
+		<id>337</id>
+		<name>XP</name>
+	</text>
+	<text>
+		<id>338</id>
+		<name>Bereich absuchen</name>
+	</text>
+	<text>
+		<id>339</id>
+		<name>Zweitwaffe laden</name>
+	</text>
+	<text>
+		<id>400</id>
+		<name>Scharfschütze
+Erhöht die Chance auf einen Kopfschuss mit Fernkampfwaffen.</name>
+	</text>
+	<text>
+		<id>401</id>
+		<name>Aufklärer
+Du kannst feindliche Überlebende aus größerer Entfernung aufspüren.</name>
+	</text>
+	<text>
+		<id>402</id>
+		<name>Sprinter
+Deine Laufgeschwindigkeit wird um 10 % erhöht.</name>
+	</text>
+	<text>
+		<id>403</id>
+		<name>Kamel
+Deine Durstrate verringert sich um 15 %.</name>
+	</text>
+	<text>
+		<id>404</id>
+		<name>Hamster
+Deine Hungerrate verringert sich um 15 %.</name>
+	</text>
+	<text>
+		<id>405</id>
+		<name>Schneefreund
+Deine Kälteresistenz erhöht sich um 20 %.</name>
+	</text>
+	<text>
+		<id>406</id>
+		<name>Kugelsammler
+Jedes Mal, wenn du Munition findest, erhältst du 3 Schuss zusätzlich.</name>
+	</text>
+	<text>
+		<id>407</id>
+		<name>Überlebenskünstler
+Deine Regenerationsgeschwindigkeit verdoppelt sich, wenn deine Blutmenge unter 50 % sinkt.</name>
+	</text>
+	<text>
+		<id>408</id>
+		<name>Blocker
+Erhöht deine Chance, gegnerische Angriffe im Nahkampf zu blocken.</name>
+	</text>
+	<text>
+		<id>409</id>
+		<name>Schläger
+Erhöht deine Chance, im Nahkampf pro Angriff mehrmals Schaden zu verursachen.</name>
+	</text>
+	<text>
+		<id>410</id>
+		<name>Kofferraum-Plünderer
+Erhöht die Chance, in Kofferräumen Beute zu finden.</name>
+	</text>
+	<text>
+		<id>411</id>
+		<name>Jäger
+Tiere haben eine geringere Chance, den Spieler zu bemerken.</name>
+	</text>
+	<text>
+		<id>412</id>
+		<name>Stubenhocker
+Du erhältst in Gebäuden 50 % mehr Wärme.</name>
+	</text>
+	<text>
+		<id>413</id>
+		<name>Rot+
+Verringert den Blutverlust bei Blutungen, oder wenn der Spieler krank ist.</name>
+	</text>
+
+<text>
+	<id>414</id>
+	<name>Nachtaktiv
+Du siehst ein wenig besser im Dunkeln.</name>
+</text>
+
+<text>
+	<id>415</id>
+	<name>Agrarwissenschaftler
+Du sammelst mehr Beeren. Deine Pflanzen verwelken nicht.</name>
+</text>
+
+	<text>
+		<id>451</id>
+		<name>Repariere dieses Boot mit einem Holzstapel, um weiterzureisen. Fälle einen Baum mit einer Axt, um einen Holzstapel zu bekommen.</name>
+	</text>
+	<text>
+		<id>452</id>
+		<name>Hey, das sieht nach Beute aus! Geh hin und sammle sie ein.</name>
+	</text>
+	<text>
+		<id>453</id>
+		<name>Hier kannst du alle deine aufgesammelten Gegenstände sehen.</name>
+	</text>
+	<text>
+		<id>454</id>
+		<name>Das ist dein Hand-Slot. Er steht immer zur Verfügung, auch wenn du keine andere Ausrüstung hast. Tippe ihn an, um Gegenstände zu verwenden.</name>
+	</text>
+	<text>
+		<id>455</id>
+		<name>Willkommen, Überlebender. Du bist auf einer kleinen Insel gefangen und deine einzige Chance zu entkommen ist, ein Boot zu finden.</name>
+	</text>
+	<text>
+		<id>456</id>
+		<name>Bewege dich, indem du den Bildschirm antippst oder darauf zeichnest</name>
+	</text>
+	<text>
+		<id>457</id>
+		<name>Bewegung mit Stick</name>
+	</text>
+	<text>
+		<id>458</id>
+		<name>Wähle den Bewegungsmodus aus. Du kannst ihn jederzeit wechseln.</name>
+	</text>
+	<text>
+		<id>459</id>
+		<name>So lange du überlebst und Feinde tötest, erhältst du Erfahrungspunkte (XP), mit denen du Perks freischalten kannst.</name>
+	</text>
+	<text>
+		<id>460</id>
+		<name>Wähle einen Perk aus und tippe auf das Plus-Symbol. Der Perk bleibt aktiv, bis dein Charakter stirbt.</name>
+	</text>
+	<text>
+		<id>461</id>
+		<name>Nutze die Schaltfläche „Interagieren“, um Gegenstände aufzuheben und mit der Umwelt zu interagieren.</name>
+	</text>
+	<text>
+		<id>462</id>
+		<name>Jetzt hast du eine Fernkampfwaffe! Du zielst automatisch und kannst mit dieser Schaltfläche schießen.</name>
+	</text>
+	<text>
+		<id>463</id>
+		<name>Lade deine Waffe mit dieser Schaltfläche nach, wenn du die passende Munition hast.</name>
+	</text>
+	<text>
+		<id>464</id>
+		<name>Wechsle zwischen dem Nah- und Fernkampfmodus.</name>
+	</text>
+	<text>
+		<id>465</id>
+		<name>Du blutest!
+Finde eine Bandage oder zerreiße dein T-Shirt, um Stofffetzen herzustellen.
+</name>
+	</text>
+	<text>
+		<id>466</id>
+		<name>Deine Blutmenge ist auf Null gefallen. Glücklicherweise ist dies nur ein Tutorial, in dem du nicht sterben kannst. Mach weiter!</name>
+	</text>
+	<text>
+		<id>467</id>
+		<name>Verwalte deine Gegenstände im Inventar mithilfe von Drag-and-Drop.</name>
+	</text>
+	<text>
+		<id>468</id>
+		<name>Das ist eine Schusswaffe. Üblicherweise findet man welche in Militärgebäuden.</name>
+	</text>
+	<text>
+		<id>469</id>
+		<name>Ein Infizierter ist im Weg! Greife ihn an, indem du dich ihm näherst. Der Kampf wird automatisch abgehandelt.</name>
+	</text>
+	<text>
+		<id>470</id>
+		<name>Wölfe! Verhalte dich ruhig. Wölfe sind ziemlich gefährlich – besonders in Rudeln.</name>
+	</text>
+	<text>
+		<id>471</id>
+		<name>Eine Wasserpumpe. Du kannst daraus trinken und deine Feld- und Wasserflaschen daran auffüllen.</name>
+	</text>
+	<text>
+		<id>472</id>
+		<name>Ein verlassenes Auto. Du kannst den Kofferraum nach Baute durchsuchen, wenn du dich von hinten an das Auto heranbewegst.</name>
+	</text>
+	<text>
+		<id>473</id>
+		<name>Du kannst Hirsche jagen und sie mit einem Messer ausnehmen, um Fleisch zu bekommen.</name>
+	</text>
+	<text>
+		<id>474</id>
+		<name>Du kannst Hasen jagen und sie mit einem Messer ausnehmen, um Fleisch zu bekommen.</name>
+	</text>
+	<text>
+		<id>475</id>
+		<name>Du kannst Beeren an bestimmten Sträuchern ernten – sieh dich einfach um.</name>
+	</text>
+	<text>
+		<id>500</id>
+		<name>English</name>
+	</text>
+	<text>
+		<id>501</id>
+		<name>Français</name>
+	</text>
+	<text>
+		<id>502</id>
+		<name>Italiano</name>
+	</text>
+	<text>
+		<id>503</id>
+		<name>Deutsch</name>
+	</text>
+	<text>
+		<id>504</id>
+		<name>Español</name>
+	</text>
+	<text>
+		<id>505</id>
+		<name>Русский</name>
+	</text>
+<text>
+	<id>506</id>
+	<name>Čeština</name>
+</text>
+<text>
+	<id>507</id>
+	<name>Português(BR)</name>
+</text>
+<text>
+	<id>508</id>
+	<name>简体中文</name>
+</text>
+<text>
+	<id>509</id>
+	<name>繁體中文</name>
+</text>
+<text>
+	<id>530</id>
+	<name>Um Errungenschaften freizuschalten, musst du eine vollständige Sitzung spielen, bis dein Charakter stirbt. Es gibt 3 Stufen: Bronze für Anfänger, Silber für Soldat und Gold für Veteran. Du kannst niedrigere Stufen freischalten, wenn du eine höhere Schwierigkeit auswählst, aber nicht umgekehrt. Höhere Stufen sind meistens schwieriger freizuschalten.</name>
+</text>
+
+<text>
+	<id>531</id>
+	<name>Werte</name>
+</text>
+
+<text>
+	<id>532</id>
+	<name>Perks</name>
+</text>
+
+<text>
+	<id>533</id>
+	<name>Punktzahl</name>
+</text>
+
+<text>
+	<id>534</id>
+	<name>Optionen</name>
+</text>
+
+<text>
+	<id>535</id>
+	<name>Bestenlisten</name>
+</text>
+
+<text>
+	<id>536</id>
+	<name>Punkte zum Freischalten: </name>
+</text>
+
+<text>
+	<id>537</id>
+	<name>Verlassen</name>
+</text>
+
+<text>
+	<id>538</id>
+	<name>Langsame Internetverbindung!</name>
+</text>
+
+<text>
+	<id>539</id>
+	<name>Abbrechen</name>
+</text>
+
+<text>
+	<id>540</id>
+	<name>Möchtest du das Spiel wirklich verlassen? Fortschritte im Tutorial werden nicht gespeichert.</name>
+</text>
+
+<text>
+	<id>541</id>
+	<name>Möchtest du das Spiel wirklich verlassen? Dein Spiel wird gespeichert.</name>
+</text>
+
+<text>
+	<id>542</id>
+	<name>Du bist tot</name>
+</text>
+
+<!--1.2.0 Content-->
+
+
+<text>
+	<id>340</id>
+	<name>Anbringen</name>
+</text>
+
+<text>
+	<id>341</id>
+	<name>Abnehmen</name>
+</text>
+
+<text>
+	<id>342</id>
+	<name>Zielfernrohr</name>
+</text>
+
+<text>
+	<id>343</id>
+	<name>Schalldämpfer</name>
+</text>
+
+<text>
+	<id>344</id>
+	<name>Patronenhalter</name>
+</text>
+
+<text>
+	<id>345</id>
+	<name>Gewehr absägen</name>
+</text>
+
+<text>
+	<id>346</id>
+	<name>Gewehr absägen</name>
+</text>
+
+<text>
+	<id>347</id>
+	<name>Wärme </name>
+</text>
+
+<text>
+	<id>348</id>
+	<name>Rüstg. </name>
+</text>
+
+<text>
+	<id>349</id>
+	<name>Du kannst dieses Boot mit einem Gaskanister betanken.</name>
+</text>
+
+<text>
+	<id>350</id>
+	<name>Treibstoff</name>
+</text>
+
+<text>
+	<id>351</id>
+	<name>Du brauchst einen Gaskanister, um dieses Boot zu betanken.</name>
+</text>
+
+<text>
+	<id>352</id>
+	<name>Diesen Bunker betreten? Du kannst ihn wieder verlassen.</name>
+</text>
+
+<text>
+	<id>353</id>
+	<name>Diesen Bunker verlassen? Du kannst später zurückkehren.</name>
+</text>
+
+<text>
+	<id>354</id>
+	<name>Airdrops sind im Untergrund nicht verfügbar.</name>
+</text>
+
+<text>
+	<id>355</id>
+	<name>Du bist ohnmächtig.</name>
+</text>
+
+<text>
+	<id>356</id>
+	<name>Sieh dir die Werbeanzeige an, um aufzuwachen.</name>
+</text>
+
+<text>
+	<id>357</id>
+	<name>Bunker nicht verfügbar. Versuche es später noch einmal.</name>
+</text>
+
+<text>
+	<id>358</id>
+	<name>Weitere Spiele</name>
+</text>
+
+<text>
+	<id>359</id>
+	<name>Du bist kurz vor dem Tod. Deine einzige Chance zu überleben ist, die Werbeanzeige anzusehen und dann die Adrenalinspritze zu nehmen.</name>
+</text>
+
+<text>
+	<id>360</id>
+	<name>Du benötigst eine Internetverbindung, um fortzufahren.</name>
+</text>
+
+<text>
+	<id>361</id>
+	<name>Spritze nehmen</name>
+</text>
+
+<text>
+	<id>362</id>
+	<name>Ablehnen</name>
+</text>
+
+<!--PAD-->
+
+<text>
+	<id>242</id>
+	<name>Aufsätze</name>
+</text>
+
+<text>
+	<id>243</id>
+	<name>Patronenhalter – Nachladegeschwindigkeit um 30 % erhöht</name>
+</text>
+
+<text>
+	<id>244</id>
+	<name>RDS-Zielvisier – Leicht verringerte Streuung</name>
+</text>
+
+<text>
+	<id>245</id>
+	<name>Optische Zielvisiere – Verringerte Streuung, + 10 % Kopfschuss-Chance</name>
+</text>
+
+<text>
+	<id>246</id>
+	<name>Verbirgt Mündungsfeuer und macht Schüsse geräuschlos.</name>
+</text>
+
+
+<!--1.3.0 Content-->
+
+<text>
+	<id>363</id>
+	<name>Auto reparieren</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>Kate „Die Touristin"
+Startausrüstung: Jeanshose, Regenmantel, Zivilzelt, Kopflampe.
+Freigeschaltete Perks: Jäger, Nachtaktiv.</name>
+</text>
+
+<text>
+	<id>93</id>
+	<name>Jasmine „Die Holzfällerin"
+Startausrüstung: Jägerhose, T-Shirt, Barett, Beil, Klebeband.
+Freigeschaltete Perks: Hamster, Kamel, Schneefreund.
+</name>
+</text>
+
+<text>
+	<id>94</id>
+	<name>Aika „Die Korrespondentin"
+Startausrüstung: Jeanshose, T-Shirt, Kappe, Presseweste, Feldflasche, Radio.
+Freigeschaltete Perks: Sprinter, Aufklärer.
+</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>Kate „Die Touristin"
+Freischalten: Finde zwei fahrtüchtige Fahrzeuge auf der 4. Insel. Schwierigkeitsgrad: „Veteran".
+</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>Jasmine „Die Holzfällerin"
+Freischalten: Senke dein Karma in einem Durchgang auf -100 und bringe es dann auf +100. Schwierigkeitsgrad: „Veteran".
+</name>
+</text>
+
+<text>
+	<id>142</id>
+	<name>Aika „Die Korrespondentin"
+Freischalten: Schließe drei Aufträge von Überlebenden in einem Durchgang ab. Schwierigkeitsgrad: „Veteran".
+</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>Abgeschlossen</name>
+</text>
+
+<text>
+	<id>139</id>
+	<name>Aufträge</name>
+</text>
+
+<text>
+	<id>364</id>
+	<name>Hey, du! Unsere Gruppe sucht nach </name>
+</text>
+
+<text>
+	<id>365</id>
+	<name>Als Belohnung bekommst du </name>
+</text>
+
+<text>
+	<id>366</id>
+	<name>Vielen Dank! Hier sind die Koordinaten für deine Belohnung.</name>
+</text>
+
+<text>
+	<id>367</id>
+	<name>Zur Zeit gibt es keinen aktiven Auftrag.</name>
+</text>
+
+<text>
+	<id>368</id>
+	<name>Koordinaten für fahrtüchtiges Fahrzeug.</name>
+</text>
+
+<text>
+	<id>369</id>
+	<name>Koordinaten für unterirdischen Bunkereingang.</name>
+</text>
+
+<text>
+	<id>370</id>
+	<name>Koordinaten für interessanten Ort.
+</name>
+</text>
+
+<text>
+	<id>371</id>
+	<name>Eine Gruppe Überlebender sucht nach diesem Gegenstand:</name>
+</text>
+
+<text>
+	<id>372</id>
+	<name>Hey, wir brauchen Hilfe! Eine Gruppe Banditen hat in der Nähe ihr Lager aufgeschlagen. Schalte sie aus und du wirst es nicht bereuen.</name>
+</text>
+
+<text>
+	<id>373</id>
+	<name>Hast du gefunden, wonach du gesucht hast?</name>
+</text>
+
+<text>
+	<id>374</id>
+	<name>Karma</name>
+</text>
+
+<text>
+	<id>375</id>
+	<name>Öffnen</name>
+</text>
+
+<text>
+	<id>376</id>
+	<name>Koordinaten für ein Boot an der Ostküste.</name>
+</text>
+
+<text>
+	<id>377</id>
+	<name>Hey, wir wurden überfallen und haben unseren Sicherheitskoffer verloren. Wenn du ihn zurückbringst, bekommst du eine Belohnung.
+</name>
+</text>
+
+<text>
+	<id>378</id>
+	<name>Komm zurück, wenn du dich um die Banditen gekümmert hast.</name>
+</text>
+
+<text>
+	<id>379</id>
+	<name>Hast du unseren Koffer gefunden?</name>
+</text>
+
+<text>
+	<id>380</id>
+	<name>Vielen Dank! Hier sind die Koordinaten für deine Belohnung.</name>
+</text>
+
+<text>
+	<id>381</id>
+	<name>Belohnung für diesen Auftrag:</name>
+</text>
+
+<text>
+	<id>382</id>
+	<name>Eine Gruppe Überlebender hat einen Sicherheitskoffer verloren. Wenn ich ihn finde, kann ich ihn zurückbringen, oder ihn öffnen und den Inhalt stehlen.</name>
+</text>
+
+<text>
+	<id>383</id>
+	<name>Eine Gruppe Überlebender hat mich darum gebeten, ein Banditenlager zu beseitigen.</name>
+</text>
+
+<text>
+	<id>384</id>
+	<name>Verbleibende Zeit:</name>
+</text>
+
+<text>
+	<id>385</id>
+	<name>Tage überlebt</name>
+</text>
+
+<text>
+	<id>386</id>
+	<name>Banditen ausgeschaltet. Ich muss zu den Überlebenden zurückkehren, um meine Belohnung abzuholen.</name>
+</text>
+
+<text>
+	<id>387</id>
+	<name>Aktueller Auftrag fehlgeschlagen.</name>
+</text>
+
+<text>
+	<id>388</id>
+	<name>Angeln</name>
+</text>
+
+<text>
+	<id>389</id>
+	<name>Angelrute herstellen</name>
+</text>
+
+<text>
+	<id>390</id>
+	<name>Freischaltbare Inhalte</name>
+</text>
+
+<text>
+	<id>391</id>
+	<name>Waffen</name>
+</text>
+
+<text>
+	<id>392</id>
+	<name>MAC-10
+Freischalten: Töte 100 Infizierte mit Pistolen.
+Schwierigkeitsgrad: „Soldat" oder „Veteran".
+Aktueller Status:</name>
+</text>
+
+<text>
+	<id>393</id>
+	<name>Saiga-12k
+Freischalten: Töte 150 Infizierte mit Schrotflinten.
+Schwierigkeitsgrad: „Soldat" oder „Veteran".
+Aktueller Status:</name>
+</text>
+
+<text>
+	<id>394</id>
+	<name>AUG
+Freischalten: Töte 200 Infizierte mit vollautomatischen Waffen oder SMGs.
+Schwierigkeitsgrad: „Soldat"" oder „Veteran".
+Aktueller Status:</name>
+</text>
+
+<text>
+	<id>395</id>
+	<name>MAC-10
+Freigeschaltet
+Fundorte: Waffengeschäfte, NATO-Fahrzeugwracks, unterirdische Bunker.
+</name>
+</text>
+
+<text>
+	<id>396</id>
+	<name>Saiga-12k
+Freigeschaltet.
+Fundorte: Waffengeschäfte, unterirdische Bunker, Militärbasen.
+</name>
+</text>
+
+<text>
+	<id>397</id>
+	<name>AUG
+Freigeschaltet.
+Fundorte: NATO-Fahrzeugwracks, unterirdische Bunker, Militärbasen.
+</name>
+</text>
+
+<text>
+	<id>398</id>
+	<name>Neue Waffe freigeschaltet!</name>
+</text>
+
+
+<!--1.4.0 Content-->
+
+<text>
+	<id>416</id>
+	<name>VSS 
+Um freizuschalten: Finde 6 abgestürzte Helikopter in einem Lauf.
+Schwierigkeit: „Veteran".
+Aktueller Status: </name>
+</text>
+
+<text>
+	<id>417</id>
+	<name>VSS 
+Freigeschaltet.
+Fundorte: Untergrund-Bunker, OST-Militärbasen.</name>
+</text>
+
+<text>
+	<id>418</id>
+	<name>SV-98
+Um freizuschalten: Erziele 200 Kopfschüsse an Infizierten mit Gewehren (Mosin Nagant, SKS, SVD, Repetiergewehr).
+Schwierigkeit: „Veteran".
+Aktueller Status: </name>
+</text>
+
+<text>
+	<id>419</id>
+	<name>SV-98
+Freigeschaltet.
+Fundorte: Untergrund-Bunker.
+</name>
+</text>
+
+<text>
+	<id>420</id>
+	<name>Du möchtest einen freundlichen Überlebenden zur Hilfe rufen? Er kommt gleich nach dem Video an.
+</name>
+</text>
+
+<text>
+	<id>421</id>
+	<name>Rufen
+</name>
+</text>
+
+<text>
+	<id>422</id>
+	<name>Hier tippen, wenn du bereit für die nächste Welle bist.
+</name>
+</text>
+
+<text>
+	<id>423</id>
+	<name>Die Infizierten kommen!</name>
+</text>
+
+<text>
+	<id>424</id>
+	<name>Bereich gesichert, Abwurf erfolgt.</name>
+</text>
+
+<text>
+	<id>425</id>
+	<name>Prepare for first wave.</name>
+</text>
+
+<text>
+	<id>426</id>
+	<name>Spielmodus:</name>
+</text>
+
+<text>
+	<id>427</id>
+	<name>Casual</name>
+</text>
+
+<text>
+	<id>428</id>
+	<name>Strahlung</name>
+</text>
+
+<text>
+	<id>429</id>
+	<name>Battle Royale</name>
+</text>
+
+<text>
+	<id>430</id>
+	<name>Staatsfeind</name>
+</text>
+
+<text>
+	<id>431</id>
+	<name>Feuergefecht</name>
+</text>
+
+<text>
+	<id>432</id>
+	<name>Invasion</name>
+</text>
+
+<text>
+	<id>433</id>
+	<name>Wildtiere</name>
+</text>
+
+<text>
+	<id>434</id>
+	<name>Durchbruch</name>
+</text>
+
+<text>
+	<id>435</id>
+	<name>Casual. Nach dem Tod deines Charakters spawnst du erneut an der Küste der aktuellen Insel.</name>
+</text>
+
+<text>
+	<id>436</id>
+	<name>Strahlung. Auf der Insel tauchen Strahlungszonen auf. Strahlenkrankheit kann geheilt werden.</name>
+</text>
+
+<text>
+	<id>437</id>
+	<name>Battle Royale. Kurz nach Beginn tauchen Todeszonen auf der Insel auf. Der Beutespawn wird erhöht.</name>
+</text>
+
+<text>
+	<id>438</id>
+	<name>Staatsfeind. Alle anderen Überlebenden werden kurz nach Beginn damit anfangen, dich zu jagen.
+</name>
+</text>
+
+<text>
+	<id>439</id>
+	<name>Feuergefecht: Fast alle Zombies haben jetzt Schusswaffen.</name>
+</text>
+
+<text>
+	<id>440</id>
+	<name>Invasion. Überall mehr Zombies!</name>
+</text>
+
+<text>
+	<id>441</id>
+	<name>Wildtiere. Fast alle Zombies werden durch Wölfe ersetzt.</name>
+</text>
+
+<text>
+	<id>442</id>
+	<name>Durchbruch. Verteidige deine Stellung gegen so viele Zombies wie möglich.</name>
+</text>
+
+<text>
+	<id>443</id>
+	<name>Während du einen dieser Spielmodi spielst, kannst du keine Charaktere, Waffen oder Errungenschaften freischalten.</name>
+</text>
+
+<text>
+	<id>444</id>
+	<name>Überleben</name>
+</text>
+
+<text>
+	<id>445</id>
+	<name>Spezial</name>
+</text>
+
+<text>
+	<id>446</id>
+	<name>Start</name>
+</text>
+
+<text>
+	<id>447</id>
+	<name>Welle </name>
+</text>
+
+
+</list>

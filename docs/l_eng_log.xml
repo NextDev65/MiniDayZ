@@ -1,0 +1,545 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--Player phrases-->
+
+<text>
+	<id>1</id>
+	<name>I'm no longer bleeding.</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>I feel healthy.</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>I can feel blood dripping.</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>I'm freezing.</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>I'm dying of starvation.</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>I'm dying of dehydration.</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>I found something in this trunk.</name>
+</text>
+
+<text>
+	<id>8</id>
+	<name>There is nothing in this trunk.</name>
+</text>
+
+<!--Player phrase: when no ammo for reloading-->
+<text>
+	<id>9</id>
+	<name>No more ammo.</name>
+</text>
+<!--Player phrase: when ranged weapon is empited-->
+<text>
+	<id>10</id>
+	<name>Mag empty.</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>Weapon ruined!</name>
+</text>
+
+<text>
+	<id>12</id>
+	<name>There's no water in this pump.</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>I don't want to drink.</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>I've eaten a raw steak.</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>I need a water pump for that.</name>
+</text>
+
+<text>
+	<id>16</id>
+	<name>I've filled it with a waterpump.</name>
+</text>
+
+<text>
+	<id>17</id>
+	<name>I've eaten </name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>I've drunk </name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>I've used </name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>Weapon fully loaded.</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>Ammo loaded.</name>
+</text>
+
+<!--Player phrase: when trying to load wrong ammo-->
+<text>
+	<id>34</id>
+	<name>It doesn't fit there.</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>I've applied bandage.</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>I'm not bleeding.</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>Blood transfusion completed.</name>
+</text>
+
+<!--Player phrase: when trying to load battery to nvg/headlamp-->
+<text>
+	<id>38</id>
+	<name>Already charged.</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>I need a headlamp or NVG.</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>I need a fireplace kit on the ground to ignite.</name>
+</text>
+
+<text>
+	<id>41</id>
+	<name>I've drunk whiskey.</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>Saline transfusion complete.</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>I've eaten vitamins.</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>Weapon ruined.</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>Weapon cleaned.</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>I've eaten tetracycline.</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>Vehicle fueled.</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>I need a drivable vehicle for that.</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>Bottle empty.</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>I've drunk from the water bottle.</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>Canteen empty.</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>I've drunk from the canteen.</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>Landmine planted.</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>Beartrap planted.</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>Vehicle repaired.</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>I've cooked a steak.</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>I need an active fireplace for that.</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>I've eaten cooked steak.</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>I've drunk a Nuko Cola. Feels great!</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>Prey skinned.</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>Nothing to flay.</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>No free slots.</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>Knife ruined.</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>I need more wooden sticks for that.</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>Headlamp ruined.</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>NVG ruined.</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>I've drunk Kvas.</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>It requires a pickaxe, pitchfork or shovel.</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>Not possible to plant here.</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>Planted.</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>Block</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>I need a knife to flay prey.</name>
+</text>
+
+<!-- When trying to switch to firearm and you dont have any  -->
+<text>
+	<id>73</id>
+	<name>I have no ranged weapon.</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>Tap where to throw the flare.</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>Tap where to throw the grenade.</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>It's already full.</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>I've drunk from the water pump.</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>I want to eat something.</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>I want to drink something.</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>It's pretty cold.</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>I'm cooling off.</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>I'm warming up.</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>I need more battery charge.</name>
+</text>
+
+<text>
+	<id>84</id>
+	<name>Looks like there are no military crashes nearby.</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>Looks like a military crash site is nearby.</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>100</id>
+	<name>Damn, I'm seriously wounded.</name>
+</text>
+
+<!-- Friend bots phrases: when player get into house, bot starts patroling entrance  -->
+<text>
+	<id>101</id>
+	<name>Ok, I'm on the watch.</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>I will cover while you loot.</name>
+</text>
+
+<!-- Friend bots phrase: when player gets on firing line -->
+<text>
+	<id>103</id>
+	<name>You're blocking the target!</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>104</id>
+	<name>Hey! Let's team up!</name>
+</text>
+
+<!-- Enemy Melee bot phrases on getting hit from firearm-->
+<text>
+	<id>105</id>
+	<name>Unfair!</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>Damn, he has a gun!</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>Shit!</name>
+</text>
+
+<!-- Enemy Bot with firearm when spots player -->
+<text>
+	<id>108</id>
+	<name>Get over here!</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>Eat this!</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>I see you!</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>I have nothing for exchange. Sorry, ask someone else.</name>
+</text>
+
+<!-- Additional player phrases -->
+
+<text>
+	<id>125</id>
+	<name>I’m friendly.</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>Good.</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>Thanks for repairing the boat for us.</name>
+</text>
+
+<!-- Update 1.2.0 addings -->
+
+<text>
+	<id>86</id>
+	<name>This rifle can't be sawed off.</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>This door is completely broken.</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>Gas is here! I need a gas mask!</name>
+</text>
+
+<!-- Update 1.3.0 addings -->
+
+<text>
+	<id>89</id>
+	<name>I need a drivable vehicle for this.</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>I can't do it from inside of the car.</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>This vehicle already is in a good condition.</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>This vehicle already is fully fueled.</name>
+</text>
+
+<!-- Quests -->
+
+<text>
+	<id>131</id>
+	<name>I have nothing to say to you.</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>I need a lake or a sea for this.</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>I don't see any fish nearby.</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>I am not sick.</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>Thanks again for your help. We are leaving soon.</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>There is a note with info about some places on the map.</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>Thanks! Your reward is marked on your map.</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>Gotcha!</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>Damn, slipped away.</name>
+</text>
+
+</list>

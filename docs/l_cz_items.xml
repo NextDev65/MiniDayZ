@@ -1,0 +1,858 @@
+<?xml version="1.0"?>
+<list>
+	<item>
+		<id>1</id>
+		<name>Plechovka fazolí</name>
+	</item>
+	<item>
+		<id>2</id>
+		<name>Plechovka tuňáka</name>
+	</item>
+	<item>
+		<id>3</id>
+		<name>Taktická slanina</name>
+	</item>
+	<item>
+		<id>4</id>
+		<name>Rýže</name>
+	</item>
+	<item>
+		<id>5</id>
+		<name>Rajče</name>
+	</item>
+	<item>
+		<id>6</id>
+		<name>Jablko</name>
+	</item>
+	<item>
+		<id>7</id>
+		<name>Banán</name>
+	</item>
+	<item>
+		<id>8</id>
+		<name>Pipsi</name>
+	</item>
+	<item>
+		<id>9</id>
+		<name>Spite</name>
+	</item>
+	<item>
+		<id>10</id>
+		<name>Kvas</name>
+	</item>
+	<item>
+		<id>11</id>
+		<name>Náboje 5.56x45 mm</name>
+	</item>
+	<item>
+		<id>12</id>
+		<name>Náboje .45 ACP</name>
+	</item>
+	<item>
+		<id>13</id>
+		<name>Náboje 7.62</name>
+	</item>
+	<item>
+		<id>14</id>
+		<name>Náboje 7.62x39</name>
+	</item>
+	<item>
+		<id>15</id>
+		<name>Náboje 5.45x39 </name>
+	</item>
+	<item>
+		<id>16</id>
+		<name>Náboje .357</name>
+	</item>
+	<item>
+		<id>17</id>
+		<name>Náboje 12cal</name>
+	</item>
+	<item>
+		<id>18</id>
+		<name>Obvaz</name>
+	</item>
+	<item>
+		<id>19</id>
+		<name>Sáček s krví</name>
+	</item>
+	<item>
+		<id>20</id>
+		<name>Světlice</name>
+	</item>
+	<item>
+		<id>21</id>
+		<name>Granát F1</name>
+	</item>
+	<item>
+		<id>22</id>
+		<name>Baterie</name>
+	</item>
+	<item>
+		<id>23</id>
+		<name>Sada na táborák</name>
+	</item>
+	<item>
+		<id>24</id>
+		<name>Sirky</name>
+	</item>
+	<item>
+		<id>25</id>
+		<name>Whiskey</name>
+	</item>
+	<item>
+		<id>26</id>
+		<name>Hadry</name>
+	</item>
+	<item>
+		<id>27</id>
+		<name>Brusinka</name>
+	</item>
+	<item>
+		<id>28</id>
+		<name>Solný roztok</name>
+	</item>
+	<item>
+		<id>29</id>
+		<name>Vitamíny</name>
+	</item>
+	<item>
+		<id>30</id>
+		<name>Nota-Cola</name>
+	</item>
+	<item>
+		<id>31</id>
+		<name>Cuketa</name>
+	</item>
+	<item>
+		<id>32</id>
+		<name>Paprika</name>
+	</item>
+	<item>
+		<id>33</id>
+		<name>Pomeranč</name>
+	</item>
+	<item>
+		<id>34</id>
+		<name>Výhřevný sáček</name>
+	</item>
+	<item>
+		<id>35</id>
+		<name>Šitíčko</name>
+	</item>
+	<item>
+		<id>36</id>
+		<name>Čistící sada</name>
+	</item>
+	<item>
+		<id>37</id>
+		<name>Jasanový prut</name>
+	</item>
+	<item>
+		<id>38</id>
+		<name>Klacky</name>
+	</item>
+	<item>
+		<id>39</id>
+		<name>Izolační páska</name>
+	</item>
+	<item>
+		<id>40</id>
+		<name>Pytel</name>
+	</item>
+	<item>
+		<id>41</id>
+		<name>Lano</name>
+	</item>
+	<item>
+		<id>42</id>
+		<name>Lovecký nůž</name>
+	</item>
+	<item>
+		<id>43</id>
+		<name>Armádní nůž</name>
+	</item>
+	<item>
+		<id>44</id>
+		<name>Řeznický nůž</name>
+	</item>
+	<item>
+		<id>45</id>
+		<name>Morfium</name>
+	</item>
+	<item>
+		<id>46</id>
+		<name>Tetracyklin</name>
+	</item>
+	<item>
+		<id>47</id>
+		<name>Rajčatová semínka v sáčku</name>
+	</item>
+	<item>
+		<id>48</id>
+		<name>Semínka papriky v sáčku</name>
+	</item>
+	<item>
+		<id>49</id>
+		<name>Papíry</name>
+	</item>
+	<item>
+		<id>50</id>
+		<name>Hromada dřeva</name>
+	</item>
+	<item>
+		<id>51</id>
+		<name>Vyrobené šípy</name>
+	</item>
+	<item>
+		<id>52</id>
+		<name>Kompozitní šíp</name>
+	</item>
+	<item>
+		<id>53</id>
+		<name>Benzín</name>
+	</item>
+	<item>
+		<id>54</id>
+		<name>Láhev s vodou</name>
+	</item>
+	<item>
+		<id>55</id>
+		<name>Čutora</name>
+	</item>
+	<item>
+		<id>56</id>
+		<name>Nášlapná mina</name>
+	</item>
+	<item>
+		<id>57</id>
+		<name>Past na medvědy</name>
+	</item>
+	<item>
+		<id>58</id>
+		<name>Náboje .22lr </name>
+	</item>
+	<item>
+		<id>59</id>
+		<name>Sada nářadí do auta</name>
+	</item>
+	<item>
+		<id>60</id>
+		<name>Syrový steak</name>
+	</item>
+	<item>
+		<id>61</id>
+		<name>Upečený steak</name>
+	</item>
+	<item>
+		<id>62</id>
+		<name>Nuko Cola</name>
+	</item>
+	<item>
+		<id>68</id>
+		<name>Semínka cukety</name>
+	</item>
+	<item>
+		<id>69</id>
+		<name>Náboje 9 mm</name>
+	</item>
+	<item>
+		<id>70</id>
+		<name>Ostnatý drát</name>
+	</item>
+	<item>
+		<id>71</id>
+		<name>Králičí maso</name>
+	</item>
+	<item>
+		<id>72</id>
+		<name>Upečené králičí maso</name>
+	</item>
+	<item>
+		<id>73</id>
+		<name>Moruška</name>
+	</item>
+	<item>
+		<id>74</id>
+		<name>Borůvka</name>
+	</item>
+	<item>
+		<id>75</id>
+		<name>Rádio</name>
+	</item>
+		<item>
+		<id>76</id>
+		<name>Optika RDS</name>
+	</item>
+
+<item>
+	<id>77</id>
+	<name>Optika PU</name>
+</item>
+
+<item>
+	<id>78</id>
+	<name>Optika PSO-1</name>
+</item>
+
+<item>
+	<id>79</id>
+	<name>Optika ACOG</name>
+</item>
+
+<item>
+	<id>80</id>
+	<name>Tlumič 5.45</name>
+</item>
+
+<item>
+	<id>81</id>
+	<name>Tlumič 5.56</name>
+</item>
+
+<item>
+	<id>82</id>
+	<name>Pilka</name>
+</item>
+
+<item>
+	<id>83</id>
+	<name>Bandalír</name>
+</item>
+	<item>
+		<id>151</id>
+		<name>Pistole FNX</name>
+	</item>
+	<item>
+		<id>152</id>
+		<name>Colt 1911</name>
+	</item>
+	<item>
+		<id>153</id>
+		<name>Magnum</name>
+	</item>
+	<item>
+		<id>154</id>
+		<name>IZH-43</name>
+	</item>
+	<item>
+		<id>155</id>
+		<name>Brokovnice Remington</name>
+	</item>
+	<item>
+		<id>156</id>
+		<name>Mosin Nagant</name>
+	</item>
+	<item>
+		<id>157</id>
+		<name>SKS</name>
+	</item>
+	<item>
+		<id>158</id>
+		<name>Karabina M4</name>
+	</item>
+	<item>
+		<id>159</id>
+		<name>AKM</name>
+	</item>
+	<item>
+		<id>160</id>
+		<name>AK-74</name>
+	</item>
+	<item>
+		<id>161</id>
+		<name>Aks-74u</name>
+	</item>
+	<item>
+		<id>162</id>
+		<name>L85</name>
+	</item>
+	<item>
+		<id>163</id>
+		<name>Improvizovaný luk</name>
+	</item>
+	<item>
+		<id>164</id>
+		<name>Kuše</name>
+	</item>
+	<item>
+		<id>165</id>
+		<name>Pistole Amphibia</name>
+	</item>
+	<item>
+		<id>166</id>
+		<name>Sporter 22</name>
+	</item>
+	<item>
+		<id>167</id>
+		<name>Opakovačka</name>
+	</item>
+	<item>
+		<id>168</id>
+		<name>SVD</name>
+	</item>
+	<item>
+		<id>169</id>
+		<name>MP5k</name>
+	</item>
+	<item>
+		<id>170</id>
+		<name>Glock</name>
+	</item>
+	<item>
+	<id>171</id>
+	<name>Upilovaná Izh-43</name>
+</item>
+
+<item>
+	<id>172</id>
+	<name>Upilovaný Mosin</name>
+</item>
+
+<item>
+	<id>173</id>
+	<name>UMP-45</name>
+</item>
+
+<item>
+	<id>174</id>
+	<name>RPK</name>
+</item>
+
+<item>
+	<id>175</id>
+	<name>FN-CAL</name>
+</item>
+
+<item>
+	<id>176</id>
+	<name>Gravírovaný Colt</name>
+</item>
+	<item>
+		<id>200</id>
+		<name>Hasák</name>
+	</item>
+	<item>
+		<id>201</id>
+		<name>Lopata</name>
+	</item>
+	<item>
+		<id>202</id>
+		<name>Sekyrka</name>
+	</item>
+	<item>
+		<id>203</id>
+		<name>Baseballová pálka</name>
+	</item>
+	<item>
+		<id>204</id>
+		<name>Hasičská sekera</name>
+	</item>
+	<item>
+		<id>205</id>
+		<name>Páčidlo</name>
+	</item>
+	<item>
+		<id>206</id>
+		<name>Krumpáč</name>
+	</item>
+	<item>
+		<id>207</id>
+		<name>Vidle</name>
+	</item>
+	<item>
+		<id>208</id>
+		<name>Palice</name>
+	</item>
+
+<item>
+	<id>209</id>
+	<name>Meč</name>
+</item>
+
+<item>
+	<id>210</id>
+	<name>Pánev</name>
+</item>
+	<item>
+		<id>250</id>
+		<name>Plynová maska</name>
+	</item>
+	<item>
+		<id>251</id>
+		<name>Armádní helma</name>
+	</item>
+	<item>
+		<id>252</id>
+		<name>Moto helma</name>
+	</item>
+	<item>
+		<id>253</id>
+		<name>Moto helma</name>
+	</item>
+	<item>
+		<id>254</id>
+		<name>Teplá čepice</name>
+	</item>
+	<item>
+		<id>255</id>
+		<name>Baret</name>
+	</item>
+	<item>
+		<id>256</id>
+		<name>Kšiltovka</name>
+	</item>
+	<item>
+		<id>257</id>
+		<name>Kukla</name>
+	</item>
+	<item>
+		<id>258</id>
+		<name>Ušanka</name>
+	</item>
+	<item>
+		<id>259</id>
+		<name>Ochranná přilba</name>
+	</item>
+	<item>
+		<id>260</id>
+		<name>Čelovka</name>
+	</item>
+	<item>
+		<id>261</id>
+		<name>Kovbojský klobouk</name>
+	</item>
+	<item>
+		<id>262</id>
+		<name>Svářečská kukla</name>
+	</item>
+	<item>
+		<id>263</id>
+		<name>Helma Gorka</name>
+	</item>
+	<item>
+		<id>264</id>
+		<name>Policejní klobouk</name>
+	</item>
+	<item>
+		<id>265</id>
+		<name>VNV</name>
+	</item>
+	<item>
+		<id>266</id>
+		<name>Šátek</name>
+	</item>
+		<item>
+		<id>267</id>
+		<name>Přilba</name>
+	</item>
+	<item>
+		<id>300</id>
+		<name>Džíny</name>
+	</item>
+	<item>
+		<id>301</id>
+		<name>Pracovní kalhoty</name>
+	</item>
+	<item>
+		<id>302</id>
+		<name>Teplákové kalhoty</name>
+	</item>
+	<item>
+		<id>303</id>
+		<name>Kalhoty Gorka</name>
+	</item>
+	<item>
+		<id>304</id>
+		<name>Kalhoty Orel</name>
+	</item>
+	<item>
+		<id>305</id>
+		<name>Záchranářské kalhoty</name>
+	</item>
+	<item>
+		<id>306</id>
+		<name>Lovecké kalhoty</name>
+	</item>
+	<item>
+		<id>350</id>
+		<name>Tričko</name>
+	</item>
+	<item>
+		<id>351</id>
+		<name>Košile</name>
+	</item>
+	<item>
+		<id>352</id>
+		<name>Košile</name>
+	</item>
+	<item>
+		<id>353</id>
+		<name>Pršiplášť</name>
+	</item>
+	<item>
+		<id>354</id>
+		<name>Bunda</name>
+	</item>
+	<item>
+		<id>355</id>
+		<name>Bunda Gorka</name>
+	</item>
+	<item>
+		<id>356</id>
+		<name>Mikina s kapucí</name>
+	</item>
+	<item>
+		<id>357</id>
+		<name>Mikina s kapucí</name>
+	</item>
+	<item>
+		<id>358</id>
+		<name>Plášť</name>
+	</item>
+	<item>
+		<id>359</id>
+		<name>Záchranářská bunda</name>
+	</item>
+	<item>
+		<id>360</id>
+		<name>Bunda Orel</name>
+	</item>
+	<item>
+		<id>361</id>
+		<name>Tepláková bunda</name>
+	</item>
+	<item>
+		<id>362</id>
+		<name>Šaty</name>
+	</item>
+	<item>
+		<id>363</id>
+		<name>Péřová bunda</name>
+	</item>
+	<item>
+		<id>364</id>
+		<name>Lovecká bunda</name>
+	</item>
+		<item>
+		<id>365</id>
+		<name>Svetr</name>
+	</item>
+	<item>
+		<id>400</id>
+		<name>Neprůstřelná vesta</name>
+	</item>
+	<item>
+		<id>401</id>
+		<name>Novinářská vesta</name>
+	</item>
+	<item>
+		<id>402</id>
+		<name>Útočná vesta</name>
+	</item>
+	<item>
+		<id>403</id>
+		<name>Vysokokapacitní vesta</name>
+	</item>
+		<item>
+		<id>404</id>
+		<name>Kevlarová vesta</name>
+	</item>
+	<item>
+		<id>450</id>
+		<name>Batoh Taloon</name>
+	</item>
+	<item>
+		<id>451</id>
+		<name>Lovecký batoh</name>
+	</item>
+	<item>
+		<id>452</id>
+		<name>Batoh do hor</name>
+	</item>
+	<item>
+		<id>453</id>
+		<name>Školní batoh</name>
+	</item>
+	<item>
+		<id>454</id>
+		<name>Improvizovaný vak</name>
+	</item>
+	<item>
+		<id>455</id>
+		<name>Improvizovaný batoh</name>
+	</item>
+	<item>
+		<id>456</id>
+		<name>Civilní stan</name>
+	</item>
+	<item>
+		<id>457</id>
+		<name>Batoh Tortilla</name>
+	</item>
+
+
+<!--Update 1.3.0-->
+
+<item>
+	<id>63</id>
+	<name>Energetický nápoj</name>
+</item>
+
+<item>
+	<id>85</id>
+	<name>Porce BDP</name>
+</item>
+
+<item>
+	<id>86</id>
+	<name>Prut s navijákem</name>
+</item>
+
+<item>
+	<id>87</id>
+	<name>Základní prut</name>
+</item>
+
+<item>
+	<id>88</id>
+	<name>Odolný kufr</name>
+</item>
+
+<item>
+	<id>89</id>
+	<name>Magpull</name>
+</item>
+
+<item>
+	<id>90</id>
+	<name>Zahrdlení</name>
+</item>
+
+<item>
+	<id>91</id>
+	<name>Sleď</name>
+</item>
+
+<item>
+	<id>92</id>
+	<name>Losos</name>
+</item>
+
+<item>
+	<id>93</id>
+	<name>Ježdík</name>
+</item>
+
+<item>
+	<id>94</id>
+	<name>Okoun</name>
+</item>
+
+<item>
+	<id>95</id>
+	<name>Malý plátek ryby</name>
+</item>
+
+<item>
+	<id>96</id>
+	<name>Velký plátek ryby</name>
+</item>
+
+<item>
+	<id>97</id>
+	<name>🍄</name>
+</item>
+
+<item>
+	<id>177</id>
+	<name>AUG</name>
+</item>
+
+<item>
+	<id>178</id>
+	<name>Saiga 12k</name>
+</item>
+
+<item>
+	<id>179</id>
+	<name>MAC-10</name>
+</item>
+
+<item>
+	<id>180</id>
+	<name>Kobylí noha</name>
+</item>
+
+
+<!--Update 1.4.0-->
+
+<item>
+	<id>98</id>
+	<name>puškohled na dalekonosnou střelbu</name>
+</item>
+
+<item>
+	<id>99</id>
+	<name>Claymore</name>
+</item>
+
+<item>
+	<id>100</id>
+	<name>Náboje 9x18</name>
+</item>
+
+<item>
+	<id>101</id>
+	<name>Náboje 9x39</name>
+</item>
+
+<item>
+	<id>102</id>
+	<name>Molotovův koktejl</name>
+</item>
+
+<item>
+	<id>181</id>
+	<name>PM</name>
+</item>
+
+<item>
+	<id>182</id>
+	<name>PB</name>
+</item>
+
+<item>
+	<id>183</id>
+	<name>Bizon</name>
+</item>
+
+<item>
+	<id>184</id>
+	<name>Groza</name>
+</item>
+
+<item>
+	<id>185</id>
+	<name>VSS</name>
+</item>
+
+<item>
+	<id>186</id>
+	<name>SV-98</name>
+</item>
+
+<item>
+	<id>187</id>
+	<name>Madsen</name>
+</item>
+
+<item>
+	<id>405</id>
+	<name>Sovětská vesta
+</name>
+
+</item>
+
+
+</list>

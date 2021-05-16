@@ -1,0 +1,1025 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--INVENTORY ITEMS-->
+
+<item>
+	<id>1</id>
+	<name>Canned beans</name>
+</item>
+
+<item>
+	<id>2</id>
+	<name>Canned tuna</name>
+</item>
+
+<item>
+	<id>3</id>
+	<name>Tactical bacon</name>
+</item>
+
+<item>
+	<id>4</id>
+	<name>Rice</name>
+</item>
+
+<item>
+	<id>5</id>
+	<name>Tomato</name>
+</item>
+
+<item>
+	<id>6</id>
+	<name>Apple</name>
+</item>
+
+<item>
+	<id>7</id>
+	<name>Banana</name>
+</item>
+
+<item>
+	<id>8</id>
+	<name>Pipsi</name>
+</item>
+
+<item>
+	<id>9</id>
+	<name>Spite</name>
+</item>
+
+<item>
+	<id>10</id>
+	<name>Kvas</name>
+</item>
+
+<item>
+	<id>11</id>
+	<name>5.56x45 ammo</name>
+</item>
+
+<item>
+	<id>12</id>
+	<name>.45 ACP ammo</name>
+</item>
+
+
+<item>
+	<id>13</id>
+	<name>7.62 ammo</name>
+</item>
+
+<item>
+	<id>14</id>
+	<name>7.62x39 ammo</name>
+</item>
+
+<item>
+	<id>15</id>
+	<name>5.45x39 ammo</name>
+</item>
+
+<item>
+	<id>16</id>
+	<name>.357 ammo</name>
+</item>
+
+<item>
+	<id>17</id>
+	<name>12cal ammo</name>
+</item>
+
+<item>
+	<id>18</id>
+	<name>Bandage</name>
+</item>
+
+<item>
+	<id>19</id>
+	<name>Blood bag</name>
+</item>
+
+<item>
+	<id>20</id>
+	<name>Flare</name>
+</item>
+
+<item>
+	<id>21</id>
+	<name>F1 grenade</name>
+</item>
+
+<item>
+	<id>22</id>
+	<name>Battery</name>
+</item>
+
+<item>
+	<id>23</id>
+	<name>Campfire kit</name>
+</item>
+
+<item>
+	<id>24</id>
+	<name>Matches</name>
+</item>
+
+<item>
+	<id>25</id>
+	<name>Whiskey</name>
+</item>
+
+<item>
+	<id>26</id>
+	<name>Rags</name>
+</item>
+
+<item>
+	<id>27</id>
+	<name>Cranberry</name>
+</item>
+
+<item>
+	<id>28</id>
+	<name>Saline bag</name>
+</item>
+
+<item>
+	<id>29</id>
+	<name>Vitamins</name>
+</item>
+
+<item>
+	<id>30</id>
+	<name>Nota-Cola</name>
+</item>
+
+<item>
+	<id>31</id>
+	<name>Zucchini</name>
+</item>
+
+<item>
+	<id>32</id>
+	<name>Bell pepper</name>
+</item>
+
+<item>
+	<id>33</id>
+	<name>Orange</name>
+</item>
+
+<item>
+	<id>34</id>
+	<name>Heatpack</name>
+</item>
+
+<item>
+	<id>35</id>
+	<name>Sewing kit</name>
+</item>
+
+<item>
+	<id>36</id>
+	<name>Cleaning kit</name>
+</item>
+
+<item>
+	<id>37</id>
+	<name>Ashwood stick</name>
+</item>
+
+<item>
+	<id>38</id>
+	<name>Wood sticks</name>
+</item>
+
+<item>
+	<id>39</id>
+	<name>Duct tape</name>
+</item>
+
+<item>
+	<id>40</id>
+	<name>Burlap sack</name>
+</item>
+
+<item>
+	<id>41</id>
+	<name>Rope</name>
+</item>
+
+<item>
+	<id>42</id>
+	<name>Hunter knife</name>
+</item>
+
+<item>
+	<id>43</id>
+	<name>Army knife</name>
+</item>
+
+<item>
+	<id>44</id>
+	<name>Butcher knife</name>
+</item>
+
+<item>
+	<id>45</id>
+	<name>Morphine</name>
+</item>
+
+<item>
+	<id>46</id>
+	<name>Tetracycline</name>
+</item>
+
+<item>
+	<id>47</id>
+	<name>Tomato seeds pack</name>
+</item>
+
+<item>
+	<id>48</id>
+	<name>Pepper seeds pack</name>
+</item>
+
+<item>
+	<id>49</id>
+	<name>Papers</name>
+</item>
+
+<item>
+	<id>50</id>
+	<name>Wood piles</name>
+</item>
+
+<item>
+	<id>51</id>
+	<name>Crafted arrows</name>
+</item>
+
+<item>
+	<id>52</id>
+	<name>Composite arrow</name>
+</item>
+
+<item>
+	<id>53</id>
+	<name>Gasoline</name>
+</item>
+
+<item>
+	<id>54</id>
+	<name>Water bottle</name>
+</item>
+
+<item>
+	<id>55</id>
+	<name>Canteen</name>
+</item>
+
+<item>
+	<id>56</id>
+	<name>Landmine</name>
+</item>
+
+<item>
+	<id>57</id>
+	<name>Bear trap</name>
+</item>
+
+<item>
+	<id>58</id>
+	<name>.22lr ammo</name>
+</item>
+
+<item>
+	<id>59</id>
+	<name>Car toolbox</name>
+</item>
+
+<item>
+	<id>60</id>
+	<name>Raw steak</name>
+</item>
+
+<item>
+	<id>61</id>
+	<name>Cooked steak</name>
+</item>
+
+<item>
+	<id>62</id>
+	<name>Nuko Cola</name>
+</item>
+
+<item>
+	<id>68</id>
+	<name>Zucchini Seeds</name>
+</item>
+
+<item>
+	<id>69</id>
+	<name>9mm ammo</name>
+</item>
+
+<item>
+	<id>70</id>
+	<name>Barbed wire</name>
+</item>
+
+<item>
+	<id>71</id>
+	<name>Rabbit meat</name>
+</item>
+
+<item>
+	<id>72</id>
+	<name>Cooked rabbit meat</name>
+</item>
+
+<item>
+	<id>73</id>
+	<name>Cloudberry</name>
+</item>
+
+<item>
+	<id>74</id>
+	<name>Bilberry</name>
+</item>
+
+<item>
+	<id>75</id>
+	<name>Radio</name>
+</item>
+
+<item>
+	<id>76</id>
+	<name>RDS scope</name>
+</item>
+
+<item>
+	<id>77</id>
+	<name>PU scope</name>
+</item>
+
+<item>
+	<id>78</id>
+	<name>PSO-1 scope</name>
+</item>
+
+<item>
+	<id>79</id>
+	<name>ACOG scope</name>
+</item>
+
+<item>
+	<id>80</id>
+	<name>Silencer 5.45</name>
+</item>
+
+<item>
+	<id>81</id>
+	<name>Silencer 5.56</name>
+</item>
+
+<item>
+	<id>82</id>
+	<name>Hacksaw</name>
+</item>
+
+<item>
+	<id>83</id>
+	<name>Bandolier</name>
+</item>
+
+<!--WEAPONS-->
+
+<item>
+	<id>151</id>
+	<name>FNX pistol</name>
+</item>
+
+<item>
+	<id>152</id>
+	<name>Colt 1911</name>
+</item>
+
+<item>
+	<id>153</id>
+	<name>Magnum</name>
+</item>
+
+<item>
+	<id>154</id>
+	<name>IZH-43</name>
+</item>
+
+<item>
+	<id>155</id>
+	<name>Remington shotgun</name>
+</item>
+
+<item>
+	<id>156</id>
+	<name>Mosin Nagant</name>
+</item>
+
+<item>
+	<id>157</id>
+	<name>SKS</name>
+</item>
+
+<item>
+	<id>158</id>
+	<name>M4 carbine</name>
+</item>
+
+<item>
+	<id>159</id>
+	<name>AKM</name>
+</item>
+
+<item>
+	<id>160</id>
+	<name>AK-74</name>
+</item>
+
+<item>
+	<id>161</id>
+	<name>AKs-74u</name>
+</item>
+
+<item>
+	<id>162</id>
+	<name>L85</name>
+</item>
+
+<item>
+	<id>163</id>
+	<name>Improvised bow</name>
+</item>
+
+<item>
+	<id>164</id>
+	<name>Crossbow</name>
+</item>
+
+<item>
+	<id>165</id>
+	<name>Amphibia pistol</name>
+</item>
+
+<item>
+	<id>166</id>
+	<name>Sporter 22</name>
+</item>
+
+<item>
+	<id>167</id>
+	<name>Repeater</name>
+</item>
+
+<item>
+	<id>168</id>
+	<name>SVD</name>
+</item>
+
+<item>
+	<id>169</id>
+	<name>MP5k</name>
+</item>
+
+<item>
+	<id>170</id>
+	<name>Glock</name>
+</item>
+
+<item>
+	<id>171</id>
+	<name>Sawed-off Izh-43</name>
+</item>
+
+<item>
+	<id>172</id>
+	<name>Sawed-off Mosin</name>
+</item>
+
+<item>
+	<id>173</id>
+	<name>UMP-45</name>
+</item>
+
+<item>
+	<id>174</id>
+	<name>RPK</name>
+</item>
+
+<item>
+	<id>175</id>
+	<name>FN-CAL</name>
+</item>
+
+<item>
+	<id>176</id>
+	<name>Engraved Colt</name>
+</item>
+
+
+<!--Melees-->
+
+<item>
+	<id>200</id>
+	<name>Pipewrench</name>
+</item>
+
+<item>
+	<id>201</id>
+	<name>Shovel</name>
+</item>
+
+<item>
+	<id>202</id>
+	<name>Hatchet</name>
+</item>
+
+<item>
+	<id>203</id>
+	<name>Baseball bat</name>
+</item>
+
+<item>
+	<id>204</id>
+	<name>Fire axe</name>
+</item>
+
+<item>
+	<id>205</id>
+	<name>Crowbar</name>
+</item>
+
+<item>
+	<id>206</id>
+	<name>Pickaxe</name>
+</item>
+
+<item>
+	<id>207</id>
+	<name>Pitchfork</name>
+</item>
+
+<item>
+	<id>208</id>
+	<name>Sledgehammer</name>
+</item>
+
+<item>
+	<id>209</id>
+	<name>Sword</name>
+</item>
+
+<item>
+	<id>210</id>
+	<name>Pan</name>
+</item>
+<!--Helmets-->
+
+<item>
+	<id>250</id>
+	<name>Gasmask</name>
+</item>
+
+<item>
+	<id>251</id>
+	<name>Army helmet</name>
+</item>
+
+<item>
+	<id>252</id>
+	<name>Moto helmet</name>
+</item>
+
+<item>
+	<id>253</id>
+	<name>Moto helmet</name>
+</item>
+
+<item>
+	<id>254</id>
+	<name>Warm hat</name>
+</item>
+
+<item>
+	<id>255</id>
+	<name>Beret</name>
+</item>
+
+<item>
+	<id>256</id>
+	<name>Cap</name>
+</item>
+
+<item>
+	<id>257</id>
+	<name>Balaclava</name>
+</item>
+
+<item>
+	<id>258</id>
+	<name>Ushanka</name>
+</item>
+
+<item>
+	<id>259</id>
+	<name>Hard hat</name>
+</item>
+
+<item>
+	<id>260</id>
+	<name>Headlamp</name>
+</item>
+
+<item>
+	<id>261</id>
+	<name>Cowboy hat</name>
+</item>
+
+<item>
+	<id>262</id>
+	<name>Welding mask</name>
+</item>
+
+<item>
+	<id>263</id>
+	<name>Gorka helmet</name>
+</item>
+
+<item>
+	<id>264</id>
+	<name>Police hat</name>
+</item>
+
+<item>
+	<id>265</id>
+	<name>NVG</name>
+</item>
+
+<item>
+	<id>266</id>
+	<name>Bandana</name>
+</item>
+
+<item>
+	<id>267</id>
+	<name>Helm</name>
+</item>
+<!--Pants-->
+
+<item>
+	<id>300</id>
+	<name>Jeans</name>
+</item>
+
+<item>
+	<id>301</id>
+	<name>Worker pants</name>
+</item>
+
+<item>
+	<id>302</id>
+	<name>Tracksuit pants</name>
+</item>
+
+<item>
+	<id>303</id>
+	<name>Gorka pants</name>
+</item>
+
+<item>
+	<id>304</id>
+	<name>Orel pants</name>
+</item>
+
+<item>
+	<id>305</id>
+	<name>Paramedic pants</name>
+</item>
+
+<item>
+	<id>306</id>
+	<name>Hunter pants</name>
+</item>
+
+<!--Outerwears-->
+
+<item>
+	<id>350</id>
+	<name>T-shirt</name>
+</item>
+
+<item>
+	<id>351</id>
+	<name>Shirt</name>
+</item>
+
+<item>
+	<id>352</id>
+	<name>Shirt</name>
+</item>
+
+<item>
+	<id>353</id>
+	<name>Raincoat</name>
+</item>
+
+<item>
+	<id>354</id>
+	<name>Jacket</name>
+</item>
+
+<item>
+	<id>355</id>
+	<name>Gorka jacket</name>
+</item>
+
+<item>
+	<id>356</id>
+	<name>Hoodie</name>
+</item>
+
+<item>
+	<id>357</id>
+	<name>Hoodie</name>
+</item>
+
+<item>
+	<id>358</id>
+	<name>Cloak</name>
+</item>
+
+<item>
+	<id>359</id>
+	<name>Paramedic jacket</name>
+</item>
+
+<item>
+	<id>360</id>
+	<name>Orel jacket</name>
+</item>
+
+<item>
+	<id>361</id>
+	<name>Tracksuit jacket</name>
+</item>
+
+<item>
+	<id>362</id>
+	<name>Dress</name>
+</item>
+
+<item>
+	<id>363</id>
+	<name>Down jacket</name>
+</item>
+
+<item>
+	<id>364</id>
+	<name>Hunter jacket</name>
+</item>
+
+<item>
+	<id>365</id>
+	<name>Sweater</name>
+</item>
+
+<!--Vests-->
+
+<item>
+	<id>400</id>
+	<name>Bulletproof vest</name>
+</item>
+
+<item>
+	<id>401</id>
+	<name>Press vest</name>
+</item>
+
+<item>
+	<id>402</id>
+	<name>Assault vest</name>
+</item>
+
+<item>
+	<id>403</id>
+	<name>High capacity vest</name>
+</item>
+
+<item>
+	<id>404</id>
+	<name>Kevlar vest</name>
+</item>
+
+<!--Backpacks-->
+
+<item>
+	<id>450</id>
+	<name>Taloon backpack</name>
+</item>
+
+<item>
+	<id>451</id>
+	<name>Hunting backpack</name>
+</item>
+
+<item>
+	<id>452</id>
+	<name>Mountain backpack</name>
+</item>
+
+<item>
+	<id>453</id>
+	<name>School backpack</name>
+</item>
+
+<item>
+	<id>454</id>
+	<name>Improvised bag</name>
+</item>
+
+<item>
+	<id>455</id>
+	<name>Improvised backpack</name>
+</item>
+
+<item>
+	<id>456</id>
+	<name>Civilian tent</name>
+</item>
+
+<item>
+	<id>457</id>
+	<name>Tortilla backpack</name>
+</item>
+
+<!--Update 1.3.0-->
+
+<item>
+	<id>63</id>
+	<name>Energy drink</name>
+</item>
+
+<item>
+	<id>85</id>
+	<name>MRE ration</name>
+</item>
+
+<item>
+	<id>86</id>
+	<name>Spinning fishing rod</name>
+</item>
+
+<item>
+	<id>87</id>
+	<name>Basic Fishing rod</name>
+</item>
+
+<item>
+	<id>88</id>
+	<name>Protector Case</name>
+</item>
+
+<item>
+	<id>89</id>
+	<name>Magpull</name>
+</item>
+
+<item>
+	<id>90</id>
+	<name>Choke</name>
+</item>
+
+<item>
+	<id>91</id>
+	<name>Herring</name>
+</item>
+
+<item>
+	<id>92</id>
+	<name>Salmon</name>
+</item>
+
+<item>
+	<id>93</id>
+	<name>Ruffe</name>
+</item>
+
+<item>
+	<id>94</id>
+	<name>Perch</name>
+</item>
+
+<item>
+	<id>95</id>
+	<name>Small fish fillet</name>
+</item>
+
+<item>
+	<id>96</id>
+	<name>Big fish fillet</name>
+</item>
+
+<item>
+	<id>97</id>
+	<name>🍄</name>
+</item>
+
+<item>
+	<id>177</id>
+	<name>AUG</name>
+</item>
+
+<item>
+	<id>178</id>
+	<name>Saiga 12k</name>
+</item>
+
+<item>
+	<id>179</id>
+	<name>MAC-10</name>
+</item>
+
+<item>
+	<id>180</id>
+	<name>Mare's Leg</name>
+</item>
+
+<!--Update 1.4.0-->
+
+<item>
+	<id>98</id>
+	<name>Longrange Scope</name>
+</item>
+
+<item>
+	<id>99</id>
+	<name>Claymore</name>
+</item>
+
+<item>
+	<id>100</id>
+	<name>Ammo 9x18</name>
+</item>
+
+<item>
+	<id>101</id>
+	<name>Ammo 9x39</name>
+</item>
+
+<item>
+	<id>102</id>
+	<name>Molotov</name>
+</item>
+
+<item>
+	<id>181</id>
+	<name>PM</name>
+</item>
+
+<item>
+	<id>182</id>
+	<name>PB</name>
+</item>
+
+<item>
+	<id>183</id>
+	<name>Bizon</name>
+</item>
+
+<item>
+	<id>184</id>
+	<name>Groza</name>
+</item>
+
+<item>
+	<id>185</id>
+	<name>VSS</name>
+</item>
+
+<item>
+	<id>186</id>
+	<name>SV-98</name>
+</item>
+
+<item>
+	<id>187</id>
+	<name>Madsen</name>
+</item>
+
+<item>
+	<id>405</id>
+	<name>Soviet vest</name>
+</item>
+
+</list>

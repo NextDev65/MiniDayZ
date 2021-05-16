@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<list>
+	<text>
+		<id>1</id>
+		<name>Už nekrvácím.</name>
+	</text>
+	<text>
+		<id>2</id>
+		<name>Cítím se zdravě.</name>
+	</text>
+	<text>
+		<id>3</id>
+		<name>Teče mi krev.</name>
+	</text>
+	<text>
+		<id>4</id>
+		<name>Mrznu.</name>
+	</text>
+	<text>
+		<id>5</id>
+		<name>Umírám hlady.</name>
+	</text>
+	<text>
+		<id>6</id>
+		<name>Umírám žízní.</name>
+	</text>
+	<text>
+		<id>7</id>
+		<name>V kufru něco je.</name>
+	</text>
+	<text>
+		<id>8</id>
+		<name>V kufru nic není.</name>
+	</text>
+	<text>
+		<id>9</id>
+		<name>Došly mi náboje.</name>
+	</text>
+	<text>
+		<id>10</id>
+		<name>Prázdný zásobník.</name>
+	</text>
+	<text>
+		<id>11</id>
+		<name>Zbraň zničena!</name>
+	</text>
+	<text>
+		<id>12</id>
+		<name>V této pumpě není voda.</name>
+	</text>
+	<text>
+		<id>13</id>
+		<name>Nechci pít.</name>
+	</text>
+	<text>
+		<id>14</id>
+		<name>Snědl jsem syrový steak.</name>
+	</text>
+	<text>
+		<id>15</id>
+		<name>Na to potřebuji vodní pumpu.</name>
+	</text>
+	<text>
+		<id>16</id>
+		<name>Naplněno z pumpy.</name>
+	</text>
+	<text>
+		<id>17</id>
+		<name>Snězeno: </name>
+	</text>
+	<text>
+		<id>18</id>
+		<name>Vypito: </name>
+	</text>
+	<text>
+		<id>19</id>
+		<name>Použito: </name>
+	</text>
+	<text>
+		<id>32</id>
+		<name>Zbraň plně nabita.</name>
+	</text>
+	<text>
+		<id>33</id>
+		<name>Střelivo nabito.</name>
+	</text>
+	<text>
+		<id>34</id>
+		<name>Sem to nepasuje.</name>
+	</text>
+	<text>
+		<id>36</id>
+		<name>Nekrvácím.</name>
+	</text>
+	<text>
+		<id>37</id>
+		<name>Krevní transfuze dokončena.</name>
+	</text>
+	<text>
+		<id>38</id>
+		<name>Už je nabito.</name>
+	</text>
+	<text>
+		<id>39</id>
+		<name>Potřebuju čelovku nebo noční vidění.</name>
+	</text>
+	<text>
+		<id>40</id>
+		<name>K zapálení musím dát na zem sadu na táborák.</name>
+	</text>
+	<text>
+		<id>42</id>
+		<name>Transfuze solného roztoku dokončena.</name>
+	</text>
+	<text>
+		<id>44</id>
+		<name>Zbraň zničena.</name>
+	</text>
+	<text>
+		<id>45</id>
+		<name>Zbraň vyčištěna.</name>
+	</text>
+	<text>
+		<id>47</id>
+		<name>Vozidlo natankováno.</name>
+	</text>
+	<text>
+		<id>48</id>
+		<name>Na to potřebuju pojízdné vozidlo.</name>
+	</text>
+	<text>
+		<id>49</id>
+		<name>Láhev je prázdná.</name>
+	</text>
+	<text>
+		<id>50</id>
+		<name>Napil jsem se z lahve.</name>
+	</text>
+	<text>
+		<id>51</id>
+		<name>Čutora je prázdná.</name>
+	</text>
+	<text>
+		<id>52</id>
+		<name>Napil jsem se z čutory.</name>
+	</text>
+	<text>
+		<id>53</id>
+		<name>Nášlapná mina nastražena.</name>
+	</text>
+	<text>
+		<id>54</id>
+		<name>Past na medvědy nastražena.</name>
+	</text>
+	<text>
+		<id>55</id>
+		<name>Vozidlo opraveno.</name>
+	</text>
+	<text>
+		<id>56</id>
+		<name>Upekl jsem steak.</name>
+	</text>
+	<text>
+		<id>57</id>
+		<name>Na to potřebuju aktivní ohniště.</name>
+	</text>
+	<text>
+		<id>59</id>
+		<name>Napil jsem se Nuko Coly. Cítím se skvěle.</name>
+	</text>
+	<text>
+		<id>60</id>
+		<name>Kořist stažena z kůže.</name>
+	</text>
+	<text>
+		<id>61</id>
+		<name>Nic ke stažení.</name>
+	</text>
+	<text>
+		<id>62</id>
+		<name>Nemám volné místo.</name>
+	</text>
+	<text>
+		<id>63</id>
+		<name>Nůž zničen.</name>
+	</text>
+	<text>
+		<id>64</id>
+		<name>Na to potřebuju víc dřevěných klacků.</name>
+	</text>
+	<text>
+		<id>65</id>
+		<name>Čelovka zničena.</name>
+	</text>
+	<text>
+		<id>66</id>
+		<name>Noční vidění zničeno.</name>
+	</text>
+	<text>
+		<id>68</id>
+		<name>Na to je potřeba krumpáč, vidle nebo lopata.</name>
+	</text>
+	<text>
+		<id>69</id>
+		<name>Tady není možné sázet.</name>
+	</text>
+	<text>
+		<id>70</id>
+		<name>Zasazeno.</name>
+	</text>
+	<text>
+		<id>72</id>
+		<name>Na stahování zvěře z kůže potřebuju nůž.</name>
+	</text>
+	<text>
+		<id>73</id>
+		<name>Nemám žádnou zbraň na dálku.</name>
+	</text>
+	<text>
+		<id>74</id>
+		<name>Klepni, kam hodit světlici.</name>
+	</text>
+	<text>
+		<id>75</id>
+		<name>Klepni, kam hodit granát.</name>
+	</text>
+	<text>
+		<id>76</id>
+		<name>Už je to plné.</name>
+	</text>
+	<text>
+		<id>77</id>
+		<name>Napil jsem se z pumpy.</name>
+	</text>
+	<text>
+		<id>78</id>
+		<name>Mám trochu hlad.</name>
+	</text>
+	<text>
+		<id>79</id>
+		<name>Mám trochu žízeň.</name>
+	</text>
+	<text>
+		<id>80</id>
+		<name>Je docela zima.</name>
+	</text>
+	<text>
+		<id>81</id>
+		<name>Je mi chladno.</name>
+	</text>
+	<text>
+		<id>82</id>
+		<name>Začíná mi být tepleji.</name>
+	</text>
+	<text>
+		<id>83</id>
+		<name>Potřebuju nabitější baterie.</name>
+	</text>
+	<text>
+		<id>84</id>
+		<name>Vypadá to, že kolem nejsou žádné vojenské vraky.</name>
+	</text>
+	<text>
+		<id>85</id>
+		<name>Vypadá to, že kolem jsou vojenské vraky.</name>
+	</text>
+	<text>
+		<id>100</id>
+		<name>Sakra. Mám vážné zranění.</name>
+	</text>
+	<text>
+		<id>101</id>
+		<name>Dobře, budu hlídat.</name>
+	</text>
+	<text>
+		<id>102</id>
+		<name>Hledej věci, já budu krýt.</name>
+	</text>
+	<text>
+		<id>103</id>
+		<name>Zakrýváš mi cíl!</name>
+	</text>
+	<text>
+		<id>104</id>
+		<name>Hej! Co takhle spojit síly?</name>
+	</text>
+	<text>
+		<id>105</id>
+		<name>To není fér!</name>
+	</text>
+	<text>
+		<id>106</id>
+		<name>Kruci, má zbraň!</name>
+	</text>
+	<text>
+		<id>107</id>
+		<name>Sakra!</name>
+	</text>
+	<text>
+		<id>108</id>
+		<name>Pojď sem!</name>
+	</text>
+	<text>
+		<id>109</id>
+		<name>Tu máš!</name>
+	</text>
+	<text>
+		<id>110</id>
+		<name>Vidím tě!</name>
+	</text>
+	<text>
+		<id>111</id>
+		<name>Nemám nic na výměnu. Promiň, zeptej se někoho jiného.</name>
+	</text>
+	<text>
+		<id>125</id>
+		<name>Jsem přítel.</name>
+	</text>
+	<text>
+		<id>126</id>
+		<name>Fajn.</name>
+	</text>
+	<text>
+		<id>127</id>
+		<name>Hezky jsi tu loď opravil. Šikovnej.</name>
+	</text>
+	
+<!-- Update 1.2.0 addings -->
+
+<text>
+	<id>86</id>
+	<name>Tuhle pušku nemůžu upilovat.</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>Dveře jsou úplně rozmlácené.</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>Je tu plyn! Potřebuju masku.</name>
+</text>
+
+
+<!-- Update 1.3.0 addings -->
+
+<text>
+	<id>89</id>
+	<name>K tomu potřebuju řiditelné vozidlo.</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>Z vnitřku auta to nejde.</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>Tohle vozidlo už je v dobrém stavu.</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>Tohle vozidlo už má plnou nádrž.</name>
+</text>
+
+<!-- Quests -->
+
+<text>
+	<id>131</id>
+	<name>Nemáme se o čem bavit.</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>K tomu potřebuju jezero nebo moře.</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>Poblíž nevidím žádné ryby.</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>Nic mi není.</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>Ještě jednou díky za pomoc. Brzo zmizíme.</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>Je tu vzkaz s informacemi o pár místech na mapě.</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>Díky! Odměnu máš vyznačenou na mapě.</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>Mám tě!</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>Sakra, uplavala.</name>
+</text>
+
+</list>

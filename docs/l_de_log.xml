@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<list>
+	<text>
+		<id>1</id>
+		<name>Ich blute nicht mehr.</name>
+	</text>
+	<text>
+		<id>2</id>
+		<name>Ich fühle mich gesund.</name>
+	</text>
+	<text>
+		<id>3</id>
+		<name>Ich blute.</name>
+	</text>
+	<text>
+		<id>4</id>
+		<name>Mir ist eiskalt.</name>
+	</text>
+	<text>
+		<id>5</id>
+		<name>Ich verhungere.</name>
+	</text>
+	<text>
+		<id>6</id>
+		<name>Ich verdurste.</name>
+	</text>
+	<text>
+		<id>7</id>
+		<name>Ich habe etwas in diesem Kofferraum gefunden.</name>
+	</text>
+	<text>
+		<id>8</id>
+		<name>In diesem Kofferraum ist nichts.</name>	</text>
+	<text>
+		<id>9</id>
+		<name>Keine Munition.</name>
+	</text>
+	<text>
+		<id>10</id>
+		<name>Magazin leer.</name>
+	</text>
+	<text>
+		<id>11</id>
+		<name>Waffe ruiniert!</name>
+	</text>
+	<text>
+		<id>12</id>
+		<name>In dieser Pumpe ist kein Wasser.</name>
+	</text>
+	<text>
+		<id>13</id>
+		<name>Ich möchte nichts trinken.</name>
+	</text>
+	<text>
+		<id>14</id>
+		<name>Ich habe rohes Fleisch gegessen.</name>
+	</text>
+	<text>
+		<id>15</id>
+		<name>Dafür brauche ich eine Wasserpumpe.</name>
+	</text>
+	<text>
+		<id>16</id>
+		<name>Ich habe sie an der Wasserpumpe aufgefüllt.</name>
+	</text>
+	<text>
+		<id>17</id>
+		<name>Ich habe gegessen </name>
+	</text>
+	<text>
+		<id>18</id>
+		<name>Ich habe getrunken </name>
+	</text>
+	<text>
+		<id>19</id>
+		<name>Ich habe benutzt </name>
+	</text>
+	<text>
+		<id>32</id>
+		<name>Waffe vollständig geladen.</name>
+	</text>
+	<text>
+		<id>33</id>
+		<name>Munition nachgeladen.</name>
+	</text>
+	<text>
+		<id>34</id>
+		<name>Das passt da nicht rein.</name>
+	</text>
+	<text>
+		<id>36</id>
+		<name>Ich blute nicht.</name>
+	</text>
+	<text>
+		<id>37</id>
+		<name>Bluttransfusion abgeschlossen.</name>
+	</text>
+	<text>
+		<id>38</id>
+		<name>Schon aufgeladen.</name>
+	</text>
+	<text>
+		<id>39</id>
+		<name>Ich brauche eine Kopflampe oder ein Nachtsichtgerät.</name>
+	</text>
+	<text>
+		<id>40</id>
+		<name>Ich brauche ein Lagerfeuer-Set auf dem Boden, das ich anzünden kann. </name>
+	</text>
+	<text>
+		<id>42</id>
+		<name>Kochsalzlösung verwendet.</name>
+	</text>
+	<text>
+		<id>44</id>
+		<name>Waffe ruiniert.</name>
+	</text>
+	<text>
+		<id>45</id>
+		<name>Waffe gereinigt.</name>
+	</text>
+	<text>
+		<id>47</id>
+		<name>Fahrzeug aufgetankt.</name>
+	</text>
+	<text>
+		<id>48</id>
+		<name>Dafür brauche ich ein fahrtüchtiges Fahrzeug.</name>
+	</text>
+	<text>
+		<id>49</id>
+		<name>Flasche leer.</name>
+	</text>
+	<text>
+		<id>50</id>
+		<name>Ich habe aus der Wasserflasche getrunken.</name>
+	</text>
+	<text>
+		<id>51</id>
+		<name>Feldflasche leer.</name>
+	</text>
+	<text>
+		<id>52</id>
+		<name>Ich habe aus der Feldflasche getrunken.</name>
+	</text>
+	<text>
+		<id>53</id>
+		<name>Landmine gelegt.</name>
+	</text>
+	<text>
+		<id>54</id>
+		<name>Bärenfalle gelegt.</name>
+	</text>
+	<text>
+		<id>55</id>
+		<name>Fahrzeug repariert.</name>
+	</text>
+	<text>
+		<id>56</id>
+		<name>Ich habe ein Steak gekocht.</name>
+	</text>
+	<text>
+		<id>57</id>
+		<name>Dafür brauche ich ein brennendes Lagerfeuer.</name>
+	</text>
+	<text>
+		<id>59</id>
+		<name>Ich habe eine Nuko Cola getrunken. Das fühlt sich toll an!</name>
+	</text>
+	<text>
+		<id>60</id>
+		<name>Beute ausgenommen.</name>
+	</text>
+	<text>
+		<id>61</id>
+		<name>Nicht zum Ausnehmen.</name>
+	</text>
+	<text>
+		<id>62</id>
+		<name>Keine freien Slots.</name>
+	</text>
+	<text>
+		<id>63</id>
+		<name>Messer ruiniert.</name>
+	</text>
+	<text>
+		<id>64</id>
+		<name>Dafür brauche ich mehr Holzstöcke.</name>
+	</text>
+	<text>
+		<id>65</id>
+		<name>Kopflampe ruiniert.</name>
+	</text>
+	<text>
+		<id>66</id>
+		<name>Nachtsichtgerät ruiniert.</name>
+	</text>
+	<text>
+		<id>68</id>
+		<name>Dafür brauche ich eine Spitzhacke, eine Heugabel oder eine Schaufel.</name>
+	</text>
+	<text>
+		<id>69</id>
+		<name>Das kann hier nicht gepflanzt werden.</name>
+	</text>
+	<text>
+		<id>70</id>
+		<name>Gepflanzt.</name>
+	</text>
+	<text>
+		<id>72</id>
+		<name>Ich brauche ein Messer, um Beute auszunehmen.</name>
+	</text>
+	<text>
+		<id>73</id>
+		<name>Ich habe keine Fernkampfwaffe.</name>
+	</text>
+	<text>
+		<id>74</id>
+		<name>Antippen, wo die Fackel hingeworfen werden soll.</name>
+	</text>
+	<text>
+		<id>75</id>
+		<name>Antippen, wo die Granate hingeworfen werden soll.</name>
+	</text>
+	<text>
+		<id>76</id>
+		<name>Schon voll.</name>
+	</text>
+	<text>
+		<id>77</id>
+		<name>Ich habe aus der Wasserpumpe getrunken.</name>
+	</text>
+	<text>
+		<id>78</id>
+		<name>Ich möchte etwas essen.</name>
+	</text>
+	<text>
+		<id>79</id>
+		<name>Ich möchte etwas trinken.</name>
+	</text>
+	<text>
+		<id>80</id>
+		<name>Es ist ziemlich kalt.</name>
+	</text>
+	<text>
+		<id>81</id>
+		<name>Ich kühle mich ab.</name>
+	</text>
+	<text>
+		<id>82</id>
+		<name>Ich wärme mich auf.</name>
+	</text>
+	<text>
+		<id>83</id>
+		<name>Ich brauche mehr Batterien.</name>
+	</text>
+	<text>
+		<id>84</id>
+		<name>Anscheinend ist in der Nähe nichts abgestürzt.</name>
+	</text>
+	<text>
+		<id>85</id>
+		<name>Anscheinend ist in der Nähe etwas abgestürzt.</name>
+	</text>
+	<text>
+		<id>100</id>
+		<name>Verdammt, ich bin schwer verwundet.</name>
+	</text>
+	<text>
+		<id>101</id>
+		<name>Ok, ich stehe Wache.</name>
+	</text>
+	<text>
+		<id>102</id>
+		<name>Ich halte dir den Rücke frei, während du die Beute einsammelst.</name>
+	</text>
+	<text>
+		<id>103</id>
+		<name>Du blockierst das Ziel!</name>
+	</text>
+	<text>
+		<id>104</id>
+		<name>Hey, lass uns zusammenarbeiten!</name>
+	</text>
+	<text>
+		<id>105</id>
+		<name>Unfair!</name>
+	</text>
+	<text>
+		<id>106</id>
+		<name>Verdammt, er hat eine Waffe!</name>
+	</text>
+	<text>
+		<id>107</id>
+		<name>Scheiße!</name>
+	</text>
+	<text>
+		<id>108</id>
+		<name>Komm her!</name>
+	</text>
+	<text>
+		<id>109</id>
+		<name>Friss das!</name>
+	</text>
+	<text>
+		<id>110</id>
+		<name>Ich sehe dich!</name>
+	</text>
+	<text>
+		<id>111</id>
+		<name>Ich habe nichts zum Tauschen. Tut mir leid, du musst jemand anderes fragen.</name>
+	</text>
+	<text>
+		<id>125</id>
+		<name>Ich bin freundlich!</name>
+	</text>
+	<text>
+		<id>126</id>
+		<name>Gut.</name>
+	</text>
+	<text>
+		<id>127</id>
+		<name>Danke, dass du das Boot für uns repariert hast.</name>
+	</text>
+
+
+<!-- Update 1.2.0 addings -->
+
+<text>
+	<id>86</id>
+	<name>Dieses Gewehr kann nicht abgesägt werden.</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>Diese Tür ist völlig ruiniert.</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>Gas liegt in der Luft. Ich brauche eine Gasmaske!</name>
+</text>
+
+
+<!-- Update 1.3.0 addings -->
+
+<text>
+	<id>89</id>
+	<name>Dafür brauche ich ein fahrtüchtiges Fahrzeug.</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>Dazu muss ich aussteigen.</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>Dieses Fahrzeug ist nicht beschädigt.</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>Dieses Fahrzeug ist schon vollgetankt.</name>
+</text>
+
+<!-- Quests -->
+
+<text>
+	<id>131</id>
+	<name>Ich hab dir nichts mehr zu sagen.</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>Das kann ich nur am Wasser einsetzen.</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>Hier scheinen keine Fische zu sein.</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>Ich bin nicht krank.</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>Nochmal danke für deine Hilfe. Wir ziehen bald weiter.</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>Hier ist eine Notiz mit Infos zu Orten auf der Karte.</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>Danke! Ich habe deine Belohnung auf der Karte markiert.</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>Hab ich dich!</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>Verdammt, entwischt!</name>
+</text>
+
+</list>

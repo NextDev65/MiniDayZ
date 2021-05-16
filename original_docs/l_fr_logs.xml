@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<list>
+	<text>
+		<id>1</id>
+		<name>Je ne saigne plus.</name>
+	</text>
+	<text>
+		<id>2</id>
+		<name>Je me sens bien.</name>
+	</text>
+	<text>
+		<id>3</id>
+		<name>Je saigne.</name>
+	</text>
+	<text>
+		<id>4</id>
+		<name>Je suis en hypothermie.</name>
+	</text>
+	<text>
+		<id>5</id>
+		<name>Je vais mourir de faim.</name>
+	</text>
+	<text>
+		<id>6</id>
+		<name>Je me déshydrate.</name>
+	</text>
+	<text>
+		<id>7</id>
+		<name>J'ai trouvé quelque chose dans ce coffre.</name>
+	</text>
+	<text>
+		<id>8</id>
+		<name>Il n’y a rien dans ce coffre.</name>
+	</text>
+	<text>
+		<id>9</id>
+		<name>Munitions épuisées.</name>
+	</text>
+	<text>
+		<id>10</id>
+		<name>Chargeur vide.</name>
+	</text>
+	<text>
+		<id>11</id>
+		<name>Arme démolie !</name>
+	</text>
+	<text>
+		<id>12</id>
+		<name>Il n’y a pas d’eau dans cette pompe.</name>
+	</text>
+	<text>
+		<id>13</id>
+		<name>Je n’ai pas soif.</name>
+	</text>
+	<text>
+		<id>14</id>
+		<name>Je viens de manger de la viande crue.</name>
+	</text>
+	<text>
+		<id>15</id>
+		<name>Il me faut une pompe.</name>
+	</text>
+	<text>
+		<id>16</id>
+		<name>Je l'ai remplie avec la pompe à eau.</name>
+	</text>
+	<text>
+		<id>17</id>
+		<name>Je viens de manger: </name>
+	</text>
+	<text>
+		<id>18</id>
+		<name>Je viens de boire: </name>
+	</text>
+	<text>
+		<id>19</id>
+		<name>J'ai utilisé: </name>
+	</text>
+	<text>
+		<id>32</id>
+		<name>Arme complètement chargée.</name>
+	</text>
+	<text>
+		<id>33</id>
+		<name>Munitions chargées.</name>
+	</text>
+	<text>
+		<id>34</id>
+		<name>Munitions inadaptées.</name>
+	</text>
+	<text>
+		<id>36</id>
+		<name>Je ne saigne pas.</name>
+	</text>
+	<text>
+		<id>37</id>
+		<name>Transfusion terminée.</name>
+	</text>
+	<text>
+		<id>38</id>
+		<name>C’est déjà chargé.</name>
+	</text>
+	<text>
+		<id>39</id>
+		<name>J'ai besoin d’une frontale ou de lunettes infrarouges.</name>
+	</text>
+	<text>
+		<id>40</id>
+		<name>Il me faut de quoi faire un feu par terre avant de l’allumer.</name>
+	</text>
+	<text>
+		<id>42</id>
+		<name>Transfusion de sérum terminée.</name>
+	</text>
+	<text>
+		<id>44</id>
+		<name>Arme démolie.</name>
+	</text>
+	<text>
+		<id>45</id>
+		<name>Arme nettoyée.</name>
+	</text>
+	<text>
+		<id>47</id>
+		<name>Plein du véhicule terminé.</name>
+	</text>
+	<text>
+		<id>48</id>
+		<name>J'ai besoin d’un véhicule en état de marche.</name>
+	</text>
+	<text>
+		<id>49</id>
+		<name>Bouteille vide.</name>
+	</text>
+	<text>
+		<id>50</id>
+		<name>J'ai bu toute la bouteille.</name>
+	</text>
+	<text>
+		<id>51</id>
+		<name>Gourde vide.</name>
+	</text>
+	<text>
+		<id>52</id>
+		<name>J'ai vidé ma gourde.</name>
+	</text>
+	<text>
+		<id>53</id>
+		<name>Mine posée.</name>
+	</text>
+	<text>
+		<id>54</id>
+		<name>Piège à loup installé.</name>
+	</text>
+	<text>
+		<id>55</id>
+		<name>Véhicule réparé.</name>
+	</text>
+	<text>
+		<id>56</id>
+		<name>J'ai fait cuire un steak.</name>
+	</text>
+	<text>
+		<id>57</id>
+		<name>Pour ça, il me faudrait un bon feu.</name>
+	</text>
+	<text>
+		<id>59</id>
+		<name>J'ai bu un Nuko Cola. Ça fait du bien !</name>
+	</text>
+	<text>
+		<id>60</id>
+		<name>Animal écorché.</name>
+	</text>
+	<text>
+		<id>61</id>
+		<name>Je n’ai rien à écorcher.</name>
+	</text>
+	<text>
+		<id>62</id>
+		<name>Pas de place.</name>
+	</text>
+	<text>
+		<id>63</id>
+		<name>Couteau démoli.</name>
+	</text>
+	<text>
+		<id>64</id>
+		<name>Il me faut plus de petit bois pour ça.</name>
+	</text>
+	<text>
+		<id>65</id>
+		<name>Frontale démolie.</name>
+	</text>
+	<text>
+		<id>66</id>
+		<name>Lunettes infrarouges démolies.</name>
+	</text>
+	<text>
+		<id>68</id>
+		<name>Il me faudrait une pioche, une fourche ou une pelle.</name>
+	</text>
+	<text>
+		<id>69</id>
+		<name>Impossible de semer quoi que ce soit ici.</name>
+	</text>
+	<text>
+		<id>70</id>
+		<name>C’est semé.</name>
+	</text>
+	<text>
+		<id>72</id>
+		<name>Pour écorcher, il me faudrait un couteau.</name>
+	</text>
+	<text>
+		<id>73</id>
+		<name>Je n'ai pas d’arme à distance.</name>
+	</text>
+	<text>
+		<id>74</id>
+		<name>Touchez l'endroit où envoyer la fusée.</name>
+	</text>
+	<text>
+		<id>75</id>
+		<name>Touchez l'endroit où lancer la grenade.</name>
+	</text>
+	<text>
+		<id>76</id>
+		<name>Elle est pleine.</name>
+	</text>
+	<text>
+		<id>77</id>
+		<name>J'ai bu l’eau de la pompe.</name>
+	</text>
+	<text>
+		<id>78</id>
+		<name>J'ai envie de manger quelque chose.</name>
+	</text>
+	<text>
+		<id>79</id>
+		<name>J'ai envie de boire.</name>
+	</text>
+	<text>
+		<id>80</id>
+		<name>Il fait froid.</name>
+	</text>
+	<text>
+		<id>81</id>
+		<name>Je me refroidis.</name>
+	</text>
+	<text>
+		<id>82</id>
+		<name>Je me réchauffe.</name>
+	</text>
+	<text>
+		<id>83</id>
+		<name>J'ai besoin d’une pile plus chargée.</name>
+	</text>
+	<text>
+		<id>84</id>
+		<name>Je crois qu’il n'y a pas eu de crash à proximité.</name>
+	</text>
+	<text>
+		<id>85</id>
+		<name>On dirait qu'il y a eu un crash à proximité.</name>
+	</text>
+	<text>
+		<id>100</id>
+		<name>Merde. Je suis gravement blessé.</name>
+	</text>
+	<text>
+		<id>101</id>
+		<name>OK. Je monte la garde.</name>
+	</text>
+	<text>
+		<id>102</id>
+		<name>Je te couvre pendant que tu pilles l'endroit.</name>
+	</text>
+	<text>
+		<id>103</id>
+		<name>Tu es devant la cible !</name>
+	</text>
+	<text>
+		<id>104</id>
+		<name>Hé ! On fait équipe ?</name>
+	</text>
+	<text>
+		<id>105</id>
+		<name>J'ai rien fait !</name>
+	</text>
+	<text>
+		<id>106</id>
+		<name>Putain, il a un flingue !</name>
+	</text>
+	<text>
+		<id>107</id>
+		<name>Merde !</name>
+	</text>
+	<text>
+		<id>108</id>
+		<name>Bouge pas !</name>
+	</text>
+	<text>
+		<id>109</id>
+		<name>Prends ça !</name>
+	</text>
+	<text>
+		<id>110</id>
+		<name>Je te vois !</name>
+	</text>
+	<text>
+		<id>111</id>
+		<name>Je n’ai rien à échanger. Désolé, essaie avec quelqu'un d'autre.</name>
+	</text>
+	<text>
+		<id>125</id>
+		<name>Je ne suis pas hostile.</name>
+	</text>
+	<text>
+		<id>126</id>
+		<name>Tant mieux.</name>
+	</text>
+	<text>
+		<id>127</id>
+		<name>C’est sympa d'avoir réparé notre bateau.</name>
+	</text>
+
+<!-- Update 1.2.0 addings -->
+
+<text>
+	<id>86</id>
+	<name>Impossible de scier ce fusil.</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>Cette porte est irréparable.</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>Du gaz  ! Il me faut un masque !</name>
+</text>
+
+<!-- Update 1.3.0 addings -->
+
+<text>
+	<id>89</id>
+	<name>Je dois faire ça sur un véhicule qui fonctionne.</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>Impossible depuis l'intérieur de la voiture.</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>Ce véhicule est déjà en bon état.</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>Ce véhicule a déjà du carburant.</name>
+</text>
+
+<!-- Quests -->
+
+<text>
+	<id>131</id>
+	<name>Passez votre chemin.</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>Je dois aller au bord d'un lac ou de la mer.</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>Il n'y a pas de poissons, par ici.</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>Je ne suis pas malade.</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>Merci encore pour votre aide. Nous partons bientôt.</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>Il y a une note avec des informations sur certains lieux de la carte.</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>Merci ! On a marqué votre récompense sur la carte.</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>Je te tiens !</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>Oh non ! Il s'est échappé.</name>
+</text>
+
+</list>

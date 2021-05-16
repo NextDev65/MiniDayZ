@@ -1,0 +1,2286 @@
+<?xml version="1.0" ?>
+
+<list>
+<!-- Main menu buttons-->
+<text>
+	<id>1</id>
+	<name>New game</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>Continue</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>Achievements</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>Communities</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>Changelog</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>Log out</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>Novice</name>
+</text>
+
+<text>
+	<id>8</id>	
+	<name>Regular</name>
+</text>
+
+<text>
+	<id>9</id>
+	<name>Veteran</name>
+</text>
+
+<text>
+	<id>10</id>
+	<name>Back</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>Resume</name>
+</text>
+
+<!-- Main menu player achieves labels-->
+
+<text>
+	<id>12</id>
+	<name>Minutes alive</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>infected killed</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>Bandits killed</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>Difficulty</name>
+</text>
+
+<!-- Level loading-->
+
+<text>
+	<id>16</id>
+	<name>Generating world</name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>Placing roads (step 1)</name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>Placing roads (step 2)</name>
+</text>
+
+<text>
+	<id>20</id>
+	<name>Adding secret places</name>
+</text>
+
+<text>
+	<id>21</id>
+	<name>Tilemap drawings</name>
+</text>
+
+<text>
+	<id>22</id>
+	<name>Bits is always watching</name>
+</text>
+
+<!-- Menu btns-->
+
+<text>
+	<id>23</id>
+	<name>Skip Tutorial</name>
+</text>
+
+<text>
+	<id>24</id>
+	<name>Yes</name>
+</text>
+
+<text>
+	<id>25</id>
+	<name>No</name>
+</text>
+
+<text>
+	<id>26</id>
+	<name>Are you sure you want to skip the tutorial?</name>
+</text>
+
+<!--MENU ADDITIONS -->
+
+<text>
+	<id>27</id>
+	<name>Character</name>
+</text>
+
+<text>
+	<id>28</id>
+	<name>Overall stats</name>
+</text>
+
+<text>
+	<id>29</id>
+	<name>Minutes alive:</name>
+</text>
+
+<text>
+	<id>30</id>
+	<name>Infected killed total:</name>
+</text>
+
+<text>
+	<id>31</id>
+	<name>Bandits killed total:</name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>Deaths</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>Movement: By tap</name>
+</text>
+
+<text>
+	<id>34</id>
+	<name>Movement: Stick</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>Sounds: ON</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>Sounds: OFF</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>Go to menu</name>
+</text>
+
+<text>
+	<id>38</id>
+	<name>Bronze</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>Silver</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>Gold</name>
+</text>
+
+<!-- level changing dialog window -->
+
+<text>
+	<id>41</id>
+	<name>Ok</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>You need wood piles to repair this boat.</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>You need a duct tape to repair this boat.</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>Repair</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>Leave</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>You can repair this boat with wood piles you have.</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>You can repair this boat with a duct tape you have.</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>Ready</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>Not ready</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>Boat is repaired, are you ready to move to the next island? You will be unable to come back.</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>Select</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>Supplies will be dropped after the video ad.</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>Food</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>Drinks</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>Bandage</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>“Hello, do you want to exchange some items? This is what I offer:”</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>Offer:</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>Price:</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>No item</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>Exchange</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>Get loot!</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>Choose</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>Locked</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>Current</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>New character unlocked!</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>Box may include anything, from food to guns.</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>!!!!</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>Options</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>Stick position</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>Language</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>Billy "Red"
+Unlock requirement: Kill 5 zombies with any shotgun.
+On any difficulty.</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>Emilio "Doc"
+Unlock requirement: Stop bleeding 6 times.
+On any difficulty.</name>
+</text>
+
+<text>
+	<id>73</id>
+	<name>Dave "Boxer"
+Unlock requirement: Kill 10 zombies with bare hands.
+On any difficulty.</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>Lee "Maniac"
+Kill a bandit survivor with any axe. 
+On "Regular" or "Veteran" difficulty.</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>Sergey "Slav"
+Unlock requirement: Kill 3 other survivors in one run.
+On "Regular" or "Veteran" difficulty.</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>John "Biker"
+Unlock requirement: Carry a rider jacket, a moto helmet and a pipe wrench all at once. On "Regular" or "Veteran" difficulty.
+</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>Ganzo "Dragon"
+Unlock requirement: Kill 4 enemy survivors armed with a firearm.
+On "Veteran" difficulty.</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>Tom "Survivor"
+Unlock requirement: Survive for 7 days. 
+On "Veteran" difficulty.</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>Garry "Veteran"
+Unlock requirement: Carry a spetznas set (spetznas pants, spetznas jacket, Alyten helmet) in one run, all at once. On "Veteran" difficulty.</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>Survivor 1
+Starting gear: jeans, t-shirt.
+Unlocked perks: None</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>Survivor 2
+Starting gear: jeans, t-shirt.
+Unlocked perks: None</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>Survivor 3
+Starting gear: jeans, t-shirt.
+Unlocked perks: None</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>Billy "Red"
+Starting gear: jeans, t-shirt, bandana.
+Unlocked perks: Sharpshooter.</name>
+</text>
+
+<text>
+	<id>84</id>
+	<name>Emilio "Doc"
+Starting gear: paramedic pants, t-shirt, bandage.
+Unlocked perks: Red+.</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>Dave "Boxer"
+Starting gear: jeans, t-shirt, rags.
+Unlocked perks: Blocker.</name>
+</text>
+
+<text>
+	<id>86</id>
+	<name>Lee "Maniac"
+Starting gear: jeans, dress, gasmask, butcher knife.
+Unlocked perks: Sweet home</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>John "Biker"
+Starting gear: jeans, rider jacket, moto helmet, pipe wrench.
+Unlocked perks: Sprinter.</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>Sergey "Slav"
+Starting gear: tracksuit pants, tracksuit jacket, balaclava, baseball bat.
+Unlocked perks: Puncher.</name>
+</text>
+
+<text>
+	<id>89</id>
+	<name>Ganzo "Dragon"
+Starting gear: hunter pants, bow, 5 composite arrows
+Unlocked perks: Sprinter, Snowborn.</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>Tom "Survivor"
+Starting gear: jeans, t-shirt, cowboy hat, hunter knife, bag
+Unlocked perks: Hunter, Survivalist.</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>Garry "Veteran"
+Starting gear: jeans, t-shirt, cap, balaclava (static),bulletproof vest, colt 1911, ammo.
+Unlocked perks: Sharpshooter, Scout.</name>
+</text>
+
+<text>
+	<id>95</id>
+	<name>No connection to the airdrop center! Please restore your internet connection.</name>
+</text>
+
+<text>
+	<id>96</id>
+	<name>No connection to airdrop center!</name>
+</text>
+
+<text>
+	<id>97</id>
+	<name>Reset</name>
+</text>
+
+<text>
+	<id>98</id>
+	<name>Save</name>
+</text>
+
+<text>
+	<id>99</id>
+	<name>!!!</name>
+</text>
+<!-- Achievements-->
+
+
+<text>
+	<id>101</id>
+	<name>24 hours</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>Mummy</name>
+</text>
+
+<text>
+	<id>103</id>
+	<name>Vampire</name>
+</text>
+
+<text>
+	<id>104</id>
+	<name>Blackbox Collector</name>
+</text>
+
+<text>
+	<id>105</id>
+	<name>Handgunner</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>Boomstick</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>Operator</name>
+</text>
+
+<text>
+	<id>108</id>
+	<name>Terminator</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>Robin Hood</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>Super Vegan Guy</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>Survivor God</name>
+</text>
+
+<text>
+	<id>112</id>
+	<name>Manic: The Gathering</name>
+</text>
+
+<text>
+	<id>113</id>
+	<name>Rifleman</name>
+</text>
+
+<text>
+	<id>114</id>
+	<name>Zedkiller</name>
+</text>
+
+<text>
+	<id>115</id>
+	<name>Tourist</name>
+</text>
+
+<text>
+	<id>116</id>
+	<name>Gluttony</name>
+</text>
+
+<text>
+	<id>117</id>
+	<name>Stealy wheely auto mobilie</name>
+</text>
+
+<text>
+	<id>118</id>
+	<name>Level Up</name>
+</text>
+
+<text>
+	<id>119</id>
+	<name>The Wall</name>
+</text>
+
+<text>
+	<id>120</id>
+	<name>Souls of the Dark</name>
+</text>
+
+<text>
+	<id>121</id>
+	<name>Merciless Killer</name>
+</text>
+
+<text>
+	<id>122</id>
+	<name>Ninja</name>
+</text>
+
+<text>
+	<id>123</id>
+	<name>Farmer</name>
+</text>
+
+<text>
+	<id>124</id>
+	<name>Shelter</name>
+</text>
+
+<text>
+	<id>125</id>
+	<name>Lumberjack</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>BRO</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>Camel</name>
+</text>
+
+<text>
+	<id>128</id>
+	<name>Deerhunter</name>
+</text>
+
+<text>
+	<id>129</id>
+	<name>⚔️</name>
+</text>
+
+<text>
+	<id>130</id>
+	<name>🚪</name>
+</text>
+<!-- Achievements descriptions-->
+
+<text>
+	<id>151</id>
+	<name>Survive for 1/2/3 days</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>Stop bleeding 2/4/6 times</name>
+</text>
+
+<text>
+	<id>153</id>
+	<name>Use 1/2/3 blood bags or saline bags</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>Find 1/2/3 helicopter crash sites</name>
+</text>
+
+<text>
+	<id>155</id>
+	<name>Kill 5/15/30 infected with a handgun</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>Kill 5/15/30 infected with a shotgun</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>Kill 5/15/30 infected with an assault rifle or an SMG</name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>Survive 5/15/30 bullet hits</name>
+</text>
+
+<text>
+	<id>159</id>
+	<name>Kill 5/15/30 infected with a bow or a crossbow</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>Survive 10/20/30 infected or wolf hits</name>
+</text>
+
+<text>
+	<id>161</id>
+	<name>Learn all perks</name>
+</text>
+
+<text>
+	<id>162</id>
+	<name>Gather 5/10/15 berries</name>
+</text>
+
+<text>
+	<id>163</id>
+	<name>Kill 5/15/30 infected with a semi-auto or a bolt action rifle</name>
+</text>
+
+<text>
+	<id>164</id>
+	<name>Kill 20/40/80 infected</name>
+</text>
+
+<text>
+	<id>165</id>
+	<name>Visit at least one city on 1/2/3 islands (levels)</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>Eat 15/30/50 food items</name>
+</text>
+
+<text>
+	<id>167</id>
+	<name>Open 50/100/150 car trunks</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>Find Nuko Cola</name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>Build 1/2/3 barricades or barbed wires</name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>Light 1/2/3 campfires</name>
+</text>
+
+<text>
+	<id>171</id>
+	<name>Kill 1/2/3 survivors</name>
+</text>
+
+<text>
+	<id>172</id>
+	<name>Avoid damage for 12/24/36 in-game hours</name>
+</text>
+
+<text>
+	<id>173</id>
+	<name>Place 5/10/15 plants</name>
+</text>
+
+<text>
+	<id>174</id>
+	<name>Deploy 1/2/3 civilian tents</name>
+</text>
+
+<text>
+	<id>175</id>
+	<name>Chop down 3/6/10 trees</name>
+</text>
+
+<text>
+	<id>176</id>
+	<name>Meet a friendly survivor</name>
+</text>
+
+<text>
+	<id>177</id>
+	<name>Drink 10/20/30 drinks</name>
+</text>
+
+<text>
+	<id>178</id>
+	<name>Flay 1/2/3 animals</name>
+</text>
+
+<text>
+	<id>179</id>
+	<name>???</name>
+</text>
+
+<text>
+	<id>180</id>
+	<name>???</name>
+</text>
+
+<!--TUTORIAL PAD -->
+<text>
+	<id>228</id>
+	<name>FIGHTING</name>
+</text>
+
+<text>
+	<id>229</id>
+	<name>You can fight in melee with bare hands or with melee weapons.
+Melee fight proceeds automatically when you are close to an enemy. Each weapon has a different chance to cause triple damage or a chance to block an enemy attack.</name>
+</text>
+
+<text>
+	<id>230</id>
+	<name>With ranged weapons, aiming takes place automatically. Shoot by using the button.
+Shooting while running is less accurate than while standing.</name>
+</text>
+
+<text>
+	<id>231</id>
+	<name>The fireplace provides heat, light and a cooking possibility. It can be used up to three times once built.
+	</name>
+</text>
+
+<text>
+	<id>232</id>
+	<name>You can grow plants which will provide you with food. You need seeds and a shovel, pitchfork or pickaxe to plant.</name>
+</text>
+
+<text>
+	<id>233</id>
+	<name>You’ll need resources for crafting. You can find or gather them.</name>
+</text>
+
+<text>
+	<id>234</id>
+	<name>When you’re injured, you can start bleeding. You can’t regenerate while bleeding and you constantly lose blood. Use bandages or rags to stop the bleeding.</name>
+</text>
+
+<text>
+	<id>235</id>
+	<name>You can catch a disease if your temperature drops to 0% or, in rare cases, if you’re attacked by infected. You can’t regenerate while diseased. To cure the disease, use tetracycline or maintain your temperature, food and water statuses over 75%.</name>
+</text>
+
+<text>
+	<id>236</id>
+	<name>CONDITIONS</name>
+</text>
+
+<text>
+	<id>237</id>
+	<name>Cold weather can bring your temperature down. During the night, rain or snow, the temperature decreases even more.</name>
+</text>
+
+<text>
+	<id>238</id>
+	<name>You need to eat and drink to survive. Check the status bars for your hunger and thirst. If they drop under 50%, you can't regenerate your blood status bar.</name>
+</text>
+
+<text>
+	<id>239</id>
+	<name>PLAYER STATS: HUNGER/THIRST</name>
+</text>
+
+<text>
+	<id>240</id>
+	<name>LOCAL MAP</name>
+</text>
+
+<text>
+	<id>241</id>
+	<name>GLOBAL MAP</name>
+</text>
+
+<text>
+	<id>250</id>
+	<name>Guides</name>
+</text>
+
+<text>
+	<id>251</id>
+	<name>Crafting</name>
+</text>
+
+<text>
+	<id>252</id>
+	<name>Map</name>
+</text>
+
+<text>
+	<id>253</id>
+	<name>PLAYER STATS: BLOOD</name>
+</text>
+
+<text>
+	<id>254</id>
+	<name>If blood drops to zero, you die. You can lose blood from being attacked in melee or from being hit by bullets. You'll also start losing blood if your heat/water/food drops to zero.</name>
+</text>
+
+<text>
+	<id>255</id>
+	<name>You can stop bleeding with bandages or rags (some clothes can be torn into rags).</name>
+</text>
+
+<text>
+	<id>256</id>
+	<name>Use blood bags and saline bags to restore blood.</name>
+</text>
+
+<text>
+	<id>257</id>
+	<name>If your water, food and heat are all over 50%, you will start regenerating blood.</name>
+</text>
+
+<text>
+	<id>258</id>
+	<name>PLAYER STATS: HUNGER/THIRST</name>
+</text>
+
+<text>
+	<id>259</id>
+	<name>PLAYER STATS: HEAT</name>
+</text>
+
+<text>
+	<id>260</id>
+	<name>Hide inside buildings to warm up.</name>
+</text>
+
+<text>
+	<id>261</id>
+	<name>Find warm clothing in a good condition to warm up.</name>
+</text>
+
+<text>
+	<id>262</id>
+	<name>Drinking whiskey restores heat too.</name>
+</text>
+
+<text>
+	<id>263</id>
+	<name>Start a campfire to warm up.</name>
+</text>
+
+<text>
+	<id>264</id>
+	<name>Find a tent and deploy it to hide inside from the rain and to warm up a little.</name>
+</text>
+
+
+<text>
+	<id>265</id>
+	<name>LOOTING</name>
+</text>
+
+<text>
+	<id>266</id>
+	<name>Most of the loot can be found in buildings.</name>
+</text>
+
+<text>
+	<id>267</id>
+	<name>Loot can also be found in car trunks.</name>
+</text>
+
+<text>
+	<id>268</id>
+	<name>You can find edible berries on some bushes.</name>
+</text>
+
+
+<text>
+	<id>269</id>
+	<name>RESOURCES</name>
+</text>
+
+<text>
+	<id>270</id>
+	<name>You can chop down trees with an axe. Different types of trees provide different resources.
+All other useful items can be found in the world.</name>
+</text>
+
+
+<text>
+	<id>271</id>
+	<name>NIGHT</name>
+</text>
+
+<text>
+	<id>272</id>
+	<name>Find a headlamp or night vision goggles to illuminate the night (requires batteries).</name>
+</text>
+
+<text>
+	<id>273</id>
+	<name>Flares can illuminate a small area for a brief period after they’re thrown.</name>
+</text>
+
+<text>
+	<id>274</id>
+	<name>The fireplace can also illuminate an area for a longer period during the night.</name>
+</text>
+
+
+<text>
+	<id>275</id>
+	<name>WATER PUMPS</name>
+</text>
+
+<text>
+	<id>276</id>
+	<name>Water pumps may contain water for drinking. You can drink from them, but keep in mind water is limited.</name>
+</text>
+
+<text>
+	<id>277</id>
+	<name>You can also fill bottles and canteens from water pumps.</name>
+</text>
+
+
+<text>
+	<id>278</id>
+	<name>REPAIRS</name>
+</text>
+
+<text>
+	<id>279</id>
+	<name>Duct tape adds 15% condition to some gear.</name>
+</text>
+
+<text>
+	<id>280</id>
+	<name>Sewing kit adds 50% condition to some gear.</name>
+</text>
+
+<text>
+	<id>281</id>
+	<name>Cleaning kit adds 25% condition to your firearm.</name>
+</text>
+
+
+<text>
+	<id>282</id>
+	<name>HUNTING</name>
+</text>
+
+<text>
+	<id>283</id>
+	<name>You can find deer near water or in forests. They’re wary so you need a ranged weapon to hunt them.</name>
+</text>
+
+<text>
+	<id>284</id>
+	<name>If you shoot a deer you can flay it with a knife to get meat steaks.</name>
+</text>
+
+<text>
+	<id>285</id>
+	<name>Meat steaks can be cooked with a fireplace.</name>
+</text>
+
+
+<text>
+	<id>286</id>
+	<name>IMPROVISED BOW</name>
+</text>
+
+<text>
+	<id>287</id>
+	<name>Ashwood stick + rope = bow</name>
+</text>
+
+<text>
+	<id>288</id>
+	<name>Wooden sticks + any knife = arrows</name>
+</text>
+
+
+<text>
+	<id>289</id>
+	<name>IMPROVISED BACKPACKS</name>
+</text>
+
+<text>
+	<id>290</id>
+	<name>Rope + Burlap sack = improvised bag (3 slots)</name>
+</text>
+
+<text>
+	<id>291</id>
+	<name>Improvised bag + 3 wooden sticks = improvised backpack (5 slots)</name>
+</text>
+
+
+<text>
+	<id>292</id>
+	<name>FIREPLACE</name>
+</text>
+
+<text>
+	<id>293</id>
+	<name>Wood piles + rags/wooden sticks/papers = fireplace kit</name>
+</text>
+
+<text>
+	<id>294</id>
+	<name>Place a fireplace kit on the ground and light it with matches.</name>
+</text>
+
+<text>
+	<id>295</id>
+	<name>Map will be available after the tutorial.</name>
+</text>
+
+<text>
+	<id>296</id>
+	<name>BOATS</name>
+</text>
+
+<text>
+	<id>297</id>
+	<name>Boat can be used to move to the current island to a next one. It has to be repaired first (wooden piles or duct tape).
+There are multiple islands to visit, but beware! Once you get to another island you can't return to the previous one.</name>
+</text>
+
+<text>
+	<id>298</id>
+	<name>BASE BUILDING</name>
+</text>
+
+<text>
+	<id>299</id>
+	<name>Civilian tents can be deployed and used to warm up and store items. Items are stored there permanently.
+	</name>
+</text>
+
+<text>
+	<id>300</id>
+	<name>Crafted fences and barbwires can slowdown enemies in case of attack.</name>
+</text>
+
+
+
+
+<!-- INVENTORY-->
+
+<text>
+	<id>301</id>
+	<name>Ruined</name>
+</text>
+
+<!-- Ammo ejecting from ranged weapon-->
+<text>
+	<id>302</id>
+	<name>Eject</name>
+</text>
+
+<text>
+	<id>303</id>
+	<name>Tear into rags</name>
+</text>
+
+<!-- for NVG and headlamp-->
+<text>
+	<id>304</id>
+	<name>Toggle</name>
+</text>
+
+<!-- for fireplace kit, barberwire, landmine and beartrap -->
+<text>
+	<id>305</id>
+	<name>Deploy</name>
+</text>
+
+<text>
+	<id>306</id>
+	<name>Stack</name>
+</text>
+
+<text>
+	<id>307</id>
+	<name>Load main</name>
+</text>
+
+<text>
+	<id>308</id>
+	<name>Craft bag</name>
+</text>
+
+<text>
+	<id>309</id>
+	<name>Craft bow</name>
+</text>
+
+<text>
+	<id>310</id>
+	<name>Craft arrows</name>
+</text>
+
+<text>
+	<id>311</id>
+	<name>Craft fireplace kit</name>
+</text>
+
+<text>
+	<id>312</id>
+	<name>Clean</name>
+</text>
+
+<text>
+	<id>313</id>
+	<name>Take as melee</name>
+</text>
+
+<text>
+	<id>314</id>
+	<name>Holster knife</name>
+</text>
+
+<text>
+	<id>315</id>
+	<name>Patch</name>
+</text>
+
+<text>
+	<id>316</id>
+	<name>Attach battery</name>
+</text>
+
+<text>
+	<id>317</id>
+	<name>Craft backpack</name>
+</text>
+
+<text>
+	<id>318</id>
+	<name>Eat</name>
+</text>
+
+<text>
+	<id>319</id>
+	<name>Drink</name>
+</text>
+
+<text>
+	<id>320</id>
+	<name>Plant</name>
+</text>
+
+<text>
+	<id>321</id>
+	<name>Flay</name>
+</text>
+
+<!-- for waterbottle and canteen-->
+<text>
+	<id>322</id>
+	<name>Fill with water</name>
+</text>
+
+<text>
+	<id>323</id>
+	<name>Cook</name>
+</text>
+
+<text>
+	<id>324</id>
+	<name>Use heatpack</name>
+</text>
+
+<text>
+	<id>325</id>
+	<name>Apply bandage</name>
+</text>
+
+<text>
+	<id>326</id>
+	<name>Blood transfusion</name>
+</text>
+
+<!-- for flare-->
+<text>
+	<id>327</id>
+	<name>Light and throw</name>
+</text>
+
+<text>
+	<id>328</id>
+	<name>Throw grenade</name>
+</text>
+
+<text>
+	<id>329</id>
+	<name>Light the fireplace</name>
+</text>
+
+<text>
+	<id>330</id>
+	<name>Saline transfusion</name>
+</text>
+
+<text>
+	<id>331</id>
+	<name>Split</name>
+</text>
+
+<text>
+	<id>332</id>
+	<name>Apply</name>
+</text>
+
+<text>
+	<id>333</id>
+	<name>Eat vitamins</name>
+</text>
+
+<text>
+	<id>334</id>
+	<name>Build fence</name>
+</text>
+
+<text>
+	<id>335</id>
+	<name>Light up</name>
+</text>
+
+<text>
+	<id>336</id>
+	<name>Crit </name>
+</text>
+
+<text>
+	<id>337</id>
+	<name>XP </name>
+</text>
+
+<text>
+	<id>338</id>
+	<name>Scan Area</name>
+</text>
+
+<text>
+	<id>339</id>
+	<name>Load secondary</name>
+</text>
+
+<!-- Perks Title and Description-->
+
+<text>
+	<id>400</id>
+	<name>Sharpshooter
+Increases a chance of headshot with a ranged weapon.</name>
+</text>
+
+<text>
+	<id>401</id>
+	<name>Scout
+You can spot enemy survivors from a greater distance.</name>
+</text>
+
+<text>
+	<id>402</id>
+	<name>Sprinter
+Run speed increases by 10%.</name>
+</text>
+
+<text>
+	<id>403</id>
+	<name>Camel
+Thirst rate decreases by 15%.</name>
+</text>
+
+<text>
+	<id>404</id>
+	<name>Hamster
+Hunger rate decreases by 15%.</name>
+</text>
+
+<text>
+	<id>405</id>
+	<name>Snowborn
+Cold resistance increases by 20%.</name>
+</text>
+
+<text>
+	<id>406</id>
+	<name>The Bullet Farmer
+Each ammo stack you find contains +3 bullets.</name>
+</text>
+
+<text>
+	<id>407</id>
+	<name>Survivalist
+Regeneration speed doubles if your blood drops under 50%.</name>
+</text>
+
+<text>
+	<id>408</id>
+	<name>Blocker
+Increases chance to block enemy attacks in melee fight.</name>
+</text>
+
+<text>
+	<id>409</id>
+	<name>Puncher
+Increases chance to deal multiple damage attack in melee fight.</name>
+</text>
+
+<text>
+	<id>410</id>
+	<name>Trunk Digger
+Increases chance to find loot in car trunks.</name>
+</text>
+
+<text>
+	<id>411</id>
+	<name>Hunter
+Animals have a smaller chance to spot the player.</name>
+</text>
+
+<text>
+	<id>412</id>
+	<name>Sweet home
+Staying inside buildings adds 50% more heat.</name>
+</text>
+
+<text>
+	<id>413</id>
+	<name>Red+
+Lowers the blood loss when the player is bleeding or feels sick.</name>
+</text>
+
+<text>
+	<id>414</id>
+	<name>Nightcrawler
+You see a little better in the night.</name>
+</text>
+
+<text>
+	<id>415</id>
+	<name>Agronomist
+You gather more berries. None of your plants will ever wither.</name>
+</text>
+
+<text>
+	<id>451</id>
+	<name>Repair this boat with a wood pile to move further. Chop any tree with an axe to get a wood pile.</name>
+</text>
+
+<text>
+	<id>452</id>
+	<name>Hey! This looks like some loot! Move closer to pick it up.</name>
+</text>
+
+<text>
+	<id>453</id>
+	<name>Here you can check all your items you picked up.</name>
+</text>
+
+<text>
+	<id>454</id>
+	<name>This is your hands slot, it is always available, even if you have no other gear. Use items by tapping.</name>
+</text>
+
+<text>
+	<id>455</id>
+	<name>Welcome, survivor to MiniDayZ Reloaded! You are trapped on a small island, and your only chance to get to another one is to find a boat.</name>
+</text>
+
+<text>
+	<id>456</id>
+	<name>Move by tapping/drawing</name>
+</text>
+
+<text>
+	<id>457</id>
+	<name>Movement with the stick</name>
+</text>
+
+<text>
+	<id>458</id>
+	<name>Choose the movement controls mode. You can switch between them anytime.</name>
+</text>
+
+<text>
+	<id>459</id>
+	<name>As long as you keep surviving and killing enemies, you will obtain experience points (XP) to unlock perks.</name>
+</text>
+
+<text>
+	<id>460</id>
+	<name>Choose one perk and tap on the plus button. It will always be active until your character dies.</name>
+</text>
+
+<text>
+	<id>461</id>
+	<name>Use the interact button to pick up items and interact.</name>
+</text>
+
+<text>
+	<id>462</id>
+	<name>Now you have a ranged weapon (Mk18), aiming happens automatically. Use this button to shoot.</name>
+</text>
+
+<text>
+	<id>463</id>
+	<name>You can reload your weapon by tapping this button. If you have suitable ammo, it will be loaded.</name>
+</text>
+
+<text>
+	<id>464</id>
+	<name>Switch between melee and ranged weapons mode.</name>
+</text>
+
+<text>
+	<id>465</id>
+	<name>It looks like you’re bleeding.
+Find a bandage or tear your t-shirt into rags.</name>
+</text>
+
+<text>
+	<id>466</id>
+	<name>Realy?Your blood level dropped to zero. Lucky for you it is only a tutorial and you will be healed now. Go on.</name>
+</text>
+
+<text>
+	<id>467</id>
+	<name>Use drag and drop to manage items in the inventory.</name>
+</text>
+
+<text>
+	<id>468</id>
+	<name>Look, that’s a firearm. It can usually be found on military locations or not.</name>
+</text>
+<!-- Tutorial text hints that appear above objects in tutorial cuts -->
+
+
+<text>
+	<id>469</id>
+	<name>Infected ahead! Attack it by moving closer. The fight will proceed automatically.</name>
+</text>
+
+<text>
+	<id>470</id>
+	<name>Wolves! Keep quiet, wolves are pretty dangerous, especially in packs.</name>
+</text>
+
+<text>
+	<id>471</id>
+	<name>A water pump. You can drink from it and fill up your canteen or water bottle.</name>
+</text>
+
+<text>
+	<id>472</id>
+	<name>An abandoned car. You can check the trunk for loot. Move closer to the back of the car to do so.</name>
+</text>
+
+<text>
+	<id>473</id>
+	<name>You can hunt deer and flay them with a knife to get meat.</name>
+</text>
+
+<text>
+	<id>474</id>
+	<name>You can hunt rabbits and flay them with a knife to get meat.</name>
+</text>
+
+<text>
+	<id>475</id>
+	<name>You can gather berries from some bushes, just look around.</name>
+</text>
+
+	<text>
+		<id>500</id>
+		<name>English</name>
+	</text>
+	<text>
+		<id>501</id>
+		<name>Français</name>
+	</text>
+	<text>
+		<id>502</id>
+		<name>Italiano</name>
+	</text>
+	<text>
+		<id>503</id>
+		<name>Deutsch</name>
+	</text>
+	<text>
+		<id>504</id>
+		<name>Español</name>
+	</text>
+	<text>
+		<id>505</id>
+		<name>Русский</name>
+	</text>
+<text>
+	<id>506</id>
+	<name>Čeština</name>
+</text>
+<text>
+	<id>507</id>
+	<name>Português(BR)</name>
+</text>
+<text>
+	<id>508</id>
+	<name>简体中文</name>
+</text>
+<text>
+	<id>509</id>
+	<name>繁體中文</name>
+</text>
+
+<text>
+	<id>530</id>
+	<name>To unlock achievements, you must play a whole session until your character dies. There are 3 tiers: bronze for Novice, silver for Regular and gold for Veteran. You can unlock lower tiers if you select higher difficulty, but not the opposite way. Higher tiers are also more difficult to unlock.</name>
+</text>
+
+<text>
+	<id>531</id>
+	<name>Stats</name>
+</text>
+
+<text>
+	<id>532</id>
+	<name>Perks</name>
+</text>
+
+<text>
+	<id>533</id>
+	<name>Score</name>
+</text>
+
+<text>
+	<id>534</id>
+	<name>Options</name>
+</text>
+
+<text>
+	<id>535</id>
+	<name>Leaderboards</name>
+</text>
+
+<text>
+	<id>536</id>
+	<name>Score to unlock: </name>
+</text>
+
+<text>
+	<id>537</id>
+	<name>Quit</name>
+</text>
+
+<text>
+	<id>538</id>
+	<name>Slow internet connection!</name>
+</text>
+
+<text>
+	<id>539</id>
+	<name>Cancel</name>
+</text>
+
+<text>
+	<id>540</id>
+	<name>Are you sure you want to exit the game? Tutorial progress will not be saved.</name>
+</text>
+
+<text>
+	<id>541</id>
+	<name>Are you sure you want to exit the game? Your game will be saved.</name>
+</text>
+
+<text>
+	<id>542</id>
+	<name>You are dead</name>
+</text>
+
+<!--1.2.0 Content-->
+
+
+<text>
+	<id>340</id>
+	<name>Attach</name>
+</text>
+
+<text>
+	<id>341</id>
+	<name>Detach</name>
+</text>
+
+<text>
+	<id>342</id>
+	<name>Scope</name>
+</text>
+
+<text>
+	<id>343</id>
+	<name>Silencer</name>
+</text>
+
+<text>
+	<id>344</id>
+	<name>Bandolier</name>
+</text>
+
+<text>
+	<id>345</id>
+	<name>Saw off rifle</name>
+</text>
+
+<text>
+	<id>346</id>
+	<name>Saw off rifle</name>
+</text>
+
+<text>
+	<id>347</id>
+	<name>Heat </name>
+</text>
+
+<text>
+	<id>348</id>
+	<name>Armor </name>
+</text>
+
+<text>
+	<id>349</id>
+	<name>You can fuel this boat with a gas canister you have.</name>
+</text>
+
+<text>
+	<id>350</id>
+	<name>Fuel</name>
+</text>
+
+<text>
+	<id>351</id>
+	<name>You need a gas canister to fuel this boat.</name>
+</text>
+
+<text>
+	<id>352</id>
+	<name>Enter this bunker? You will be able to get back.</name>
+</text>
+
+<text>
+	<id>353</id>
+	<name>Leave this bunker? You will be able to get back later.</name>
+</text>
+
+<text>
+	<id>354</id>
+	<name>Airdrops unavailable while underground.</name>
+</text>
+
+<text>
+	<id>355</id>
+	<name>You are unconscious.</name>
+</text>
+
+<text>
+	<id>356</id>
+	<name>Watch the ad to wake up.</name>
+</text>
+
+<text>
+	<id>357</id>
+	<name>Bunker unavailable, try later.</name>
+</text>
+
+<text>
+	<id>358</id>
+	<name>More games</name>
+</text>
+
+<text>
+	<id>359</id>
+	<name>You are about to die. Your only chance to continue playing is using this adrenaline injection after watching the video ad.</name>
+</text>
+
+<text>
+	<id>360</id>
+	<name>You need internet connection to proceed.</name>
+</text>
+
+<text>
+	<id>361</id>
+	<name>Use injection</name>
+</text>
+
+<text>
+	<id>362</id>
+	<name>Reject</name>
+</text>
+
+<!--PAD-->
+
+<text>
+	<id>242</id>
+	<name>Attachments</name>
+</text>
+
+<text>
+	<id>243</id>
+	<name>Bandolier - increases reload speed by 30%</name>
+</text>
+
+<text>
+	<id>244</id>
+	<name>RDS scope - slightly reduces spread</name>
+</text>
+
+<text>
+	<id>245</id>
+	<name>Optic scopes - reduce spread, +10% headshot chance</name>
+</text>
+
+<text>
+	<id>246</id>
+	<name>Hides muzzle flash and removes shot noise.</name>
+</text>
+
+<!--1.3.0 Content-->
+
+<text>
+	<id>363</id>
+	<name>Repair car</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>Kate "Tourist"
+Starting gear: jeans, raincoat, civilian tent, headlamp.
+Unlocked perks: Hunter, Nightcrawler.</name>
+</text>
+
+<text>
+	<id>93</id>
+	<name>Jasmine "Lumber"
+Starting gear: hunter pants, tshirt, beret, hatchet, duct tape.
+Unlocked perks: Hamster, Camel, Snowborn.</name>
+</text>
+
+<text>
+	<id>94</id>
+	<name>Aika "Stringer"
+Starting gear: jeans, t-shirt, cap, press vest, canteen, radio.
+Unlocked perks: Sprinter, Scout.</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>Kate "Tourist"
+Unlock requirement: Find two different drivable vehicles on the 4th island.
+On "Veteran" difficulty.
+</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>Jasmine "Lumber"
+Unlock requirement: Drop your karma to -100 and then rise it to +100 in one run.
+On "Veteran" difficulty.
+</name>
+</text>
+
+<text>
+	<id>142</id>
+	<name>Aika "Stringer"
+Unlock requirement: Complete 3 tasks from survivors in one run.
+On "Veteran" difficulty.
+</name>
+</text>
+
+
+<text>
+	<id>138</id>
+	<name>Completed</name>
+</text>
+
+<text>
+	<id>139</id>
+	<name>Tasks</name>
+</text>
+
+<text>
+	<id>364</id>
+	<name>Hello there! Our group is looking for </name>
+</text>
+
+<text>
+	<id>365</id>
+	<name>As a reward you will get </name>
+</text>
+
+<text>
+	<id>366</id>
+	<name>Thanks a lot! Here you go the coordinates with you reward.</name>
+</text>
+
+<text>
+	<id>367</id>
+	<name>No active task at this moment.</name>
+</text>
+
+<text>
+	<id>368</id>
+	<name>Coordinates where a drivable vehicle is located</name>
+</text>
+
+<text>
+	<id>369</id>
+	<name>Coordinates of an underground bunker entrance</name>
+</text>
+
+<text>
+	<id>370</id>
+	<name>Coordinates of an interesting place</name>
+</text>
+
+<text>
+	<id>371</id>
+	<name>A group of survivors is looking for this item:</name>
+</text>
+
+<text>
+	<id>372</id>
+	<name>Hey, we need help! A group of bandits set up a camp not far from here. Eliminate them and we will reward you.</name>
+</text>
+
+<text>
+	<id>373</id>
+	<name>Did you find what we are looking for?</name>
+</text>
+
+<text>
+	<id>374</id>
+	<name>Karma</name>
+</text>
+
+<text>
+	<id>375</id>
+	<name>Open</name>
+</text>
+
+<text>
+	<id>376</id>
+	<name>Coordinates of a boat we saw on the east coast.</name>
+</text>
+
+<text>
+	<id>377</id>
+	<name>Hey! We got ambushed and lost our loot case. If you bring it back to us, we will reward you.</name>
+</text>
+
+<text>
+	<id>378</id>
+	<name>Take care of the bandits first, come back then.</name>
+</text>
+
+<text>
+	<id>379</id>
+	<name>Did you find our loot case?</name>
+</text>
+
+<text>
+	<id>380</id>
+	<name>Thanks a lot! Here are the coordinates with your reward.</name>
+</text>
+
+<text>
+	<id>381</id>
+	<name>Reward for this task is:</name>
+</text>
+
+<text>
+	<id>382</id>
+	<name>A group of survivors has lost their loot case. I can find it and bring it back, or I can open it and steal all the stuff.</name>
+</text>
+
+<text>
+	<id>383</id>
+	<name>A group of survivors asked me to deal with bandits.</name>
+</text>
+
+<text>
+	<id>384</id>
+	<name>Time left: </name>
+</text>
+
+<text>
+	<id>385</id>
+	<name>Days survived</name>
+</text>
+
+<text>
+	<id>386</id>
+	<name>Bandits eliminated. I need to get back to survivors for my reward.</name>
+</text>
+
+<text>
+	<id>387</id>
+	<name>Current task failed.</name>
+</text>
+
+<text>
+	<id>388</id>
+	<name>Start fishing</name>
+</text>
+
+<text>
+	<id>389</id>
+	<name>Craft fishing rod</name>
+</text>
+
+<text>
+	<id>390</id>
+	<name>Unlocks</name>
+</text>
+
+<text>
+	<id>391</id>
+	<name>Weapons</name>
+</text>
+
+<text>
+	<id>392</id>
+	<name>MAC-10
+Unlock requirement: Kill 200 infected in total with any pistols.
+On "Regular" or "Veteran" difficulty.
+Current status:</name>
+</text>
+
+<text>
+	<id>393</id>
+	<name>Saiga-12k
+Unlock requirement: Kill 150 infected in total with any shotguns.
+On "Regular" or "Veteran" difficulty.
+Current status:</name>
+</text>
+
+<text>
+	<id>394</id>
+	<name>AUG
+Unlock requirement: Kill 200 infected in total with any full-auto weapon or SMG.
+On "Regular" or "Veteran" difficulty.
+Current status:</name>
+</text>
+
+<text>
+	<id>395</id>
+	<name>MAC-10
+Unlocked.
+Locations: Gun shops, NATO vehicles crash sites, Underground bunkers.
+</name>
+</text>
+
+<text>
+	<id>396</id>
+	<name>Saiga-12k
+Unlocked. 
+Locations: Gun shops, Underground bunkers, EAST Military bases.
+</name>
+</text>
+
+<text>
+	<id>397</id>
+	<name>AUG
+Unlocked.
+Locations: NATO vehicles crash sites, Underground bunkers, NATO Military bases.
+</name>
+</text>
+
+<text>
+	<id>398</id>
+	<name>New weapon unlocked!</name>
+</text>
+
+<!--1.4.0 Content-->
+
+<text>
+	<id>416</id>
+	<name>AS VAL
+Unlock requirement: Find 6 helicopter crashes in one run.
+On "Veteran" difficulty.
+Current status:</name>
+</text>
+
+<text>
+	<id>417</id>
+	<name>AS VAL
+Unlocked.
+Locations: Underground bunkers, EAST Military bases.</name>
+</text>
+
+<text>
+	<id>418</id>
+	<name>L96
+Unlock requirement: Make 200 headshot kills to infecteds with rifles.
+(Mosin Nagant, SKS ,SVD, Repeater).
+On "Veteran" difficulty.
+Current status:</name>
+</text>
+
+<text>
+	<id>419</id>
+	<name>L96
+Unlocked.
+Locations: Underground bunkers.</name>
+</text>
+
+<text>
+	<id>420</id>
+	<name>Call friendly survivor for help? He will arrive right after the video ad.</name>
+</text>
+
+<text>
+	<id>421</id>
+	<name>Call</name>
+</text>
+
+<text>
+	<id>422</id>
+	<name>Push this button when ready for next wave.</name>
+</text>
+
+<text>
+	<id>423</id>
+	<name>Infecteds are coming!</name>
+</text>
+
+<text>
+	<id>424</id>
+	<name>Area clear, supply drop in your area.</name>
+</text>
+
+<text>
+	<id>425</id>
+	<name>Prepare for first wave.</name>
+</text>
+
+<text>
+	<id>426</id>
+	<name>Game mode:</name>
+</text>
+
+<text>
+	<id>427</id>
+	<name>Casual</name>
+</text>
+
+<text>
+	<id>428</id>
+	<name>Radiation</name>
+</text>
+
+<text>
+	<id>429</id>
+	<name>Battle Royale</name>
+</text>
+
+<text>
+	<id>430</id>
+	<name>Public enemy</name>
+</text>
+
+<text>
+	<id>431</id>
+	<name>Shootout</name>
+</text>
+
+<text>
+	<id>432</id>
+	<name>Invasion</name>
+</text>
+
+<text>
+	<id>433</id>
+	<name>Wildlife</name>
+</text>
+
+<text>
+	<id>434</id>
+	<name>Breach</name>
+</text>
+
+<text>
+	<id>435</id>
+	<name>Casual. After your character death you will spawn again on the current island coast.</name>
+</text>
+
+<text>
+	<id>436</id>
+	<name>Radiation. Adds radiation zones on islands.</name>
+</text>
+
+<text>
+	<id>437</id>
+	<name>Battle Royale. Adds "wall of death" zones soon from start. Increases loot spawn.</name>
+</text>
+
+<text>
+	<id>438</id>
+	<name>Public enemy. All other survivors will start to hunt you down soon after start.</name>
+</text>
+
+<text>
+	<id>439</id>
+	<name>Shootout. Almost all zombies have firearms now.</name>
+</text>
+
+<text>
+	<id>440</id>
+	<name>Invasion. More zombies everywere!</name>
+</text>
+
+<text>
+	<id>441</id>
+	<name>Wildlife. Almost all zombies replaced with wolves.</name>
+</text>
+
+<text>
+	<id>442</id>
+	<name>Breach. Protect your location from zombies as much as you can.</name>
+</text>
+
+<text>
+	<id>443</id>
+	<name>You cant unlock any characters, weapons or achievements while playing in game modes.</name>
+</text>
+
+<text>
+	<id>444</id>
+	<name>Survival</name>
+</text>
+
+<text>
+	<id>445</id>
+	<name>Special</name>
+</text>
+
+<text>
+	<id>446</id>
+	<name>Start</name>
+</text>
+
+<text>
+	<id>447</id>
+	<name>Wave</name>
+</text>
+
+</list>

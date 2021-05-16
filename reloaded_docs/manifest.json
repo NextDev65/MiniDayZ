@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "MiniDayZ: Reloaded",
+  "short_name": "MiniDayZ: Reloaded",
+  "version": "com.bistudio.minidayz.reloaded",
+  "description": "How long can you survive?",
+  "author": "Bohemia Interactive a.s.",
+  "icons": [],
+  "start_url": "index.html"
+}
