@@ -1,6 +1,6 @@
 # MiniDayZ
 
-![Survivor](./survivor.png)
+[![Survivor](./survivor.png)](https://nextdev56.github.io/MiniDayZ/)
 
 ## Notes
 * Change controls from stick to tap/draw
