@@ -2,8 +2,9 @@
 
 [![Survivor](./survivor.png)](https://nextdev56.github.io/MiniDayZ/)
 
+### [Click Me!](https://nextdev56.github.io/MiniDayZ/)
 ## Notes
-* Change controls from stick to tap/draw
+* Change controls from stick to tap/draw for PC
 
 ___
 ## [Original](https://minidayz.com/home) by Bohemia Interactive
