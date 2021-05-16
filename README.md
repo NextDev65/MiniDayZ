@@ -5,6 +5,7 @@
 ### [Click Me!](https://nextdev56.github.io/MiniDayZ/)
 ## Notes
 * Change controls from stick to tap/draw for PC
+* F11/Fullscreen before the game loads
 
 ___
 ## [Original](https://minidayz.com/home) by Bohemia Interactive
