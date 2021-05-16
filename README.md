@@ -1,4 +1,4 @@
-# MiniDayZ
+# [MiniDayZ](https://nextdev56.github.io/MiniDayZ/)
 
 [![Survivor](./survivor.png)](https://nextdev56.github.io/MiniDayZ/)
 
