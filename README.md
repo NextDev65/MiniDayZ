@@ -5,7 +5,9 @@
 ## Notes
 * Change controls from stick to tap/draw for PC
 * F11/Fullscreen before the game loads
-* Current build is Plus 1.0, now outdated. Play 1.1 at developer's site @ http://canebeads.com/MDZPlus/Web/. WASD support toggleable in settings.
+* Current build is Plus 1.0, now outdated.
+  * Play 1.1 on developer's site @ http://canebeads.com/MDZPlus/Web/.
+  * WASD support toggleable in settings.
 
 ___
 ## [Original](https://minidayz.com/home) by Bohemia Interactive
