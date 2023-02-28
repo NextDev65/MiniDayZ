@@ -1,5 +1,7 @@
 # MiniDayZ
 
+###### The Browser (and PC) port of Bohemia Interactive's mobile game
+
 [![Survivor](./survivor.png)](https://nextdev56.github.io/MiniDayZ/)
 
 ## Notes
