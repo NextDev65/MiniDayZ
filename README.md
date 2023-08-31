@@ -1,4 +1,4 @@
-# MiniDayZ
+# MiniDayZ (Plus)
 
 ###### The Browser (and PC) port of Bohemia Interactive's mobile game
 
@@ -7,12 +7,11 @@
 ## Notes
 * Change controls from stick to tap/draw for PC
 * F11/Fullscreen before the game loads
-* Current build is Plus 1.0, now outdated.
-  * Play 1.1 on developer's site @ http://canebeads.com/MDZPlus/Web/index.html. WASD support toggleable in settings.
+* Current build is Plus 1.0, now outdated. (Update soon!)
 
 ___
 ## [Original](https://minidayz.com/home) by Bohemia Interactive
   * https://minidayz.com/blog/mini-dayz-browser-version-will-no-longer-be-supported (bohemia stopped hosting)
 ## Mods
   * ### [Reloaded](https://discord.gg/CSktjeQWtC) by Kev3232
-  * ### [Plus](https://canebeads.com/MDZPlus/MDZPlus.html) by Altero
+  * ### Plus by Altero (Site down)
