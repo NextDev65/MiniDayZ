@@ -7,7 +7,7 @@
 ## Notes
 * Change controls from stick to tap/draw for PC
 * F11/Fullscreen before the game loads
-* Current build is Plus 1.0, now outdated. (Update soon!)
+* Current build is Plus 1.2
 
 ___
 ## [Original](https://minidayz.com/home) by Bohemia Interactive
@@ -15,3 +15,4 @@ ___
 ## Mods
   * ### [Reloaded](https://discord.gg/CSktjeQWtC) by Kev3232
   * ### Plus by Altero (Site down)
+    * Exported to apk by meterpreter, available on MiniDayZ discord server
