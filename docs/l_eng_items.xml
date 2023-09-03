@@ -1099,7 +1099,56 @@
 	<name>Canvas</name>
 </item>
 
+<item>
+	<id>118</id>
+	<name>Adhesive plaster</name>
+</item>
+
+<item>
+	<id>119</id>
+	<name>Smoke grenade</name>
+</item>
+
+<item>
+	<id>120</id>
+	<name>Cigarettes</name>
+</item>
+
+<item>
+	<id>121</id>
+	<name>Beer</name>
+</item>
+
+<item>
+	<id>122</id>
+	<name>Epoxy glue</name>
+</item>
+
+<item>
+	<id>123</id>
+	<name>Fertilizer</name>
+</item>
+
+<item>
+	<id>124</id>
+	<name>Laser Sight</name>
+</item>
+
+<item>
+	<id>125</id>
+	<name>Lighter</name>
+</item>
+
+<item>
+	<id>126</id>
+	<name>Officer's keycard</name>
+</item>
+
 <!--Update 1.5.0 gear and weapons-->
+<item>
+	<id>366</id>
+	<name>Awesome Hoodie</name>
+</item>
 
 <item>
 	<id>406</id>
@@ -1124,6 +1173,16 @@
 <item>
 	<id>190</id>
 	<name>Silenced Remington</name>
+</item>
+
+<item>
+	<id>191</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>192</id>
+	<name>Vector</name>
 </item>
 
 <item>

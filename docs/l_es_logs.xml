@@ -88,6 +88,10 @@
 		<id>34</id>
 		<name>No es la adecuada.</name>
 	</text>
+<text>
+	<id>35</id>
+	<name>Le apliqué un vendaje.</name>
+</text>
 	<text>
 		<id>36</id>
 		<name>No estoy sangrando.</name>
@@ -108,10 +112,19 @@
 		<id>40</id>
 		<name>Necesito un kit de hoguera en el suelo para encenderlo.</name>
 	</text>
+<text>
+	<id>41</id>
+	<name>He bebido whisky.</name>
+</text>
+
 	<text>
 		<id>42</id>
 		<name>Transfusión de suero hecha.</name>
 	</text>
+<text>
+	<id>43</id>
+	<name>He tomado vitaminas.</name>
+</text>
 	<text>
 		<id>44</id>
 		<name>Arma estropeada.</name>
@@ -120,6 +133,10 @@
 		<id>45</id>
 		<name>Arma limpiada.</name>
 	</text>
+<text>
+	<id>46</id>
+	<name>He tomado tetraciclina.</name>
+</text>
 	<text>
 		<id>47</id>
 		<name>Vehículo repostado.</name>
@@ -163,6 +180,10 @@
 	<text>
 		<id>57</id>
 		<name>Necesito una hoguera encendida para eso.</name>
+<text>
+	<id>58</id>
+	<name>He comido bistec cocido.</name>
+</text>
 	</text>
 	<text>
 		<id>59</id>
@@ -196,6 +217,10 @@
 		<id>66</id>
 		<name>Gafas nocturnas estropeadas.</name>
 	</text>
+<text>
+	<id>67</id>
+	<name>He bebido Kvas.</name>
+</text>
 	<text>
 		<id>68</id>
 		<name>Necesito un pico, una horca o una pala.</name>
@@ -208,6 +233,10 @@
 		<id>70</id>
 		<name>Plantado.</name>
 	</text>
+<text>
+	<id>71</id>
+	<name>Cuadra</name>
+</text>
 	<text>
 		<id>72</id>
 		<name>Necesito un cuchillo para despellejar una presa.</name>

@@ -102,7 +102,7 @@
 	</text>
 	<text>
 		<id>27</id>
-		<name>Personaje</name>
+		<name>Personajes</name>
 	</text>
 	<text>
 		<id>28</id>
@@ -301,42 +301,42 @@ En cualquier dificultad.
 		<id>74</id>
 		<name>Lee «Maníaco»
 Requisito de desbloqueo: mata a un bandido superviviente con un hacha.
-En dificultad Normal o Veterano.
+En dificultad "Normal" o superior.
 </name>
 	</text>
 	<text>
 		<id>75</id>
 		<name>Sergey «Slav»
 Requisito de desbloqueo: mata a otros 3 supervivientes en una misma partida.
-En dificultad Normal o Veterano.
+En dificultad "Normal" o superior.
 </name>
 	</text>
 	<text>
 		<id>76</id>
 		<name>John «Motero»
 Requisito de desbloqueo: lleva una chaqueta de motorista, un casco de motorista y una llave para tubos a la vez.
-En dificultad Normal o Veterano.
+En dificultad "Normal" o superior.
 </name>
 	</text>
 	<text>
 		<id>77</id>
-		<name>Ganzo «Dragón»
+		<name>Hanzo «Dragón»
 Requisito de desbloqueo: mata a 4 supervivientes enemigos que tengan un arma de fuego.
-En dificultad Veterano.
+En dificultad "Veterano" o "Legendario".
 </name>
 	</text>
 	<text>
 		<id>78</id>
 		<name>Tom «Superviviente»
 Requisito de desbloqueo: sobrevive 7 días.
-En dificultad Veterano.
+En dificultad "Veterano" o "Legendario".
 </name>
 	</text>
 	<text>
 		<id>79</id>
 		<name>Garry «Veterano»
 Requisito de desbloqueo: lleva el conjunto gorka completo (pantalones gorka, chaqueta gorka y casco gorka) en una partida.
-En dificultad Veterano.
+En dificultad "Veterano" o "Legendario".
 </name>
 	</text>
 	<text>
@@ -401,7 +401,7 @@ Equipo inicial: pantalones de chándal, chaqueta de chándal, pasamontañas, bat
 	</text>
 	<text>
 		<id>89</id>
-		<name>Ganzo «Dragón»
+		<name>Hanzo «Dragón»
 Equipo inicial: pantalones de cazador, arco, 5 flechas compuestas.
 Ventajas desbloqueadas: Velocista, Hijo del frío.
 </name>
@@ -860,11 +860,11 @@ También hay todo tipo de objetos útiles desperdigados por el mundo.
 	</text>
 	<text>
 		<id>279</id>
-		<name>La cinta americana mejora un 15 % el estado de cierto equipo.</name>
+		<name>La cinta americana mejora un 15 % el estado de ciertos equipamentos.</name>
 	</text>
 	<text>
 		<id>280</id>
-		<name>El kit de costura mejora un 50 % el estado de cierto equipo.</name>
+		<name>El kit de costura mejora un 50 % el estado de ciertos equipamentos.</name>
 	</text>
 	<text>
 		<id>281</id>
@@ -920,7 +920,7 @@ También hay todo tipo de objetos útiles desperdigados por el mundo.
 	</text>
 	<text>
 		<id>294</id>
-		<name>Pon un kit de hoguera en el suelo y enciéndelo con cerillas.</name>
+		<name>Pon un kit de hoguera en el suelo y enciéndelo con cerillas o encendedor.</name>
 	</text>
 	<text>
 		<id>295</id>
@@ -1107,90 +1107,106 @@ Se pueden visitar varias islas, pero, ¡cuidado! Una vez que llegues a una isla 
 	<text>
 		<id>400</id>
 		<name>Tirador de primera
-Aumenta la probabilidad de ejecutar tiros a la cabeza con armas a distancia.</name>
+lvl 1: Aumenta la probabilidad de hacer un disparo a la cabeza con un arma a distancia en un 10%.
+lvl 2: Aumenta el daño de los disparos a la cabeza en un 30%.</name>
 	</text>
 	<text>
 		<id>401</id>
 		<name>Explorador
-Puedes ver supervivientes enemigos desde más lejos.</name>
+lvl 1: Puedes ver a otros supervivientes desde una mayor distancia.
+lvl 2: Puede detectar la hostilidad de otros supervivientes.</name>
 	</text>
 	<text>
 		<id>402</id>
 		<name>Velocista
-La velocidad al correr aumenta un 10 %.</name>
+lvl 1: Velocidad de movimiento aumentada en un 5%
+lvl 2: Velocidad de movimiento aumentada en un 10%</name>
 	</text>
 	<text>
 		<id>403</id>
 		<name>Camello
-El índice de sed se reduce un 15 %.</name>
+lvl 1: La tasa de sed disminuye en un 10%.
+lvl 2: Todas las bebidas enlatadas dan adicionalmente +10 de agua.</name>
 	</text>
 	<text>
 		<id>404</id>
 		<name>Hámster
-El índice de comida se reduce un 15 %.</name>
+lvl 1: La tasa de hambre disminuye en un 10%.
+lvl 2: Todos los productos enlatados dan adicionalmente +10 de comida.</name>
 	</text>
 	<text>
 		<id>405</id>
 		<name>Hijo del frío 
-La resistencia al frío aumenta un 20 %.</name>
+lvl 1: Los desagües lloviendo y nevando congelan un 50% más lento.
+lvl 2: Tienes +2 de calor constantemente.</name>
 	</text>
 	<text>
 		<id>406</id>
 		<name>Granjero de balas
-Cada carga de munición contiene 3 balas más.</name>
+lvl 1: Todas las armas encontradas contendrán al menos una bala.
+lvl 2: Todas las pilas de municóin que encuentres contendrán 5 balas más.</name>
 	</text>
 	<text>
 		<id>407</id>
 		<name>Superviviente
-La velocidad de regeneración se duplica si la sangre baja del 50 %.</name>
+lvl 1: La velocidad de regeneración se duplica si su sangre cae por debajo del 50%.
+lvl 2: Obtienes + 10% de velocidad de movimiento si tu sangre cae por debajo del 20%.</name>
 	</text>
 	<text>
 		<id>408</id>
 		<name>Bloqueador
-Aumenta la probabilidad de bloquear los ataques enemigos al luchar cuerpo a cuerpo.</name>
+lvl 1: Aumenta la probabilidad de bloquear ataques enemigos en combate cuerpo a cuerpo en un 5%.
+lvl 2: Aumenta la probabilidad de bloquear los ataques enemigos en combate cuerpo a cuerpo en un 15%.</name>
 	</text>
 	<text>
 		<id>409</id>
 		<name>A puñetazos
-Aumenta la probabilidad de infligir más daño en los combates cuerpo a cuerpo.</name>
+lvl 1: Aumenta la probabilidad de infligir golpes críticos en combate cuerpo a cuerpo en un 10%.
+lvl 2: Aumenta el daño de golpe crítico en combate cuerpo a cuerpo en un 30%.</name>
 	</text>
 	<text>
 		<id>410</id>
 		<name>Saqueador de maleteros
-Aumenta la probabilidad de encontrar botín en los maleteros de los coches.</name>
+lvl 1:+ 20% de probabilidad de encontrar botín en los baules de los autos.
+lvl 2: Agrega un 10% de probabilidad de encontrar 2 artículos en el maletero del automóvil.</name>
 	</text>
 	<text>
 		<id>411</id>
 		<name>Cazador
-Los animales tienen menos probabilidades de ver al jugador.</name>
+lvl 1: Los animales tienen menos posibilidades de verte.
+lvl 2: Tienes un 50% de posibilidades de obtener bistec adicional al desollar animales.</name>
 	</text>
 	<text>
 		<id>412</id>
 		<name>Dulce hogar
-Al quedarse dentro de los edificios, se añade un 50% más de calor.</name>
+lvl 1: Permanecer dentro de los edificios agrega un 50% más de calor.
+lvl 2: Al dormir, el hambre y la sed disminuyen en un 30%.</name>
 	</text>
 	<text>
 		<id>413</id>
 		<name>Rojo+
-Reduce la pérdida de sangre cuando el jugador sufre hemorragias o enferma.</name>
+lvl 1: lvl 1: Reduce la pérdida de sangre al sangrar en un 50%.
+lvl 2: El sangrado se detiene 2 veces más rápido.</name>
 	</text>
 
 
 <text>
 	<id>414</id>
 	<name>Acechador nocturno
-Ves un poco mejor por la noche.</name>
+lvl 1: Puedes detectar enemigos ocultos más fácilmente.
+lvl 2: Ves un poco mejor en la noche.</name>
 </text>
 
 <text>
 	<id>415</id>
 	<name>Agrónomo
-Recolectas más bayas. Tus plantas no se marchitarán nunca.</name>
+lvl 1: Tienes un 50% de probabilidad de obtener más bayas cuando recolectas bayas silvestres.
+lvl 2: Tienes un 50% de posibilidades de obtener más verduras al recolectar tus plantas.</name>
 </text>
 
 	<text>
 		<id>451</id>
-		<name>Repara este bote con una pila de madera para avanzar. Tala un árbol con un hacha para conseguir una pila de madera.</name>
+		<name>Repara este bote c pila de madera para avanzar. Tala un árbol con un hacha para conseguir una pila de madera.</name>
 	</text>
 	<text>
 		<id>452</id>
@@ -1312,7 +1328,7 @@ Encuentra una venda o haz harapos con la camiseta.
 	</text>
 	<text>
 		<id>505</id>
-		<name>Русский</name>
+		<name>Español</name>
 	</text>
 <text>
 	<id>506</id>
@@ -1324,7 +1340,7 @@ Encuentra una venda o haz harapos con la camiseta.
 </text>
 <text>
 	<id>508</id>
-	<name>简体中文</name>
+	<name>箄1�7体中斄1�7</name>
 </text>
 <text>
 	<id>509</id>
@@ -1491,7 +1507,7 @@ Encuentra una venda o haz harapos con la camiseta.
 
 <text>
 	<id>358</id>
-	<name>Más juegos</name>
+	<name>MINI DayZ 2</name>
 </text>
 
 <text>
@@ -1558,7 +1574,7 @@ Ventajas desbloqueadas: Cazador, Acechador nocturno.</name>
 
 <text>
 	<id>93</id>
-	<name>Jasmine «Torpe»
+	<name>Joel «Miller»
 Equipo inicial: pantalones de caza, camiseta, boina, hacha de mano, cinta americana.
 Ventajas desbloqueadas: Hámster, Camello, Hijo del frío.</name>
 </text>
@@ -1574,15 +1590,15 @@ Ventajas desbloqueadas: Velocista, Explorador.</name>
 	<id>140</id>
 	<name>Kate «Turista»
 Requisito de desbloqueo: encuentra dos vehículos que puedas usar en la cuarta isla.
-En dificultad Veterano.
+En dificultad "Veterano" o "Legendario".
 </name>
 </text>
 
 <text>
 	<id>141</id>
-	<name>Jasmine «Torpe»
+	<name>Joel «Miller»
 Requisito de desbloqueo: haz que tu karma baje a -100 y luego suba de nuevo a +100 en una partida.
-En dificultad Veterano.
+En dificultad "Veterano" o "Legendario".
 </name>
 </text>
 
@@ -1590,7 +1606,7 @@ En dificultad Veterano.
 	<id>142</id>
 	<name>Aika «Periodista»
 Requisito de desbloqueo: completa 3 misiones de los supervivientes en una partida.
-En dificultad Veterano.
+En dificultad "Veterano" o "Legendario".
 </name>
 </text>
 
@@ -1749,7 +1765,7 @@ En dificultad Veterano.
 	<id>392</id>
 	<name>MAC-10
 Requisito de desbloqueo: mata a 100 infectados en total con cualquier pistola.
-En dificultad Normal o Veterano.
+En dificultad "Normal" o superior.
 Estado actual:</name>
 </text>
 
@@ -1757,7 +1773,7 @@ Estado actual:</name>
 	<id>393</id>
 	<name>Saiga-12k
 Requisito de desbloqueo: mata a 150 infectados en total con cualquier escopeta.
-En dificultad Normal o Veterano.
+En dificultad "Normal" o superior.
 Estado actual:</name>
 </text>
 
@@ -1765,7 +1781,7 @@ Estado actual:</name>
 	<id>394</id>
 	<name>AUG
 Requisito de desbloqueo: mata a 200 infectados en total con cualquier arma automática o metralleta.
-En dificultad Normal o Veterano.
+En dificultad "Normal" o superior.
 Estado actual:</name>
 </text>
 
@@ -1805,7 +1821,7 @@ Lugares: vehículos accidentados de la OTAN, búnkeres subterráneos, bases mili
 	<id>416</id>
 	<name>VSS
 Requisito de desbloqueo: encuentra 6 helicópteros accidentados en una partida.
-En dificultad Veterano.
+En dificultad "Veterano" o "Legendario".
 Estado actual: </name>
 </text>
 
@@ -1821,7 +1837,7 @@ Lugares: búnkeres subterráneos, bases militares del ESTE.
 	<id>418</id>
 	<name>SV-98
 Requisito de desbloqueo: 200 tiros a la cabeza a infectados usando fusiles (Mosin Nagant, SKS, SVD, Repeater).
-En dificultad Veterano.
+En dificultad "Veterano" o "Legendario".
 Estado actual: </name>
 </text>
 

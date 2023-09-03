@@ -161,7 +161,7 @@ Apply time: 6 seconds.
 
 <text>
 	<id>24</id>
-	<name>Can lit Campfire kit to make fireplace. 
+	<name>Can lit Campfire kit to make fireplace or to lit cigarettes. 
 </name>
 </text>
 
@@ -836,6 +836,68 @@ If you do not use it, then it will be removed on next island.
 	<name>Ingridient for Loot Stash.
 </name>
 </text>
+
+<text>
+	<id>118</id>
+	<name>Stops Bleeding.
+Apply time: 1 seconds.
+Max stack: 5
+</name>
+</text>
+
+<text>
+	<id>119</id>
+	<name>Creates smoke screen for 15 seconds, obstructing enemies vision.
+</name>
+</text>
+
+<text>
+	<id>120</id>
+	<name>+5 Heat and slows hunger and thrist for 30 seconds upon use. 
++5 Karma when gifted to other survivors.
+Max stack: 10
+</name>
+</text>
+
+<text>
+	<id>121</id>
+	<name>+20 Water
++10 Heat
+</name>
+</text>
+
+<text>
+	<id>122</id>
+	<name>+25% durability when used on some gear.
+</name>
+</text>
+
+<text>
+	<id>123</id>
+	<name>Increses growth speed of plants.
+</name>
+</text>
+
+<text>
+	<id>124</id>
+	<name>Increases aiming speed and recoil recovery by 30%.
+
+Can be mounted on: UMP-45, Vector, AK-74u, Ak-74, AN-94, AKM, M4, L85, AUG, RPK, Mosin Nagant, SKS, SVD, SV-98, VSS.
+</name>
+</text>
+
+<text>
+	<id>125</id>
+	<name>Can lit Campfire kit to make fireplace or to lit cigarettes.
+</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>Opens special doors in Underground bunker. Works only for bunker on current island.
+</name>
+</text>
+
 <!-- Pistols-->
 <!-- fnx -->
 <text>
@@ -986,7 +1048,7 @@ Mag size: 8
 <!-- Deagle-->
 
 <text>
-	<id>222</id>
+	<id>223</id>
 	<name>Damage: 30-50
 Accuracy: 6
 Aim Speed: 7
@@ -1332,6 +1394,31 @@ Aim Speed: 4
 Rate of fire: 66
 Ammo: 12cal
 Mag size: 6
+</name>
+</text>
+
+<!-- M16A2-->
+<text>
+	<id>263</id>
+	<name>Shoots three-round bursts.
+Damage: 18-30
+Accuracy: 9
+Aim Speed: 4
+Rate of fire: 1800
+Ammo: 5.56
+Mag size: 30
+</name>
+</text>
+
+<!-- Vector-->
+<text>
+	<id>264</id>
+	<name>Damage: 13-23
+Accuracy: 6
+Aim Speed: 6
+Rate of fire: 1200
+Ammo: 45ACP
+Mag size: 30
 </name>
 </text>
 
@@ -1682,7 +1769,7 @@ Can be torn into Rags.
 <!-- Shirt -->
 <text>
 	<id>502</id>
-	<name>+2 Slots
+	<name>+1 Slot
 +3 Heat 
 Can be torn into Rags.
 </name>
@@ -1720,7 +1807,7 @@ Protects from rain cold
 <!-- raider jacket -->
 <text>
 	<id>507</id>
-	<name>+2 Slots
+	<name>+1 Slots
 +4 Heat 
 +2 Armor
 </name>
@@ -1806,6 +1893,14 @@ Can be torn into Rags.
 	<id>518</id>
 	<name>+1 Slots
 +6 Heat 
+</name>
+</text>
+
+<!-- Hoodie Red-->
+<text>
+	<id>519</id>
+	<name>+3 Slots
++8 Heat 
 </name>
 </text>
 
@@ -2440,6 +2535,176 @@ Locations: Gun shops.</name>
 	<name>Canvas + Wood piles = Build Stash.
 Loot dropped in stash will be safe. Enemies can destroy it if found.
 </name>
+</text>
+
+<text>
+	<id>632</id>
+	<name>Mike "Designer"
+Unlock requirement: Reach unknown island.
+On "Legend" difficulty.
+</name>
+</text>
+
+<text>
+	<id>633</id>
+	<name>Mike "Designer"
+Starting gear: Awesome hoodie, Worker pants, Sword, Vector, Energy Drink x4, ammo .45 ACP x60.
+Unlocked perks: Sharpshooter, Puncher, Sprinter, Scout.</name>
+</text>
+
+<text>
+	<id>634</id>
+	<name>Adhesive plaster
+Unlock requirement: Finish the game with one of these characters: Emilio "Doc", Billy "Red", Dave "Boxer".</name>
+</text>
+
+<text>
+	<id>635</id>
+	<name>Lighter
+Unlock requirement: Finish the game with one of these characters: Lee "Maniac", Sergey "Slav", John «Biker».</name>
+</text>
+
+<text>
+	<id>636</id>
+	<name>Smoke Grenade
+Unlock requirement: Finish the game with one of these characters: Ganzo "Dragon", Tom "Survivor", Garry "Veteran".</name>
+</text>
+
+<text>
+	<id>637</id>
+	<name>Laser sight
+Unlock requirement: Finish the game with one of these characters: Kate "Tourist", Jasmine «Lumber», Aika "Stringer".</name>
+</text>
+
+<text>
+	<id>638</id>
+	<name>XXX
+Unlock requirement: Finish the game with one of these characters: Xavier "Pilot", Rudolf "Jager", Taman "Guard", Daria "Scientist".</name>
+</text>
+
+<text>
+	<id>639</id>
+	<name>...Copy! We hear you! Will be on your position in one day, hold on!...</name>
+</text>
+
+<text>
+	<id>640</id>
+	<name>Try to contact someone with a radio?</name>
+</text>
+
+<text>
+	<id>641</id>
+	<name>Smoke</name>
+</text>
+
+<text>
+	<id>642</id>
+	<name>Treat</name>
+</text>
+
+<text>
+	<id>643</id>
+	<name>Fertilize</name>
+</text>
+
+<text>
+	<id>644</id>
+	<name>Items</name>
+</text>
+
+<text>
+	<id>645</id>
+	<name>Adhesive plaster
+Locations: Hospitals, City Buildings</name>
+</text>
+
+<text>
+	<id>646</id>
+	<name>Lighter
+Locations: Firestations, garages.</name>
+</text>
+
+<text>
+	<id>647</id>
+	<name>Smoke Grenade
+Locations: Underground bunkers, Military Bases.</name>
+</text>
+
+<text>
+	<id>648</id>
+	<name>Laser Sight
+Locations: Underground bunkers, Military Bases.</name>
+</text>
+
+<text>
+	<id>649</id>
+	<name>Officer's keycard
+Locations: Carried by infected officers.</name>
+</text>
+
+<text>
+	<id>650</id>
+	<name>I need campfire, matches or lighter for it.</name>
+</text>
+
+<text>
+	<id>651</id>
+	<name>I cant sleep, i can skip rescue helicopter.</name>
+</text>
+
+<text>
+	<id>652</id>
+	<name>I cant go to bunker, i can skip rescue helicopter.</name>
+</text>
+
+<text>
+	<id>653</id>
+	<name>Hey! I'm Boris, welcome onboard!</name>
+</text>
+
+<text>
+	<id>654</id>
+	<name>Nadia, fly to the East, to 4316 signal.</name>
+</text>
+
+<text>
+	<id>655</id>
+	<name>You successfully escaped.</name>
+</text>
+
+<text>
+	<id>656</id>
+	<name>I need to return to the radio!</name>
+</text>
+
+<text>
+	<id>657</id>
+	<name>Unknown island #</name>
+</text>
+
+<text>
+	<id>658</id>
+	<name>Are you ready to use elevator? There is no way back.</name>
+</text>
+
+<text>
+	<id>659</id>
+	<name>This door requires "Officer's Keycard".</name>
+</text>
+
+<text>
+	<id>660</id>
+	<name>I need a plant for that.</name>
+</text>
+
+<text>
+	<id>661</id>
+	<name>Keyboard(WASD)</name>
+</text>
+
+<text>
+	<id>662</id>
+	<name>Thank you</name>
 </text>
 
 </list>

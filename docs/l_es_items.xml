@@ -270,7 +270,7 @@
 	</item>
 	<item>
 		<id>73</id>
-		<name>Mora</name>
+		<name>Mora silvestre</name>
 	</item>
 	<item>
 		<id>74</id>
@@ -808,7 +808,7 @@
 
 <item>
 	<id>102</id>
-	<name>Cóctel molotov</name>
+	<name>Molotov</name>
 </item>
 
 <item>
@@ -851,5 +851,176 @@
 	<name>Chaleco soviético</name>
 </item>
 
+<item>
+	<id>103</id>
+	<name>Pistola de bengalas</name>
+</item>
+
+<item>
+	<id>104</id>
+	<name>.308 Ammo</name>
+</item>
+
+<item>
+	<id>105</id>
+	<name>40mm Granada</name>
+</item>
+
+<item>
+	<id>106</id>
+	<name>VOG-25</name>
+</item>
+
+<item>
+	<id>107</id>
+	<name>M203</name>
+</item>
+
+<item>
+	<id>108</id>
+	<name>GP-25</name>
+</item>
+
+<item>
+	<id>109</id>
+	<name>IV kit</name>
+</item>
+
+<item>
+	<id>110</id>
+	<name>Piedra de afilar</name>
+</item>
+
+<item>
+	<id>111</id>
+	<name>AK Sujeción</name>
+</item>
+
+<item>
+	<id>112</id>
+	<name>Agarre de riel</name>
+</item>
+
+<item>
+	<id>113</id>
+	<name>Notas del mapa</name>
+</item>
+
+<item>
+	<id>114</id>
+	<name>Moras</name>
+</item>
+
+<item>
+	<id>115</id>
+	<name>Binoculares</name>
+</item>
+
+<item>
+	<id>116</id>
+	<name>Libro Scout</name>
+</item>
+
+<item>
+	<id>117</id>
+	<name>Lona</name>
+</item>
+
+
+<item>
+	<id>118</id>
+	<name>Yeso adhesivo</name>
+</item>
+
+<item>
+	<id>119</id>
+	<name>Granada de humo</name>
+</item>
+
+<item>
+	<id>120</id>
+	<name>Cigarrillos</name>
+</item>
+
+<item>
+	<id>121</id>
+	<name>Cerveza</name>
+</item>
+
+<item>
+	<id>122</id>
+	<name>Pegamento epóxico</name>
+</item>
+
+<item>
+	<id>123</id>
+	<name>Fertilizante</name>
+</item>
+
+<item>
+	<id>124</id>
+	<name>Mira láser</name>
+</item>
+
+<item>
+	<id>125</id>
+	<name>Encendedor</name>
+</item>
+
+<item>
+	<id>126</id>
+ <name>Tarjeta de acceso del oficial</name>
+</item>
+
+<!--Update 1.5.0 gear and weapons-->
+<item>
+	<id>366</id>
+	<name>Impresionante sudadera con capucha</name>
+</item>
+
+<item>
+	<id>406</id>
+	<name>Delantal</name>
+</item>
+
+<item>
+	<id>458</id>
+	<name>Cangurera</name>
+</item>
+
+<item>
+	<id>188</id>
+	<name>AN-94</name>
+</item>
+
+<item>
+	<id>189</id>
+	<name>Desert Eagle</name>
+</item>
+
+<item>
+	<id>190</id>
+	<name>Remington silenciado</name>
+</item>
+
+<item>
+	<id>191</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>192</id>
+	<name>Vector</name>
+</item>
+
+<item>
+	<id>211</id>
+	<name>Katana</name>
+</item>
+
+<item>
+	<id>268</id>
+	<name>Casco de piloto</name>
+</item>
 
 </list>

@@ -1,5 +1,4 @@
-cordova.define("cordova-plugin-file.fileSystemPaths", function(require, exports, module) {
-/*
+cordova.define("cordova-plugin-file.fileSystemPaths", function(require, exports, module) { /*
  *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -20,8 +19,8 @@ cordova.define("cordova-plugin-file.fileSystemPaths", function(require, exports,
  *
 */
 
-var exec = require('cordova/exec');
-var channel = require('cordova/channel');
+const exec = require('cordova/exec');
+const channel = require('cordova/channel');
 
 exports.file = {
     // Read-only directory where the application is installed.
@@ -52,15 +51,14 @@ exports.file = {
 };
 
 channel.waitForInitialization('onFileSystemPathsReady');
-channel.onCordovaReady.subscribe(function() {
-    function after(paths) {
-        for (var k in paths) {
+channel.onCordovaReady.subscribe(function () {
+    function after (paths) {
+        for (const k in paths) {
             exports.file[k] = paths[k];
         }
         channel.initializationComplete('onFileSystemPathsReady');
     }
     exec(after, null, 'File', 'requestAllPaths', []);
 });
-
 
 });

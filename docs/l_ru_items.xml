@@ -633,7 +633,7 @@
 		<id>364</id>
 		<name>Куртка охотник</name>
 	</item>
-		<item>
+	<item>
 		<id>365</id>
 		<name>Свитер</name>
 	</item>
@@ -931,7 +931,57 @@ Hello from Cannedbits
 	<name>Брезент</name>
 </item>
 
+<item>
+	<id>118</id>
+	<name>Пластырь</name>
+</item>
+
+<item>
+	<id>119</id>
+	<name>Дымовая граната</name>
+</item>
+
+<item>
+	<id>120</id>
+	<name>Сигареты</name>
+</item>
+
+<item>
+	<id>121</id>
+	<name>Пиво</name>
+</item>
+
+<item>
+	<id>122</id>
+	<name>Клей</name>
+</item>
+
+<item>
+	<id>123</id>
+	<name>Удобрение</name>
+</item>
+
+<item>
+	<id>124</id>
+	<name>ЛЦУ</name>
+</item>
+
+<item>
+	<id>125</id>
+	<name>Зажигалка</name>
+</item>
+
+<item>
+	<id>126</id>
+	<name>Ключ-карта Офицера</name>
+</item>
+
 <!--Update 1.5.0 gear and weapons-->
+
+<item>
+	<id>366</id>
+	<name>Кайфовый худи</name>
+</item>
 
 <item>
 	<id>406</id>
@@ -956,6 +1006,16 @@ Hello from Cannedbits
 <item>
 	<id>190</id>
 	<name>Инструмент Чигура</name>
+</item>
+
+<item>
+	<id>191</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>192</id>
+	<name>Vector</name>
 </item>
 
 <item>
