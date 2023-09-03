@@ -14,5 +14,5 @@ ___
   * https://minidayz.com/blog/mini-dayz-browser-version-will-no-longer-be-supported (bohemia stopped hosting)
 ## Mods
   * ### [Reloaded](https://discord.gg/CSktjeQWtC) by Kev3232
-  * ### Plus by Altero (Site down)
-    * Exported to apk by [meterpreter](https://github.com/MeterPreter57/), available on MiniDayZ discord server
+  * ### [Plus](https://discord.gg/CSktjeQWtC) by Altero
+    * Exported to apk by [meterpreter](https://github.com/MeterPreter57/)
