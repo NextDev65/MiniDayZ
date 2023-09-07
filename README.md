@@ -5,14 +5,14 @@
 [![Survivor](./survivor.png)](https://nextdev56.github.io/MiniDayZ/)
 
 ## Notes
-* Change controls from stick to tap/draw for PC
-* F11/Fullscreen before the game loads
-* Current build is Plus 1.2
+* Current build is **Plus 1.2**
+* You can change controls from stick to tap/draw (better for PC)
+* Try to F11/Fullscreen before the game loads
 
 ___
-## [Original](https://minidayz.com/home) by Bohemia Interactive
+## [Original](https://raw.githack.com/NextDev65/MiniDayZ/main/docs/index.html) by [Bohemia Interactive](https://minidayz.com/home)
   * https://minidayz.com/blog/mini-dayz-browser-version-will-no-longer-be-supported (bohemia stopped hosting)
 ## Mods
-  * ### [Reloaded](https://discord.gg/CSktjeQWtC) by Kev3232
-  * ### [Plus](https://discord.gg/CSktjeQWtC) by Altero
+  * ### [Reloaded](https://raw.githack.com/NextDev65/MiniDayZ/main/reloaded_docs/index.html) by [Kev3232](https://discord.gg/CSktjeQWtC)
+  * ### [Plus](https://nextdev65.github.io/MiniDayZ/) by [Altero](https://discord.gg/CSktjeQWtC)
     * Exported to apk by [meterpreter](https://github.com/MeterPreter57/)
