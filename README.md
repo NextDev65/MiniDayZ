@@ -10,7 +10,7 @@
 * Try to F11/Fullscreen before the game loads
 
 ___
-## [Original 1.4.1](https://raw.githack.com/NextDev65/MiniDayZ/main/docs/index.html) by [Bohemia Interactive](https://minidayz.com/home)
+## [Original 1.4.1](https://raw.githack.com/NextDev65/MiniDayZ/main/original_docs/index.html) by [Bohemia Interactive](https://minidayz.com/home)
   * https://minidayz.com/blog/mini-dayz-browser-version-will-no-longer-be-supported (bohemia stopped hosting)
 ## Mods
   * ### [Reloaded 1.1](https://raw.githack.com/NextDev65/MiniDayZ/main/reloaded_docs/index.html) by [Kev3232](https://discord.gg/CSktjeQWtC)
